@@ -1,0 +1,13 @@
+Given the following X post and its topic domain, suggest 2-4 relevant hashtags that are likely trending or commonly used.
+
+Rules:
+- Use popular, discoverable hashtags (not obscure ones)
+- Mix broad and specific hashtags
+- For AI topics: consider #AI, #LLM, #MachineLearning, #GenAI, #OpenAI, #Claude, #GPT, #DeepLearning, #AGI, #Tech
+- For Cricket topics: consider #Cricket, #IPL, #T20, #TestCricket, #CricketTwitter, #INDvAUS, team-specific tags
+- Keep total hashtag characters under 60
+
+Domain: {domain}
+Post: {post_text}
+
+Output ONLY the hashtags separated by spaces, nothing else.
