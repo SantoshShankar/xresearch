@@ -1,0 +1,71 @@
+name: XResearch Pipeline
+
+on:
+  schedule:
+    # Trend posts: every 6 hours
+    - cron: '0 */6 * * *'
+    # Paper digest: daily at 8am UTC (1am PST)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    inputs:
+      pipeline:
+        description: 'Which pipeline to run'
+        required: true
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - trends
+          - papers
+
+jobs:
+  trends:
+    if: >-
+      github.event_name == 'workflow_dispatch' && (inputs.pipeline == 'both' || inputs.pipeline == 'trends')
+      || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run trend posts pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CRICAPI_KEY: ${{ secrets.CRICAPI_KEY }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: PYTHONPATH=. python run_and_notify.py
+
+  papers:
+    if: >-
+      github.event_name == 'workflow_dispatch' && (inputs.pipeline == 'both' || inputs.pipeline == 'papers')
+      || github.event.schedule == '0 8 * * *'
+      || (github.event_name == 'workflow_dispatch' && inputs.pipeline == 'both')
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run paper digest pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: PYTHONPATH=. python run_papers.py
