@@ -11,6 +11,8 @@ from src.trends.aggregator import TrendAggregator
 from src.trends.ranker import rank_trends
 from src.content.generator import PostGenerator
 from src.publisher.imessage import send_posts_via_imessage
+from src.publisher.email_publisher import send_posts_email
+from src.publisher.telegram_publisher import send_posts_telegram
 
 logging.basicConfig(
     level=logging.INFO,
@@ -78,20 +80,28 @@ async def run():
         })
     logger.info("Saved %d posts to DB", len(post_dicts))
 
+    # Deliver via available channels
+    delivered = False
+
+    if send_posts_telegram(post_dicts):
+        delivered = True
+
+    if send_posts_email(post_dicts):
+        delivered = True
+
     recipient = IMESSAGE_RECIPIENT
-    if not recipient:
-        logger.warning("IMESSAGE_RECIPIENT not set — printing to stdout")
+    if recipient:
+        sent = send_posts_via_imessage(recipient, post_dicts)
+        if sent:
+            logger.info("Digest sent via iMessage to %s", recipient)
+            delivered = True
+
+    if not delivered:
+        logger.warning("No delivery method configured — printing to stdout")
         for i, post in enumerate(posts, 1):
             print(f"\n--- Post {i} [{post.trend.domain.value.upper()}] ---")
             print(f"{post.content}")
             print(f"{' '.join(post.hashtags)}")
-        return
-
-    sent = send_posts_via_imessage(recipient, post_dicts)
-    if sent:
-        logger.info("Digest sent to %s", recipient)
-    else:
-        logger.error("Failed to send digest")
 
 
 if __name__ == "__main__":

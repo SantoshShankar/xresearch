@@ -24,7 +24,7 @@ src/
 │   ├── base.py     # BaseTrendSource ABC + domain classifier
 │   ├── aggregator.py  # Concurrent fetch, dedup, balanced round-robin ranking
 │   ├── ranker.py   # Cosine similarity clustering + majority vote + recency boost
-│   ├── arxiv_deep.py  # Deep arXiv fetcher with Claude-as-judge ranking
+│   ├── arxiv_deep.py  # Multi-source paper fetcher (arXiv + HuggingFace daily) + Claude-as-judge ranking
 │   ├── google_trends.py, reddit_trends.py, news_trends.py
 │   ├── hackernews_trends.py, huggingface_trends.py
 │   ├── cricket_trends.py, rss_trends.py
@@ -37,7 +37,8 @@ src/
     ├── x_publisher.py  # X API posting via Tweepy (dev mode supported)
     └── imessage.py     # iMessage delivery via AppleScript
 
-tests/              # Test scripts
+tests/              # Test scripts + eval harness (eval_paper_ranking.py)
+plans/              # Improvement plans
 web.py              # FastAPI dashboard (localhost:8080)
 run_and_notify.py   # Trend posts pipeline: fetch → rank → generate → save → iMessage
 run_papers.py       # Paper pipeline: fetch → rank (Claude judge) → summarize → save → iMessage
@@ -68,13 +69,20 @@ Each team has its own `CLAUDE.md` with scope, interfaces, and conventions.
 | GNews | httpx | API key | Working (rate limited) |
 | Reddit | praw | Client ID/secret | Needs credentials |
 
+## Paper Retrieval
+
+Papers are fetched from multiple sources and deduped by arxiv ID:
+- **HuggingFace daily papers** (`huggingface.co/api/daily_papers`): curated social-signal source with upvotes — dominant retrieval signal
+- **arXiv broad scan** (`fetch_recent_arxiv`): category-based sweep across cs.AI/CL/LG/MA for configurable time window
+- **arXiv agentic queries** (`fetch_agentic_papers`): targeted abstract keyword search for agent-related papers
+
 ## Paper Ranking
 
-Papers are scored on a 0-16 scale:
-- **Claude judge** (0-10): rates novelty and impact from abstract
-- **Lab boost** (+3): papers from OpenAI, Anthropic, Meta, Google, Apple, DeepSeek, Microsoft
-- **Keyword boost** (+2): breakthrough language ("state-of-the-art", "novel", "outperforms")
-- **Agentic boost** (+1): papers about agentic AI
+Papers are scored on a 0-18 scale:
+- **Claude judge** (0-10): few-shot rubric scoring 4 dimensions (novelty, rigor, practical_impact, agent_relevance) — returns structured JSON, mean of 4 scores
+- **Social signal boost** (0-5): +4 for HuggingFace daily papers, +1 per additional curated source (capped at 5)
+- **Lab boost** (0-2): papers authored by top labs (matched against authors string only, word-boundary — no title/abstract false positives)
+- **Agentic boost** (+1): papers retrieved via agentic AI queries
 
 ## Running
 
@@ -115,8 +123,13 @@ PYTHONPATH=. python main.py
 - DB saves happen before iMessage delivery (so dashboard always has data)
 - Dev mode (`DEV_MODE=true`) prevents actual X posting
 
+## Eval Harness
+
+`tests/eval_paper_ranking.py` measures retrieval and ranking quality against a validation set of known-good papers (grounded by arxiv ID, not keywords). Supports `--quick` (skip Claude judge), `--baseline` (old pipeline), and `--week` flags. See `plans/paper_ranking_improvement.md` for the full improvement plan.
+
 ## TODO
 
 - Cron setup: trend posts every 6 hours, paper digest daily
 - RLHF-style feedback loop for paper ranking (user rates papers → improves future ranking)
 - Reddit integration (needs credentials)
+- Add more retrieval sources: alphaXiv trending, Papers With Code, HN arxiv links

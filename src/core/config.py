@@ -36,6 +36,15 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 # iMessage
 IMESSAGE_RECIPIENT = os.getenv("IMESSAGE_RECIPIENT", "")
 
+# Email (Gmail SMTP)
+EMAIL_SENDER = os.getenv("EMAIL_SENDER", "")
+EMAIL_APP_PASSWORD = os.getenv("EMAIL_APP_PASSWORD", "")
+EMAIL_RECIPIENT = os.getenv("EMAIL_RECIPIENT", "")
+
+# Telegram
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
+
 # Defaults
 DEFAULT_TREND_LIMIT = 10
 DEV_MODE = os.getenv("DEV_MODE", "true").lower() == "true"

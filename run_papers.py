@@ -4,11 +4,14 @@ import logging
 import os
 
 from src.trends.arxiv_deep import (
-    fetch_agentic_papers, fetch_trending_papers, rank_papers, ArxivPaper,
+    fetch_agentic_papers, fetch_recent_arxiv, fetch_huggingface_papers,
+    rank_papers, dedupe_by_id, ArxivPaper,
 )
 from src.core.db import save_paper_summary
 from src.content.paper_summarizer import PaperSummarizer
 from src.publisher.imessage import send_imessage
+from src.publisher.email_publisher import send_papers_email
+from src.publisher.telegram_publisher import send_papers_telegram
 
 logging.basicConfig(
     level=logging.INFO,
@@ -34,23 +37,27 @@ def dedupe_papers(papers: list[ArxivPaper]) -> list[ArxivPaper]:
 
 
 def main():
-    # 1. Fetch papers (cast a wide net)
+    # 1. Fetch papers from multiple sources (cast a wide net)
+    logger.info("Fetching HuggingFace daily papers...")
+    hf_papers = fetch_huggingface_papers(days=1)
+    logger.info("Found %d HF daily papers", len(hf_papers))
+
+    logger.info("Fetching recent arXiv papers (last 7 days)...")
+    recent = fetch_recent_arxiv(days=1, limit=500)
+    logger.info("Found %d recent arXiv papers", len(recent))
+
     logger.info("Fetching agentic AI papers...")
     agentic = fetch_agentic_papers(limit=15)
     logger.info("Found %d agentic papers", len(agentic))
 
-    logger.info("Fetching trending AI papers...")
-    trending = fetch_trending_papers(limit=15)
-    logger.info("Found %d trending papers", len(trending))
-
-    all_papers = dedupe_papers(agentic + trending)
-    logger.info("Total unique papers: %d", len(all_papers))
+    all_papers = dedupe_by_id(hf_papers + recent + agentic)
+    logger.info("Total unique papers after dedup: %d", len(all_papers))
 
     if not all_papers:
         logger.warning("No papers found")
         return
 
-    # 2. Rank by interestingness (Claude judge + lab boost + keywords)
+    # 2. Rank by interestingness (Claude judge + social signal + lab boost)
     logger.info("Ranking papers by interestingness...")
     top_papers = rank_papers(all_papers, top_k=5)
 
@@ -58,9 +65,9 @@ def main():
     for p in top_papers:
         bd = p.score_breakdown
         logger.info(
-            "  [%.1f] judge=%.0f lab=%.0f kw=%.0f agent=%.0f | %s",
-            p.interest_score, bd["claude_judge"], bd["lab_boost"],
-            bd["keyword_boost"], bd["agentic_boost"], p.title[:60],
+            "  [%.1f] judge=%.1f social=%.1f lab=%.0f agent=%.0f | %s",
+            p.interest_score, bd["claude_judge"], bd.get("social_signal", 0),
+            bd["lab_boost"], bd["agentic_boost"], p.title[:60],
         )
 
     # 3. Summarize top papers only
@@ -85,37 +92,46 @@ def main():
         )
     logger.info("Saved %d papers to DB", total)
 
-    if not RECIPIENT:
-        logger.warning("IMESSAGE_RECIPIENT not set — printing to stdout")
+    # Deliver via available channels
+    delivered = False
+
+    if send_papers_telegram(summaries):
+        delivered = True
+
+    if send_papers_email(summaries):
+        delivered = True
+
+    # iMessage (macOS only)
+    if RECIPIENT:
+        sent = 0
+        for i, (paper, summary) in enumerate(summaries, 1):
+            tag = "🤖 AGENTIC AI" if paper.is_agentic else "📄 TRENDING AI"
+            score = paper.interest_score
+
+            lines = [
+                f"[{i}/{total}] {tag} — Score: {score:.1f}/18",
+                "",
+                f"📑 {paper.title}",
+                f"👥 {', '.join(paper.authors[:3])}",
+                "",
+                summary,
+                "",
+                f"🔗 {paper.url}",
+            ]
+            message = "\n".join(lines)
+
+            if send_imessage(RECIPIENT, message):
+                sent += 1
+        logger.info("Sent %d/%d paper summaries via iMessage to %s", sent, total, RECIPIENT)
+        delivered = True
+
+    if not delivered:
+        logger.warning("No delivery method configured — printing to stdout")
         for paper, summary in summaries:
             tag = "🤖 AGENTIC" if paper.is_agentic else "📄 AI"
             print(f"\n{tag} (score: {paper.interest_score:.1f}): {paper.title}")
             print(f"{summary}")
             print(f"🔗 {paper.url}")
-        return
-
-    sent = 0
-    for i, (paper, summary) in enumerate(summaries, 1):
-        tag = "🤖 AGENTIC AI" if paper.is_agentic else "📄 TRENDING AI"
-        score = paper.interest_score
-        bd = paper.score_breakdown
-
-        lines = [
-            f"[{i}/{total}] {tag} — Score: {score:.1f}/16",
-            "",
-            f"📑 {paper.title}",
-            f"👥 {', '.join(paper.authors[:3])}",
-            "",
-            summary,
-            "",
-            f"🔗 {paper.url}",
-        ]
-        message = "\n".join(lines)
-
-        if send_imessage(RECIPIENT, message):
-            sent += 1
-
-    logger.info("Sent %d/%d paper summaries to %s", sent, total, RECIPIENT)
 
 
 if __name__ == "__main__":
