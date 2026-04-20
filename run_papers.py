@@ -38,12 +38,12 @@ def dedupe_papers(papers: list[ArxivPaper]) -> list[ArxivPaper]:
 
 def main():
     # 1. Fetch papers from multiple sources (cast a wide net)
-    logger.info("Fetching HuggingFace daily papers...")
-    hf_papers = fetch_huggingface_papers(days=1)
+    logger.info("Fetching HuggingFace daily papers (last 2 days)...")
+    hf_papers = fetch_huggingface_papers(days=2)
     logger.info("Found %d HF daily papers", len(hf_papers))
 
-    logger.info("Fetching recent arXiv papers (last 7 days)...")
-    recent = fetch_recent_arxiv(days=1, limit=500)
+    logger.info("Fetching recent arXiv papers (last 36 hours)...")
+    recent = fetch_recent_arxiv(days=2, limit=500)
     logger.info("Found %d recent arXiv papers", len(recent))
 
     logger.info("Fetching agentic AI papers...")

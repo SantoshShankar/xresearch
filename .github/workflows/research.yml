@@ -22,7 +22,7 @@ jobs:
   trends:
     if: >-
       github.event_name == 'workflow_dispatch' && (inputs.pipeline == 'both' || inputs.pipeline == 'trends')
-      || github.event_name == 'schedule'
+      || github.event.schedule == '0 */6 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -49,7 +49,6 @@ jobs:
     if: >-
       github.event_name == 'workflow_dispatch' && (inputs.pipeline == 'both' || inputs.pipeline == 'papers')
       || github.event.schedule == '0 8 * * *'
-      || (github.event_name == 'workflow_dispatch' && inputs.pipeline == 'both')
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
