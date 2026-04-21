@@ -385,29 +385,51 @@ def _dedup_boost(paper: ArxivPaper, history: dict) -> float:
 def rank_papers(papers: list[ArxivPaper], top_k: int = 5, history: dict | None = None) -> list[ArxivPaper]:
     """Score and rank papers by interestingness.
 
+    Two-pass ranking to avoid calling Claude judge on 500+ papers:
+      1. Pre-filter using cheap signals (social, lab, agentic, dedup) → keep top 30
+      2. Score shortlist with Claude judge → final ranking
+
     Final score = claude_judge (0-10) + social_signal (0-5) + lab_boost (0-2) + agentic_boost (0-1) + dedup
     Max possible: 18 (dedup can subtract 10 for recently-sent papers)
     """
+    SHORTLIST_SIZE = 30
+
+    # Pass 1: cheap signals only — no API calls
     for paper in papers:
-        judge = _claude_judge_score(paper)
         social = _social_signal_boost(paper)
         lab = _lab_boost(paper)
         agentic = 1.0 if paper.is_agentic else 0.0
         dedup = _dedup_boost(paper, history) if history is not None else 0.0
 
-        paper.interest_score = judge + social + lab + agentic + dedup
+        paper.interest_score = social + lab + agentic + dedup
         paper.score_breakdown.update({
-            "claude_judge": judge,
             "social_signal": social,
             "lab_boost": lab,
             "agentic_boost": agentic,
             "dedup_boost": dedup,
+        })
+
+    papers.sort(key=lambda p: p.interest_score, reverse=True)
+    shortlist = papers[:SHORTLIST_SIZE]
+    logger.info("Pre-filtered %d → %d candidates for Claude judge", len(papers), len(shortlist))
+
+    # Pass 2: Claude judge on shortlist only
+    for paper in shortlist:
+        judge = _claude_judge_score(paper)
+        paper.interest_score += judge
+        paper.score_breakdown.update({
+            "claude_judge": judge,
             "total": paper.interest_score,
         })
         logger.info(
             "Paper: %.50s | judge=%.1f social=%.1f lab=%.1f agent=%.0f dedup=%.0f | total=%.1f",
-            paper.title, judge, social, lab, agentic, dedup, paper.interest_score,
+            paper.title, judge,
+            paper.score_breakdown.get("social_signal", 0),
+            paper.score_breakdown.get("lab_boost", 0),
+            paper.score_breakdown.get("agentic_boost", 0),
+            paper.score_breakdown.get("dedup_boost", 0),
+            paper.interest_score,
         )
 
-    papers.sort(key=lambda p: p.interest_score, reverse=True)
-    return papers[:top_k]
+    shortlist.sort(key=lambda p: p.interest_score, reverse=True)
+    return shortlist[:top_k]
