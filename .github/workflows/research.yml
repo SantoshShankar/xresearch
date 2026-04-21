@@ -25,6 +25,7 @@ jobs:
       || github.event.schedule == '0 */6 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    continue-on-error: true
     permissions:
       contents: write
       pages: write
@@ -66,9 +67,12 @@ jobs:
           publish_dir: ./site
 
   papers:
+    needs: [trends]
     if: >-
-      github.event_name == 'workflow_dispatch' && (inputs.pipeline == 'both' || inputs.pipeline == 'papers')
-      || github.event.schedule == '0 8 * * *'
+      always() && (
+        github.event_name == 'workflow_dispatch' && (inputs.pipeline == 'both' || inputs.pipeline == 'papers')
+        || github.event.schedule == '0 8 * * *'
+      )
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -84,6 +88,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Pull latest changes
+        run: git pull --rebase origin main
 
       - name: Run paper digest pipeline
         env:
