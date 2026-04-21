@@ -1,5 +1,36 @@
 {
-  "papers": [],
+  "papers": [
+    {
+      "arxiv_id": "2604.18292",
+      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+      "score": 13.25,
+      "sent_at": "2026-04-21T09:17:36.624144+00:00"
+    },
+    {
+      "arxiv_id": "2604.18543",
+      "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
+      "score": 12.75,
+      "sent_at": "2026-04-21T09:17:36.624160+00:00"
+    },
+    {
+      "arxiv_id": "2604.18486",
+      "title": "OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation",
+      "score": 12.5,
+      "sent_at": "2026-04-21T09:17:36.624165+00:00"
+    },
+    {
+      "arxiv_id": "2604.17308",
+      "title": "SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents",
+      "score": 12.5,
+      "sent_at": "2026-04-21T09:17:36.624169+00:00"
+    },
+    {
+      "arxiv_id": "2604.18224",
+      "title": "WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models",
+      "score": 12.25,
+      "sent_at": "2026-04-21T09:17:36.624172+00:00"
+    }
+  ],
   "posts": [
     {
       "trend_title": "Thoughts and feelings around Claude Design",
