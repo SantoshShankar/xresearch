@@ -1,4 +1,30 @@
 {
   "papers": [],
-  "posts": []
+  "posts": [
+    {
+      "trend_title": "Thoughts and feelings around Claude Design",
+      "domain": "ai",
+      "sent_at": "2026-04-21T04:25:31.807923+00:00"
+    },
+    {
+      "trend_title": "Atlassian enables default data collection to train AI",
+      "domain": "ai",
+      "sent_at": "2026-04-21T04:25:31.807950+00:00"
+    },
+    {
+      "trend_title": "College instructor turns to typewriters to curb AI-written work",
+      "domain": "ai",
+      "sent_at": "2026-04-21T04:25:31.807958+00:00"
+    },
+    {
+      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
+      "domain": "cricket",
+      "sent_at": "2026-04-21T04:25:31.807964+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
+      "domain": "cricket",
+      "sent_at": "2026-04-21T04:25:31.807970+00:00"
+    }
+  ]
 }
