@@ -8,6 +8,7 @@ from src.trends.arxiv_deep import (
     rank_papers, dedupe_by_id, ArxivPaper,
 )
 from src.core.db import save_paper_summary
+from src.core.history import load_history, save_history, record_paper
 from src.content.paper_summarizer import PaperSummarizer
 from src.publisher.imessage import send_imessage
 from src.publisher.email_publisher import send_papers_email
@@ -37,6 +38,10 @@ def dedupe_papers(papers: list[ArxivPaper]) -> list[ArxivPaper]:
 
 
 def main():
+    # Load history for dedup
+    history = load_history()
+    logger.info("Loaded history: %d papers, %d posts", len(history["papers"]), len(history["posts"]))
+
     # 1. Fetch papers from multiple sources (cast a wide net)
     logger.info("Fetching HuggingFace daily papers (last 2 days)...")
     hf_papers = fetch_huggingface_papers(days=2)
@@ -57,9 +62,9 @@ def main():
         logger.warning("No papers found")
         return
 
-    # 2. Rank by interestingness (Claude judge + social signal + lab boost)
+    # 2. Rank by interestingness (Claude judge + social signal + lab boost + dedup)
     logger.info("Ranking papers by interestingness...")
-    top_papers = rank_papers(all_papers, top_k=5)
+    top_papers = rank_papers(all_papers, top_k=5, history=history)
 
     logger.info("Top %d papers selected:", len(top_papers))
     for p in top_papers:
@@ -132,6 +137,13 @@ def main():
             print(f"\n{tag} (score: {paper.interest_score:.1f}): {paper.title}")
             print(f"{summary}")
             print(f"🔗 {paper.url}")
+
+    # Record sent papers in history for dedup across runs
+    for paper, _summary in summaries:
+        arxiv_id = paper.arxiv_id or ""
+        record_paper(arxiv_id, paper.title, paper.interest_score, history)
+    save_history(history)
+    logger.info("Updated history with %d new papers", len(summaries))
 
 
 if __name__ == "__main__":

@@ -7,6 +7,7 @@ import sys
 
 from src.core.models import TopicDomain, PostType
 from src.core.db import save_post
+from src.core.history import load_history, save_history, record_post
 from src.trends.aggregator import TrendAggregator
 from src.trends.ranker import rank_trends
 from src.content.generator import PostGenerator
@@ -24,6 +25,10 @@ IMESSAGE_RECIPIENT = os.getenv("IMESSAGE_RECIPIENT", "")
 
 
 async def run():
+    # Load history for dedup tracking
+    history = load_history()
+    logger.info("Loaded history: %d papers, %d posts", len(history["papers"]), len(history["posts"]))
+
     # 1. Fetch trends
     logger.info("Fetching trends...")
     aggregator = TrendAggregator()
@@ -102,6 +107,12 @@ async def run():
             print(f"\n--- Post {i} [{post.trend.domain.value.upper()}] ---")
             print(f"{post.content}")
             print(f"{' '.join(post.hashtags)}")
+
+    # Record sent posts in history for dedup across runs
+    for p in posts:
+        record_post(p.trend.title, p.trend.domain.value, history)
+    save_history(history)
+    logger.info("Updated history with %d new posts", len(posts))
 
 
 if __name__ == "__main__":

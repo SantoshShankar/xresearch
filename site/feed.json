@@ -1,0 +1,29 @@
+{
+  "updated": "2026-04-21T04:04:08.494704+00:00",
+  "papers": [
+    {
+      "arxiv_id": "2604.06425",
+      "title": "Agentic Memory Planning for LLMs",
+      "score": 12.8,
+      "sent_at": "2026-04-21T04:04:08.494374+00:00"
+    },
+    {
+      "arxiv_id": "2604.07001",
+      "title": "Scaling Laws for Tool Use",
+      "score": 11.2,
+      "sent_at": "2026-04-21T04:04:08.494470+00:00"
+    }
+  ],
+  "posts": [
+    {
+      "trend_title": "GPT-5 Released",
+      "domain": "ai",
+      "sent_at": "2026-04-21T04:04:08.494473+00:00"
+    },
+    {
+      "trend_title": "IPL 2026 Final",
+      "domain": "cricket",
+      "sent_at": "2026-04-21T04:04:08.494475+00:00"
+    }
+  ]
+}

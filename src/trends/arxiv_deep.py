@@ -372,29 +372,41 @@ def _claude_judge_score(paper: ArxivPaper) -> float:
     return 5.0
 
 
-def rank_papers(papers: list[ArxivPaper], top_k: int = 5) -> list[ArxivPaper]:
+def _dedup_boost(paper: ArxivPaper, history: dict) -> float:
+    """Return -10.0 if the paper was sent in the last 7 days, else 0.0."""
+    from src.core.history import is_paper_sent_recently
+
+    arxiv_id = paper.arxiv_id or _normalize_arxiv_id(paper.url)
+    if arxiv_id and is_paper_sent_recently(arxiv_id, history, days=7):
+        return -10.0
+    return 0.0
+
+
+def rank_papers(papers: list[ArxivPaper], top_k: int = 5, history: dict | None = None) -> list[ArxivPaper]:
     """Score and rank papers by interestingness.
 
-    Final score = claude_judge (0-10) + social_signal (0-5) + lab_boost (0-2) + agentic_boost (0-1)
-    Max possible: 18
+    Final score = claude_judge (0-10) + social_signal (0-5) + lab_boost (0-2) + agentic_boost (0-1) + dedup
+    Max possible: 18 (dedup can subtract 10 for recently-sent papers)
     """
     for paper in papers:
         judge = _claude_judge_score(paper)
         social = _social_signal_boost(paper)
         lab = _lab_boost(paper)
         agentic = 1.0 if paper.is_agentic else 0.0
+        dedup = _dedup_boost(paper, history) if history is not None else 0.0
 
-        paper.interest_score = judge + social + lab + agentic
+        paper.interest_score = judge + social + lab + agentic + dedup
         paper.score_breakdown.update({
             "claude_judge": judge,
             "social_signal": social,
             "lab_boost": lab,
             "agentic_boost": agentic,
+            "dedup_boost": dedup,
             "total": paper.interest_score,
         })
         logger.info(
-            "Paper: %.50s | judge=%.1f social=%.1f lab=%.1f agent=%.0f | total=%.1f",
-            paper.title, judge, social, lab, agentic, paper.interest_score,
+            "Paper: %.50s | judge=%.1f social=%.1f lab=%.1f agent=%.0f dedup=%.0f | total=%.1f",
+            paper.title, judge, social, lab, agentic, dedup, paper.interest_score,
         )
 
     papers.sort(key=lambda p: p.interest_score, reverse=True)

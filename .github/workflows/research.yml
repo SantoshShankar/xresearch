@@ -25,6 +25,9 @@ jobs:
       || github.event.schedule == '0 */6 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
+      pages: write
     steps:
       - uses: actions/checkout@v4
 
@@ -45,12 +48,32 @@ jobs:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: PYTHONPATH=. python run_and_notify.py
 
+      - name: Generate dashboard
+        run: PYTHONPATH=. python generate_site.py
+
+      - name: Commit history and site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add db/history.json site/
+          git diff --cached --quiet || git commit -m "Update history and dashboard [skip ci]"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+
   papers:
     if: >-
       github.event_name == 'workflow_dispatch' && (inputs.pipeline == 'both' || inputs.pipeline == 'papers')
       || github.event.schedule == '0 8 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    permissions:
+      contents: write
+      pages: write
     steps:
       - uses: actions/checkout@v4
 
@@ -68,3 +91,20 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: PYTHONPATH=. python run_papers.py
+
+      - name: Generate dashboard
+        run: PYTHONPATH=. python generate_site.py
+
+      - name: Commit history and site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add db/history.json site/
+          git diff --cached --quiet || git commit -m "Update history and dashboard [skip ci]"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
