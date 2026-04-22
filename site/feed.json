@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T19:22:41.975000+00:00",
+  "updated": "2026-04-22T03:27:05.045817+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -152,6 +152,31 @@
       "trend_title": "Cyprus Women vs Greece Women, 4th T20I, Greece Women tour of Cyprus, 2026 — Cyprus Women opt to bat",
       "domain": "cricket",
       "sent_at": "2026-04-21T19:22:41.693905+00:00"
+    },
+    {
+      "trend_title": "Atlassian enables default data collection to train AI",
+      "domain": "ai",
+      "sent_at": "2026-04-22T03:27:04.773309+00:00"
+    },
+    {
+      "trend_title": "ChatGPT Images 2.0",
+      "domain": "ai",
+      "sent_at": "2026-04-22T03:27:04.773330+00:00"
+    },
+    {
+      "trend_title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "domain": "ai",
+      "sent_at": "2026-04-22T03:27:04.773334+00:00"
+    },
+    {
+      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
+      "domain": "cricket",
+      "sent_at": "2026-04-22T03:27:04.773338+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
+      "domain": "cricket",
+      "sent_at": "2026-04-22T03:27:04.773341+00:00"
     }
   ]
 }
