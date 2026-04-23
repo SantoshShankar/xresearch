@@ -59,6 +59,36 @@
       "title": "MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge",
       "score": 12.25,
       "sent_at": "2026-04-22T09:11:36.816419+00:00"
+    },
+    {
+      "arxiv_id": "2604.20779",
+      "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
+      "score": 13.5,
+      "sent_at": "2026-04-23T09:18:13.594088+00:00"
+    },
+    {
+      "arxiv_id": "2604.16529",
+      "title": "Scaling Test-Time Compute for Agentic Coding",
+      "score": 12.75,
+      "sent_at": "2026-04-23T09:18:13.594104+00:00"
+    },
+    {
+      "arxiv_id": "2604.11610",
+      "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
+      "score": 12.5,
+      "sent_at": "2026-04-23T09:18:13.594109+00:00"
+    },
+    {
+      "arxiv_id": "2604.18982",
+      "title": "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution",
+      "score": 12.25,
+      "sent_at": "2026-04-23T09:18:13.594112+00:00"
+    },
+    {
+      "arxiv_id": "2604.18805",
+      "title": "AI scientists produce results without reasoning scientifically",
+      "score": 12.25,
+      "sent_at": "2026-04-23T09:18:13.594116+00:00"
     }
   ],
   "posts": [
