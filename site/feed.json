@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T19:23:20.993377+00:00",
+  "updated": "2026-04-24T03:32:59.397398+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -412,6 +412,31 @@
       "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
       "domain": "cricket",
       "sent_at": "2026-04-23T19:23:20.727789+00:00"
+    },
+    {
+      "trend_title": "GPT-5.5",
+      "domain": "ai",
+      "sent_at": "2026-04-24T03:32:58.991629+00:00"
+    },
+    {
+      "trend_title": "ChatGPT Images 2.0",
+      "domain": "ai",
+      "sent_at": "2026-04-24T03:32:58.991658+00:00"
+    },
+    {
+      "trend_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "domain": "ai",
+      "sent_at": "2026-04-24T03:32:58.991666+00:00"
+    },
+    {
+      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
+      "domain": "cricket",
+      "sent_at": "2026-04-24T03:32:58.991673+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
+      "domain": "cricket",
+      "sent_at": "2026-04-24T03:32:58.991679+00:00"
     }
   ]
 }
