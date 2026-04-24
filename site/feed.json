@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T08:15:00.881864+00:00",
+  "updated": "2026-04-24T09:22:55.969881+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -90,6 +90,36 @@
       "title": "AI scientists produce results without reasoning scientifically",
       "score": 12.25,
       "sent_at": "2026-04-23T09:18:13.594116+00:00"
+    },
+    {
+      "arxiv_id": "2604.19572",
+      "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
+      "score": 13.0,
+      "sent_at": "2026-04-24T09:22:55.849325+00:00"
+    },
+    {
+      "arxiv_id": "2604.21375",
+      "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
+      "score": 12.5,
+      "sent_at": "2026-04-24T09:22:55.849342+00:00"
+    },
+    {
+      "arxiv_id": "2604.15093",
+      "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
+      "score": 12.5,
+      "sent_at": "2026-04-24T09:22:55.849348+00:00"
+    },
+    {
+      "arxiv_id": "2604.21686",
+      "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
+      "score": 12.25,
+      "sent_at": "2026-04-24T09:22:55.849353+00:00"
+    },
+    {
+      "arxiv_id": "2604.19734",
+      "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+      "score": 12.25,
+      "sent_at": "2026-04-24T09:22:55.849358+00:00"
     }
   ],
   "posts": [
