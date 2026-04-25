@@ -119,6 +119,36 @@
       "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
       "score": 12.25,
       "sent_at": "2026-04-24T09:22:55.849358+00:00"
+    },
+    {
+      "arxiv_id": "2604.20987",
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "score": 12.0,
+      "sent_at": "2026-04-25T08:41:18.847022+00:00"
+    },
+    {
+      "arxiv_id": "2604.20398",
+      "title": "WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning",
+      "score": 12.0,
+      "sent_at": "2026-04-25T08:41:18.847038+00:00"
+    },
+    {
+      "arxiv_id": "2604.08645",
+      "title": "3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding",
+      "score": 12.0,
+      "sent_at": "2026-04-25T08:41:18.847043+00:00"
+    },
+    {
+      "arxiv_id": "2604.21921",
+      "title": "Context Unrolling in Omni Models",
+      "score": 11.75,
+      "sent_at": "2026-04-25T08:41:18.847046+00:00"
+    },
+    {
+      "arxiv_id": "2604.20244",
+      "title": "Hybrid Policy Distillation for LLMs",
+      "score": 11.25,
+      "sent_at": "2026-04-25T08:41:18.847050+00:00"
     }
   ],
   "posts": [
