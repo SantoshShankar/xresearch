@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T08:41:18.975753+00:00",
+  "updated": "2026-04-25T13:20:41.013934+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -622,6 +622,31 @@
       "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
       "domain": "cricket",
       "sent_at": "2026-04-25T07:39:54.596475+00:00"
+    },
+    {
+      "trend_title": "Google plans to invest up to $40B in Anthropic",
+      "domain": "ai",
+      "sent_at": "2026-04-25T13:20:40.754635+00:00"
+    },
+    {
+      "trend_title": "ChatGPT Images 2.0",
+      "domain": "ai",
+      "sent_at": "2026-04-25T13:20:40.754660+00:00"
+    },
+    {
+      "trend_title": "An update on recent Claude Code quality reports",
+      "domain": "ai",
+      "sent_at": "2026-04-25T13:20:40.754666+00:00"
+    },
+    {
+      "trend_title": "Nepal vs United Arab Emirates, 98th Match, ICC Cricket World Cup League Two 2023-27 — Nepal won by 37 runs",
+      "domain": "cricket",
+      "sent_at": "2026-04-25T13:20:40.754672+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
+      "domain": "cricket",
+      "sent_at": "2026-04-25T13:20:40.754677+00:00"
     }
   ]
 }
