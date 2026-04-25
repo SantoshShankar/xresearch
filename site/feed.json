@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T19:04:10.732206+00:00",
+  "updated": "2026-04-25T03:17:38.385376+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -542,6 +542,31 @@
       "trend_title": "Rwanda Women vs Nepal Women, 7th Match, ICC Womens T20I Challenge Trophy 2026 — Nepal Women won by 2 wkts",
       "domain": "cricket",
       "sent_at": "2026-04-24T19:04:10.394822+00:00"
+    },
+    {
+      "trend_title": "ChatGPT Images 2.0",
+      "domain": "ai",
+      "sent_at": "2026-04-25T03:17:38.080142+00:00"
+    },
+    {
+      "trend_title": "An update on recent Claude Code quality reports",
+      "domain": "ai",
+      "sent_at": "2026-04-25T03:17:38.080166+00:00"
+    },
+    {
+      "trend_title": "GPT-5.5",
+      "domain": "ai",
+      "sent_at": "2026-04-25T03:17:38.080173+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs Nepal Women, 7th Match, ICC Womens T20I Challenge Trophy 2026 — Nepal Women won by 2 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-04-25T03:17:38.080178+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
+      "domain": "cricket",
+      "sent_at": "2026-04-25T03:17:38.080183+00:00"
     }
   ]
 }
