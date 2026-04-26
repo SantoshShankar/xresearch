@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T07:50:07.895661+00:00",
+  "updated": "2026-04-26T08:48:54.518837+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -150,6 +150,36 @@
       "title": "Hybrid Policy Distillation for LLMs",
       "score": 11.25,
       "sent_at": "2026-04-25T08:41:18.847050+00:00"
+    },
+    {
+      "arxiv_id": "2604.20801",
+      "title": "Synthesizing Multi-Agent Harnesses for Vulnerability Discovery",
+      "score": 10.0,
+      "sent_at": "2026-04-26T08:48:54.380601+00:00"
+    },
+    {
+      "arxiv_id": "2604.19638",
+      "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
+      "score": 9.75,
+      "sent_at": "2026-04-26T08:48:54.380617+00:00"
+    },
+    {
+      "arxiv_id": "2604.21590",
+      "title": "AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use",
+      "score": 9.5,
+      "sent_at": "2026-04-26T08:48:54.380621+00:00"
+    },
+    {
+      "arxiv_id": "2604.20994",
+      "title": "Breaking MCP with Function Hijacking Attacks: Novel Threats for Function Calling and Agentic Models",
+      "score": 9.25,
+      "sent_at": "2026-04-26T08:48:54.380625+00:00"
+    },
+    {
+      "arxiv_id": "2604.21232",
+      "title": "ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures",
+      "score": 9.0,
+      "sent_at": "2026-04-26T08:48:54.380629+00:00"
     }
   ],
   "posts": [
