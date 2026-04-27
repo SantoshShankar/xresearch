@@ -179,6 +179,36 @@
       "title": "ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures",
       "score": 9.0,
       "sent_at": "2026-04-26T08:48:54.380629+00:00"
+    },
+    {
+      "arxiv_id": "2604.22294",
+      "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
+      "score": 12.75,
+      "sent_at": "2026-04-27T10:04:39.943088+00:00"
+    },
+    {
+      "arxiv_id": "2604.22436",
+      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+      "score": 12.75,
+      "sent_at": "2026-04-27T10:04:39.943104+00:00"
+    },
+    {
+      "arxiv_id": "2604.22152",
+      "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
+      "score": 12.0,
+      "sent_at": "2026-04-27T10:04:39.943107+00:00"
+    },
+    {
+      "arxiv_id": "2604.22565",
+      "title": "Learning Evidence Highlighting for Frozen LLMs",
+      "score": 12.0,
+      "sent_at": "2026-04-27T10:04:39.943109+00:00"
+    },
+    {
+      "arxiv_id": "2604.18519",
+      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
+      "score": 11.25,
+      "sent_at": "2026-04-27T10:04:39.943111+00:00"
     }
   ],
   "posts": [
