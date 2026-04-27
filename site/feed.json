@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T19:06:00.153893+00:00",
+  "updated": "2026-04-27T03:43:23.492612+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -802,6 +802,31 @@
       "trend_title": "Nepal Women vs Vanuatu Women, 9th Match, ICC Womens T20I Challenge Trophy 2026 — Vanuatu Women won by 22 runs",
       "domain": "cricket",
       "sent_at": "2026-04-26T19:05:59.878181+00:00"
+    },
+    {
+      "trend_title": "GPT-5.5",
+      "domain": "ai",
+      "sent_at": "2026-04-27T03:43:23.211142+00:00"
+    },
+    {
+      "trend_title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "domain": "ai",
+      "sent_at": "2026-04-27T03:43:23.211166+00:00"
+    },
+    {
+      "trend_title": "An AI agent deleted our production database. The agent's confession is below",
+      "domain": "ai",
+      "sent_at": "2026-04-27T03:43:23.211174+00:00"
+    },
+    {
+      "trend_title": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 8 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-04-27T03:43:23.211180+00:00"
+    },
+    {
+      "trend_title": "Nepal Women vs Vanuatu Women, 9th Match, ICC Womens T20I Challenge Trophy 2026 — Vanuatu Women won by 22 runs",
+      "domain": "cricket",
+      "sent_at": "2026-04-27T03:43:23.211185+00:00"
     }
   ]
 }
