@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T10:05:55.152142+00:00",
+  "updated": "2026-04-28T14:31:02.866505+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -1012,6 +1012,31 @@
       "trend_title": "Rwanda Women vs Vanuatu Women, 11th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 3 runs",
       "domain": "cricket",
       "sent_at": "2026-04-28T08:35:17.855523+00:00"
+    },
+    {
+      "trend_title": "GPT-5.5",
+      "domain": "ai",
+      "sent_at": "2026-04-28T14:31:02.553554+00:00"
+    },
+    {
+      "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "domain": "ai",
+      "sent_at": "2026-04-28T14:31:02.553578+00:00"
+    },
+    {
+      "trend_title": "AI should elevate your thinking, not replace it",
+      "domain": "ai",
+      "sent_at": "2026-04-28T14:31:02.553585+00:00"
+    },
+    {
+      "trend_title": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 8 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-04-28T14:31:02.553590+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-04-28T14:31:02.553596+00:00"
     }
   ]
 }
