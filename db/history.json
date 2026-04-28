@@ -209,6 +209,36 @@
       "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
       "score": 11.25,
       "sent_at": "2026-04-27T10:04:39.943111+00:00"
+    },
+    {
+      "arxiv_id": "2604.23781",
+      "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
+      "score": 13.0,
+      "sent_at": "2026-04-28T10:05:55.018971+00:00"
+    },
+    {
+      "arxiv_id": "2604.24479",
+      "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
+      "score": 12.75,
+      "sent_at": "2026-04-28T10:05:55.018984+00:00"
+    },
+    {
+      "arxiv_id": "2604.21480",
+      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+      "score": 12.5,
+      "sent_at": "2026-04-28T10:05:55.018987+00:00"
+    },
+    {
+      "arxiv_id": "2604.22085",
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "score": 12.5,
+      "sent_at": "2026-04-28T10:05:55.018990+00:00"
+    },
+    {
+      "arxiv_id": "2604.20012",
+      "title": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
+      "score": 12.25,
+      "sent_at": "2026-04-28T10:05:55.019020+00:00"
     }
   ],
   "posts": [
