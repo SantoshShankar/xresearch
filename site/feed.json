@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T19:42:55.188528+00:00",
+  "updated": "2026-04-28T03:50:11.428828+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -932,6 +932,31 @@
       "trend_title": "Italy Women vs United States of America Women, 10th Match, ICC Womens T20I Challenge Trophy 2026 — United States of America Women won by 72 runs",
       "domain": "cricket",
       "sent_at": "2026-04-27T19:42:54.911952+00:00"
+    },
+    {
+      "trend_title": "China blocks Meta's acquisition of AI startup Manus",
+      "domain": "ai",
+      "sent_at": "2026-04-28T03:50:11.137385+00:00"
+    },
+    {
+      "trend_title": "GPT-5.5",
+      "domain": "ai",
+      "sent_at": "2026-04-28T03:50:11.137413+00:00"
+    },
+    {
+      "trend_title": "An AI agent deleted our production database. The agent's confession is below",
+      "domain": "ai",
+      "sent_at": "2026-04-28T03:50:11.137421+00:00"
+    },
+    {
+      "trend_title": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 8 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-04-28T03:50:11.137428+00:00"
+    },
+    {
+      "trend_title": "Italy Women vs United States of America Women, 10th Match, ICC Womens T20I Challenge Trophy 2026 — United States of America Women won by 72 runs",
+      "domain": "cricket",
+      "sent_at": "2026-04-28T03:50:11.137434+00:00"
     }
   ]
 }
