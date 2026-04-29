@@ -239,6 +239,36 @@
       "title": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
       "score": 12.25,
       "sent_at": "2026-04-28T10:05:55.019020+00:00"
+    },
+    {
+      "arxiv_id": "2604.24005",
+      "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
+      "score": 13.0,
+      "sent_at": "2026-04-29T09:57:10.918251+00:00"
+    },
+    {
+      "arxiv_id": "2604.24441",
+      "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
+      "score": 12.75,
+      "sent_at": "2026-04-29T09:57:10.918269+00:00"
+    },
+    {
+      "arxiv_id": "2604.25914",
+      "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+      "score": 12.5,
+      "sent_at": "2026-04-29T09:57:10.918274+00:00"
+    },
+    {
+      "arxiv_id": "2604.25727",
+      "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
+      "score": 12.5,
+      "sent_at": "2026-04-29T09:57:10.918277+00:00"
+    },
+    {
+      "arxiv_id": "2604.23941",
+      "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
+      "score": 12.5,
+      "sent_at": "2026-04-29T09:57:10.918282+00:00"
     }
   ],
   "posts": [
