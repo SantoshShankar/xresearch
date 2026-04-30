@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T14:13:34.957863+00:00",
+  "updated": "2026-04-30T19:43:08.466220+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -1297,6 +1297,31 @@
       "trend_title": "United States of America Women vs Vanuatu Women, 14th Match, ICC Womens T20I Challenge Trophy 2026 — United States of America Women won by 72 runs",
       "domain": "cricket",
       "sent_at": "2026-04-30T14:13:34.658094+00:00"
+    },
+    {
+      "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "domain": "ai",
+      "sent_at": "2026-04-30T19:43:08.173187+00:00"
+    },
+    {
+      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "domain": "ai",
+      "sent_at": "2026-04-30T19:43:08.173216+00:00"
+    },
+    {
+      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
+      "domain": "ai",
+      "sent_at": "2026-04-30T19:43:08.173226+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-04-30T19:43:08.173232+00:00"
+    },
+    {
+      "trend_title": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27 — United Arab Emirates won by 25 runs",
+      "domain": "cricket",
+      "sent_at": "2026-04-30T19:43:08.173237+00:00"
     }
   ]
 }
