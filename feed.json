@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T08:32:01.484870+00:00",
+  "updated": "2026-04-30T09:57:15.607117+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -270,6 +270,36 @@
       "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
       "score": 12.5,
       "sent_at": "2026-04-29T09:57:10.918282+00:00"
+    },
+    {
+      "arxiv_id": "2604.25917",
+      "title": "Recursive Multi-Agent Systems",
+      "score": 12.75,
+      "sent_at": "2026-04-30T09:57:15.453157+00:00"
+    },
+    {
+      "arxiv_id": "2604.25203",
+      "title": "BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate",
+      "score": 12.25,
+      "sent_at": "2026-04-30T09:57:15.453173+00:00"
+    },
+    {
+      "arxiv_id": "2604.21003",
+      "title": "The Last Harness You'll Ever Build",
+      "score": 12.25,
+      "sent_at": "2026-04-30T09:57:15.453178+00:00"
+    },
+    {
+      "arxiv_id": "2604.26694",
+      "title": "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
+      "score": 12.0,
+      "sent_at": "2026-04-30T09:57:15.453182+00:00"
+    },
+    {
+      "arxiv_id": "2604.25256",
+      "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery",
+      "score": 12.0,
+      "sent_at": "2026-04-30T09:57:15.453185+00:00"
     }
   ],
   "posts": [
