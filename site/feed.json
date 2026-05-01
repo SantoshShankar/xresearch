@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T19:43:08.466220+00:00",
+  "updated": "2026-05-01T03:59:43.756204+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -1322,6 +1322,31 @@
       "trend_title": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27 — United Arab Emirates won by 25 runs",
       "domain": "cricket",
       "sent_at": "2026-04-30T19:43:08.173237+00:00"
+    },
+    {
+      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "domain": "ai",
+      "sent_at": "2026-05-01T03:59:43.504452+00:00"
+    },
+    {
+      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
+      "domain": "ai",
+      "sent_at": "2026-05-01T03:59:43.504470+00:00"
+    },
+    {
+      "trend_title": "How ChatGPT serves ads",
+      "domain": "ai",
+      "sent_at": "2026-05-01T03:59:43.504476+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-01T03:59:43.504481+00:00"
+    },
+    {
+      "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia opt to bowl",
+      "domain": "cricket",
+      "sent_at": "2026-05-01T03:59:43.504485+00:00"
     }
   ]
 }
