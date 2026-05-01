@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T03:59:43.756204+00:00",
+  "updated": "2026-05-01T08:22:13.743287+00:00",
   "papers": [
     {
       "arxiv_id": "2604.18292",
@@ -303,81 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Thoughts and feelings around Claude Design",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:25:31.807923+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:25:31.807950+00:00"
-    },
-    {
-      "trend_title": "College instructor turns to typewriters to curb AI-written work",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:25:31.807958+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:25:31.807964+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:25:31.807970+00:00"
-    },
-    {
-      "trend_title": "Thoughts and feelings around Claude Design",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:49:12.069335+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:49:12.069362+00:00"
-    },
-    {
-      "trend_title": "College instructor turns to typewriters to curb AI-written work",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:49:12.069367+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:49:12.069371+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:49:12.069375+00:00"
-    },
-    {
-      "trend_title": "Claude Design",
-      "domain": "ai",
-      "sent_at": "2026-04-21T08:04:29.426764+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-21T08:04:29.426789+00:00"
-    },
-    {
-      "trend_title": "College instructor turns to typewriters to curb AI-written work",
-      "domain": "ai",
-      "sent_at": "2026-04-21T08:04:29.426797+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T08:04:29.426803+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Vanuatu Women, 3rd Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 41 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T08:04:29.426810+00:00"
-    },
     {
       "trend_title": "anthropic stock",
       "domain": "ai",
@@ -1347,6 +1272,31 @@
       "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia opt to bowl",
       "domain": "cricket",
       "sent_at": "2026-05-01T03:59:43.504485+00:00"
+    },
+    {
+      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "domain": "ai",
+      "sent_at": "2026-05-01T08:22:13.477123+00:00"
+    },
+    {
+      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
+      "domain": "ai",
+      "sent_at": "2026-05-01T08:22:13.477147+00:00"
+    },
+    {
+      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "domain": "ai",
+      "sent_at": "2026-05-01T08:22:13.477153+00:00"
+    },
+    {
+      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-01T08:22:13.477159+00:00"
+    },
+    {
+      "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-01T08:22:13.477164+00:00"
     }
   ]
 }
