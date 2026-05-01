@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T13:43:16.868424+00:00",
+  "updated": "2026-05-01T19:21:33.691281+00:00",
   "papers": [
     {
       "arxiv_id": "2604.17596",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "anthropic stock",
-      "domain": "ai",
-      "sent_at": "2026-04-21T13:59:53.292986+00:00"
-    },
-    {
-      "trend_title": "Claude Design",
-      "domain": "ai",
-      "sent_at": "2026-04-21T13:59:53.293010+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-21T13:59:53.293017+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T13:59:53.293024+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T13:59:53.293029+00:00"
-    },
     {
       "trend_title": "Atlassian enables default data collection to train AI",
       "domain": "ai",
@@ -1322,6 +1297,31 @@
       "trend_title": "Rwanda Women vs Nepal Women, 15th Match, ICC Womens T20I Challenge Trophy 2026 — Nepal Women won by 38 runs",
       "domain": "cricket",
       "sent_at": "2026-05-01T13:43:16.587936+00:00"
+    },
+    {
+      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "domain": "ai",
+      "sent_at": "2026-05-01T19:21:33.446388+00:00"
+    },
+    {
+      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
+      "domain": "ai",
+      "sent_at": "2026-05-01T19:21:33.446412+00:00"
+    },
+    {
+      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "domain": "ai",
+      "sent_at": "2026-05-01T19:21:33.446416+00:00"
+    },
+    {
+      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-01T19:21:33.446420+00:00"
+    },
+    {
+      "trend_title": "Italy Women vs Vanuatu Women, 16th Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 8 runs (DLS Method)",
+      "domain": "cricket",
+      "sent_at": "2026-05-01T19:21:33.446423+00:00"
     }
   ]
 }
