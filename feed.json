@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-02T08:57:25.847243+00:00",
+  "updated": "2026-05-02T13:27:03.615833+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.17596",
-      "title": "Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories",
-      "score": 14.0,
-      "sent_at": "2026-04-22T09:11:36.816392+00:00"
-    },
-    {
-      "arxiv_id": "2604.19341",
-      "title": "Evaluation-driven Scaling for Scientific Discovery",
-      "score": 12.75,
-      "sent_at": "2026-04-22T09:11:36.816411+00:00"
-    },
-    {
-      "arxiv_id": "2604.13346",
-      "title": "AgentSPEX: An Agent SPecification and EXecution Language",
-      "score": 12.5,
-      "sent_at": "2026-04-22T09:11:36.816415+00:00"
-    },
-    {
-      "arxiv_id": "2604.19295",
-      "title": "TEMPO: Scaling Test-time Training for Large Reasoning Models",
-      "score": 12.5,
-      "sent_at": "2026-04-22T09:11:36.816417+00:00"
-    },
-    {
-      "arxiv_id": "2604.18164",
-      "title": "MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge",
-      "score": 12.25,
-      "sent_at": "2026-04-22T09:11:36.816419+00:00"
-    },
     {
       "arxiv_id": "2604.20779",
       "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
@@ -1332,6 +1302,31 @@
       "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia won by 6 wkts",
       "domain": "cricket",
       "sent_at": "2026-05-02T07:53:50.852310+00:00"
+    },
+    {
+      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "domain": "ai",
+      "sent_at": "2026-05-02T13:27:03.315350+00:00"
+    },
+    {
+      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
+      "domain": "ai",
+      "sent_at": "2026-05-02T13:27:03.315377+00:00"
+    },
+    {
+      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "domain": "ai",
+      "sent_at": "2026-05-02T13:27:03.315384+00:00"
+    },
+    {
+      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-02T13:27:03.315391+00:00"
+    },
+    {
+      "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-02T13:27:03.315396+00:00"
     }
   ]
 }
