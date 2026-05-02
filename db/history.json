@@ -329,6 +329,36 @@
       "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
       "score": 12.5,
       "sent_at": "2026-05-01T09:25:57.462110+00:00"
+    },
+    {
+      "arxiv_id": "2604.27419",
+      "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
+      "score": 12.75,
+      "sent_at": "2026-05-02T08:57:25.719032+00:00"
+    },
+    {
+      "arxiv_id": "2604.24954",
+      "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+      "score": 12.5,
+      "sent_at": "2026-05-02T08:57:25.719051+00:00"
+    },
+    {
+      "arxiv_id": "2604.27151",
+      "title": "Step-level Optimization for Efficient Computer-use Agents",
+      "score": 12.5,
+      "sent_at": "2026-05-02T08:57:25.719055+00:00"
+    },
+    {
+      "arxiv_id": "2604.24902",
+      "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains",
+      "score": 12.25,
+      "sent_at": "2026-05-02T08:57:25.719060+00:00"
+    },
+    {
+      "arxiv_id": "2604.27083",
+      "title": "Co-Evolving Policy Distillation",
+      "score": 12.0,
+      "sent_at": "2026-05-02T08:57:25.719064+00:00"
     }
   ],
   "posts": [

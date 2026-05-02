@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T07:53:51.139487+00:00",
+  "updated": "2026-05-02T08:57:25.847243+00:00",
   "papers": [
     {
       "arxiv_id": "2604.17596",
@@ -300,34 +300,39 @@
       "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
       "score": 12.5,
       "sent_at": "2026-05-01T09:25:57.462110+00:00"
+    },
+    {
+      "arxiv_id": "2604.27419",
+      "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
+      "score": 12.75,
+      "sent_at": "2026-05-02T08:57:25.719032+00:00"
+    },
+    {
+      "arxiv_id": "2604.24954",
+      "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+      "score": 12.5,
+      "sent_at": "2026-05-02T08:57:25.719051+00:00"
+    },
+    {
+      "arxiv_id": "2604.27151",
+      "title": "Step-level Optimization for Efficient Computer-use Agents",
+      "score": 12.5,
+      "sent_at": "2026-05-02T08:57:25.719055+00:00"
+    },
+    {
+      "arxiv_id": "2604.24902",
+      "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains",
+      "score": 12.25,
+      "sent_at": "2026-05-02T08:57:25.719060+00:00"
+    },
+    {
+      "arxiv_id": "2604.27083",
+      "title": "Co-Evolving Policy Distillation",
+      "score": 12.0,
+      "sent_at": "2026-05-02T08:57:25.719064+00:00"
     }
   ],
   "posts": [
-    {
-      "trend_title": "artificial intelligence",
-      "domain": "ai",
-      "sent_at": "2026-04-22T08:00:58.195510+00:00"
-    },
-    {
-      "trend_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "domain": "ai",
-      "sent_at": "2026-04-22T08:00:58.195536+00:00"
-    },
-    {
-      "trend_title": "openai",
-      "domain": "ai",
-      "sent_at": "2026-04-22T08:00:58.195542+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-22T08:00:58.195548+00:00"
-    },
-    {
-      "trend_title": "Nepal Women vs United States of America Women, 2nd Match, ICC Womens T20I Challenge Trophy 2026 — United States of America Women won by 44 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-22T08:00:58.195554+00:00"
-    },
     {
       "trend_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
       "domain": "ai",
