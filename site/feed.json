@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T03:54:18.461417+00:00",
+  "updated": "2026-05-03T08:09:15.929922+00:00",
   "papers": [
     {
       "arxiv_id": "2604.20779",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "domain": "ai",
-      "sent_at": "2026-04-23T08:06:20.719022+00:00"
-    },
-    {
-      "trend_title": "Claude Code to be removed from Anthropic's Pro plan?",
-      "domain": "ai",
-      "sent_at": "2026-04-23T08:06:20.719045+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-23T08:06:20.719052+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-23T08:06:20.719058+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Vanuatu Women, 3rd Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 41 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-23T08:06:20.719064+00:00"
-    },
     {
       "trend_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
       "domain": "ai",
@@ -1302,6 +1277,31 @@
       "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
       "domain": "cricket",
       "sent_at": "2026-05-03T03:54:18.124723+00:00"
+    },
+    {
+      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "domain": "ai",
+      "sent_at": "2026-05-03T08:09:15.620290+00:00"
+    },
+    {
+      "trend_title": "Trending space: gaia-benchmark/leaderboard",
+      "domain": "ai",
+      "sent_at": "2026-05-03T08:09:15.620318+00:00"
+    },
+    {
+      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "domain": "ai",
+      "sent_at": "2026-05-03T08:09:15.620324+00:00"
+    },
+    {
+      "trend_title": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026 — Guernsey won by 7 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-03T08:09:15.620329+00:00"
+    },
+    {
+      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-03T08:09:15.620335+00:00"
     }
   ]
 }
