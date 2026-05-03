@@ -359,6 +359,36 @@
       "title": "Co-Evolving Policy Distillation",
       "score": 12.0,
       "sent_at": "2026-05-02T08:57:25.719064+00:00"
+    },
+    {
+      "arxiv_id": "2604.28182",
+      "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "score": 9.25,
+      "sent_at": "2026-05-03T09:11:57.276445+00:00"
+    },
+    {
+      "arxiv_id": "2604.27228",
+      "title": "When Roles Fail: Epistemic Constraints on Advocate Role Fidelity in LLM-Based Political Statement Analysis",
+      "score": 9.25,
+      "sent_at": "2026-05-03T09:11:57.276463+00:00"
+    },
+    {
+      "arxiv_id": "2604.26622",
+      "title": "OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory",
+      "score": 9.25,
+      "sent_at": "2026-05-03T09:11:57.276467+00:00"
+    },
+    {
+      "arxiv_id": "2604.27297",
+      "title": "Machine Collective Intelligence for Explainable Scientific Discovery",
+      "score": 9.0,
+      "sent_at": "2026-05-03T09:11:57.276470+00:00"
+    },
+    {
+      "arxiv_id": "2604.28093",
+      "title": "What Makes a Good Terminal-Agent Benchmark Task: A Guideline for Adversarial, Difficult, and Legible Evaluation Design",
+      "score": 8.5,
+      "sent_at": "2026-05-03T09:11:57.276473+00:00"
     }
   ],
   "posts": [
