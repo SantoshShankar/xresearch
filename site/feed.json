@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-03T09:11:57.428367+00:00",
+  "updated": "2026-05-03T13:26:48.925829+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.20779",
-      "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
-      "score": 13.5,
-      "sent_at": "2026-04-23T09:18:13.594088+00:00"
-    },
-    {
-      "arxiv_id": "2604.16529",
-      "title": "Scaling Test-Time Compute for Agentic Coding",
-      "score": 12.75,
-      "sent_at": "2026-04-23T09:18:13.594104+00:00"
-    },
-    {
-      "arxiv_id": "2604.11610",
-      "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
-      "score": 12.5,
-      "sent_at": "2026-04-23T09:18:13.594109+00:00"
-    },
-    {
-      "arxiv_id": "2604.18982",
-      "title": "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution",
-      "score": 12.25,
-      "sent_at": "2026-04-23T09:18:13.594112+00:00"
-    },
-    {
-      "arxiv_id": "2604.18805",
-      "title": "AI scientists produce results without reasoning scientifically",
-      "score": 12.25,
-      "sent_at": "2026-04-23T09:18:13.594116+00:00"
-    },
     {
       "arxiv_id": "2604.19572",
       "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
@@ -1332,6 +1302,31 @@
       "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
       "domain": "cricket",
       "sent_at": "2026-05-03T08:09:15.620335+00:00"
+    },
+    {
+      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "domain": "ai",
+      "sent_at": "2026-05-03T13:26:48.644973+00:00"
+    },
+    {
+      "trend_title": "AI uses less water than the public thinks",
+      "domain": "ai",
+      "sent_at": "2026-05-03T13:26:48.645000+00:00"
+    },
+    {
+      "trend_title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+      "domain": "ai",
+      "sent_at": "2026-05-03T13:26:48.645007+00:00"
+    },
+    {
+      "trend_title": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026 — Guernsey won by 7 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-03T13:26:48.645015+00:00"
+    },
+    {
+      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-03T13:26:48.645021+00:00"
     }
   ]
 }
