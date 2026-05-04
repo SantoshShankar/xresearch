@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T03:52:04.094699+00:00",
+  "updated": "2026-05-04T08:39:02.116222+00:00",
   "papers": [
     {
       "arxiv_id": "2604.19572",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "GPT-5.5",
-      "domain": "ai",
-      "sent_at": "2026-04-24T08:15:00.504070+00:00"
-    },
-    {
-      "trend_title": "ChatGPT Images 2.0",
-      "domain": "ai",
-      "sent_at": "2026-04-24T08:15:00.504098+00:00"
-    },
-    {
-      "trend_title": "An update on recent Claude Code quality reports",
-      "domain": "ai",
-      "sent_at": "2026-04-24T08:15:00.504105+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-24T08:15:00.504111+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
-      "domain": "cricket",
-      "sent_at": "2026-04-24T08:15:00.504116+00:00"
-    },
     {
       "trend_title": "GPT-5.5",
       "domain": "ai",
@@ -1302,6 +1277,31 @@
       "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
       "domain": "cricket",
       "sent_at": "2026-05-04T03:52:03.797383+00:00"
+    },
+    {
+      "trend_title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "domain": "ai",
+      "sent_at": "2026-05-04T08:39:01.820290+00:00"
+    },
+    {
+      "trend_title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "domain": "ai",
+      "sent_at": "2026-05-04T08:39:01.820315+00:00"
+    },
+    {
+      "trend_title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "domain": "ai",
+      "sent_at": "2026-05-04T08:39:01.820321+00:00"
+    },
+    {
+      "trend_title": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026 — Guernsey won by 7 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-04T08:39:01.820328+00:00"
+    },
+    {
+      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-04T08:39:01.820333+00:00"
     }
   ]
 }
