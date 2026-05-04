@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T19:10:12.738593+00:00",
+  "updated": "2026-05-04T03:52:04.094699+00:00",
   "papers": [
     {
       "arxiv_id": "2604.19572",
@@ -303,56 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "domain": "ai",
-      "sent_at": "2026-04-23T19:23:20.727747+00:00"
-    },
-    {
-      "trend_title": "GPT-5.5",
-      "domain": "ai",
-      "sent_at": "2026-04-23T19:23:20.727773+00:00"
-    },
-    {
-      "trend_title": "ChatGPT Images 2.0",
-      "domain": "ai",
-      "sent_at": "2026-04-23T19:23:20.727781+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-23T19:23:20.727786+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
-      "domain": "cricket",
-      "sent_at": "2026-04-23T19:23:20.727789+00:00"
-    },
-    {
-      "trend_title": "GPT-5.5",
-      "domain": "ai",
-      "sent_at": "2026-04-24T03:32:58.991629+00:00"
-    },
-    {
-      "trend_title": "ChatGPT Images 2.0",
-      "domain": "ai",
-      "sent_at": "2026-04-24T03:32:58.991658+00:00"
-    },
-    {
-      "trend_title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "domain": "ai",
-      "sent_at": "2026-04-24T03:32:58.991666+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-24T03:32:58.991673+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs United States of America Women, 5th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 1 run",
-      "domain": "cricket",
-      "sent_at": "2026-04-24T03:32:58.991679+00:00"
-    },
     {
       "trend_title": "GPT-5.5",
       "domain": "ai",
@@ -1327,6 +1277,31 @@
       "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
       "domain": "cricket",
       "sent_at": "2026-05-03T19:10:12.383488+00:00"
+    },
+    {
+      "trend_title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "domain": "ai",
+      "sent_at": "2026-05-04T03:52:03.797339+00:00"
+    },
+    {
+      "trend_title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "domain": "ai",
+      "sent_at": "2026-05-04T03:52:03.797366+00:00"
+    },
+    {
+      "trend_title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+      "domain": "ai",
+      "sent_at": "2026-05-04T03:52:03.797372+00:00"
+    },
+    {
+      "trend_title": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026 — Guernsey won by 7 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-04T03:52:03.797378+00:00"
+    },
+    {
+      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-04T03:52:03.797383+00:00"
     }
   ]
 }
