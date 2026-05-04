@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-04T08:39:02.116222+00:00",
+  "updated": "2026-05-04T10:06:48.391365+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.19572",
-      "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
-      "score": 13.0,
-      "sent_at": "2026-04-24T09:22:55.849325+00:00"
-    },
-    {
-      "arxiv_id": "2604.21375",
-      "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
-      "score": 12.5,
-      "sent_at": "2026-04-24T09:22:55.849342+00:00"
-    },
-    {
-      "arxiv_id": "2604.15093",
-      "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
-      "score": 12.5,
-      "sent_at": "2026-04-24T09:22:55.849348+00:00"
-    },
-    {
-      "arxiv_id": "2604.21686",
-      "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
-      "score": 12.25,
-      "sent_at": "2026-04-24T09:22:55.849353+00:00"
-    },
-    {
-      "arxiv_id": "2604.19734",
-      "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
-      "score": 12.25,
-      "sent_at": "2026-04-24T09:22:55.849358+00:00"
-    },
     {
       "arxiv_id": "2604.20987",
       "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
@@ -300,6 +270,36 @@
       "title": "What Makes a Good Terminal-Agent Benchmark Task: A Guideline for Adversarial, Difficult, and Legible Evaluation Design",
       "score": 8.5,
       "sent_at": "2026-05-03T09:11:57.276473+00:00"
+    },
+    {
+      "arxiv_id": "2605.00416",
+      "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
+      "score": 12.75,
+      "sent_at": "2026-05-04T10:06:48.275684+00:00"
+    },
+    {
+      "arxiv_id": "2604.27221",
+      "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction",
+      "score": 12.75,
+      "sent_at": "2026-05-04T10:06:48.275699+00:00"
+    },
+    {
+      "arxiv_id": "2605.00754",
+      "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
+      "score": 12.0,
+      "sent_at": "2026-05-04T10:06:48.275703+00:00"
+    },
+    {
+      "arxiv_id": "2604.24026",
+      "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills",
+      "score": 11.5,
+      "sent_at": "2026-05-04T10:06:48.275705+00:00"
+    },
+    {
+      "arxiv_id": "2605.00323",
+      "title": "Online Self-Calibration Against Hallucination in Vision-Language Models",
+      "score": 11.5,
+      "sent_at": "2026-05-04T10:06:48.275708+00:00"
     }
   ],
   "posts": [
