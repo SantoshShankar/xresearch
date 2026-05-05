@@ -419,6 +419,36 @@
       "title": "Online Self-Calibration Against Hallucination in Vision-Language Models",
       "score": 11.5,
       "sent_at": "2026-05-04T10:06:48.275708+00:00"
+    },
+    {
+      "arxiv_id": "2605.02240",
+      "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "score": 13.75,
+      "sent_at": "2026-05-05T09:51:59.007577+00:00"
+    },
+    {
+      "arxiv_id": "2605.02881",
+      "title": "MolmoAct2: Action Reasoning Models for Real-world Deployment",
+      "score": 12.5,
+      "sent_at": "2026-05-05T09:51:59.007591+00:00"
+    },
+    {
+      "arxiv_id": "2604.27660",
+      "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?",
+      "score": 12.0,
+      "sent_at": "2026-05-05T09:51:59.007597+00:00"
+    },
+    {
+      "arxiv_id": "2605.00814",
+      "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+      "score": 12.0,
+      "sent_at": "2026-05-05T09:51:59.007601+00:00"
+    },
+    {
+      "arxiv_id": "2605.02661",
+      "title": "AcademiClaw: When Students Set Challenges for AI Agents",
+      "score": 12.0,
+      "sent_at": "2026-05-05T09:51:59.007605+00:00"
     }
   ],
   "posts": [
