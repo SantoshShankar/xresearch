@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-06T08:36:49.302687+00:00",
+  "updated": "2026-05-06T10:07:30.169187+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.20801",
-      "title": "Synthesizing Multi-Agent Harnesses for Vulnerability Discovery",
-      "score": 10.0,
-      "sent_at": "2026-04-26T08:48:54.380601+00:00"
-    },
-    {
-      "arxiv_id": "2604.19638",
-      "title": "SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models",
-      "score": 9.75,
-      "sent_at": "2026-04-26T08:48:54.380617+00:00"
-    },
-    {
-      "arxiv_id": "2604.21590",
-      "title": "AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use",
-      "score": 9.5,
-      "sent_at": "2026-04-26T08:48:54.380621+00:00"
-    },
-    {
-      "arxiv_id": "2604.20994",
-      "title": "Breaking MCP with Function Hijacking Attacks: Novel Threats for Function Calling and Agentic Models",
-      "score": 9.25,
-      "sent_at": "2026-04-26T08:48:54.380625+00:00"
-    },
-    {
-      "arxiv_id": "2604.21232",
-      "title": "ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures",
-      "score": 9.0,
-      "sent_at": "2026-04-26T08:48:54.380629+00:00"
-    },
     {
       "arxiv_id": "2604.22294",
       "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
@@ -300,6 +270,36 @@
       "title": "AcademiClaw: When Students Set Challenges for AI Agents",
       "score": 12.0,
       "sent_at": "2026-05-05T09:51:59.007605+00:00"
+    },
+    {
+      "arxiv_id": "2605.03596",
+      "title": "Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies",
+      "score": 13.0,
+      "sent_at": "2026-05-06T10:07:29.981017+00:00"
+    },
+    {
+      "arxiv_id": "2604.27776",
+      "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
+      "score": 12.75,
+      "sent_at": "2026-05-06T10:07:29.981033+00:00"
+    },
+    {
+      "arxiv_id": "2605.04012",
+      "title": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+      "score": 12.5,
+      "sent_at": "2026-05-06T10:07:29.981040+00:00"
+    },
+    {
+      "arxiv_id": "2605.04036",
+      "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+      "score": 12.25,
+      "sent_at": "2026-05-06T10:07:29.981043+00:00"
+    },
+    {
+      "arxiv_id": "2605.03941",
+      "title": "A Benchmark for Interactive World Models with a Unified Action Generation Framework",
+      "score": 12.0,
+      "sent_at": "2026-05-06T10:07:29.981047+00:00"
     }
   ],
   "posts": [
