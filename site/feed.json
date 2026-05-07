@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-07T08:44:28.202747+00:00",
+  "updated": "2026-05-07T10:16:17.276125+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.22294",
-      "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
-      "score": 12.75,
-      "sent_at": "2026-04-27T10:04:39.943088+00:00"
-    },
-    {
-      "arxiv_id": "2604.22436",
-      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
-      "score": 12.75,
-      "sent_at": "2026-04-27T10:04:39.943104+00:00"
-    },
-    {
-      "arxiv_id": "2604.22152",
-      "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
-      "score": 12.0,
-      "sent_at": "2026-04-27T10:04:39.943107+00:00"
-    },
-    {
-      "arxiv_id": "2604.22565",
-      "title": "Learning Evidence Highlighting for Frozen LLMs",
-      "score": 12.0,
-      "sent_at": "2026-04-27T10:04:39.943109+00:00"
-    },
-    {
-      "arxiv_id": "2604.18519",
-      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
-      "score": 11.25,
-      "sent_at": "2026-04-27T10:04:39.943111+00:00"
-    },
     {
       "arxiv_id": "2604.23781",
       "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
@@ -300,6 +270,36 @@
       "title": "A Benchmark for Interactive World Models with a Unified Action Generation Framework",
       "score": 12.0,
       "sent_at": "2026-05-06T10:07:29.981047+00:00"
+    },
+    {
+      "arxiv_id": "2605.05185",
+      "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
+      "score": 12.5,
+      "sent_at": "2026-05-07T10:16:17.125426+00:00"
+    },
+    {
+      "arxiv_id": "2605.04018",
+      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "score": 12.25,
+      "sent_at": "2026-05-07T10:16:17.125441+00:00"
+    },
+    {
+      "arxiv_id": "2605.05163",
+      "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
+      "score": 12.0,
+      "sent_at": "2026-05-07T10:16:17.125446+00:00"
+    },
+    {
+      "arxiv_id": "2604.20441",
+      "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills",
+      "score": 12.0,
+      "sent_at": "2026-05-07T10:16:17.125449+00:00"
+    },
+    {
+      "arxiv_id": "2605.03314",
+      "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning",
+      "score": 12.0,
+      "sent_at": "2026-05-07T10:16:17.125453+00:00"
     }
   ],
   "posts": [
