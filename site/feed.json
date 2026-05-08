@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-08T09:06:05.618423+00:00",
+  "updated": "2026-05-08T14:06:42.128709+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.23781",
-      "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
-      "score": 13.0,
-      "sent_at": "2026-04-28T10:05:55.018971+00:00"
-    },
-    {
-      "arxiv_id": "2604.24479",
-      "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
-      "score": 12.75,
-      "sent_at": "2026-04-28T10:05:55.018984+00:00"
-    },
-    {
-      "arxiv_id": "2604.21480",
-      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
-      "score": 12.5,
-      "sent_at": "2026-04-28T10:05:55.018987+00:00"
-    },
-    {
-      "arxiv_id": "2604.22085",
-      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-      "score": 12.5,
-      "sent_at": "2026-04-28T10:05:55.018990+00:00"
-    },
-    {
-      "arxiv_id": "2604.20012",
-      "title": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
-      "score": 12.25,
-      "sent_at": "2026-04-28T10:05:55.019020+00:00"
-    },
     {
       "arxiv_id": "2604.24005",
       "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
@@ -1307,6 +1277,31 @@
       "trend_title": "Philippines vs Indonesia, 1st Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026 — Indonesia won by 11 runs",
       "domain": "cricket",
       "sent_at": "2026-05-08T07:50:50.827342+00:00"
+    },
+    {
+      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "domain": "ai",
+      "sent_at": "2026-05-08T14:06:41.842063+00:00"
+    },
+    {
+      "trend_title": "AI slop is killing online communities",
+      "domain": "ai",
+      "sent_at": "2026-05-08T14:06:41.842093+00:00"
+    },
+    {
+      "trend_title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "domain": "ai",
+      "sent_at": "2026-05-08T14:06:41.842101+00:00"
+    },
+    {
+      "trend_title": "China Women vs Malaysia Women, 1st Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women won by 26 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-08T14:06:41.842108+00:00"
+    },
+    {
+      "trend_title": "Philippines vs Indonesia, 1st Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026 — Indonesia won by 11 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-08T14:06:41.842117+00:00"
     }
   ]
 }
