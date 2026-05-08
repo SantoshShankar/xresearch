@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T14:06:42.128709+00:00",
+  "updated": "2026-05-08T19:28:12.273461+00:00",
   "papers": [
     {
       "arxiv_id": "2604.24005",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "GPT-5.5",
-      "domain": "ai",
-      "sent_at": "2026-04-28T14:31:02.553554+00:00"
-    },
-    {
-      "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "domain": "ai",
-      "sent_at": "2026-04-28T14:31:02.553578+00:00"
-    },
-    {
-      "trend_title": "AI should elevate your thinking, not replace it",
-      "domain": "ai",
-      "sent_at": "2026-04-28T14:31:02.553585+00:00"
-    },
-    {
-      "trend_title": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 8 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-28T14:31:02.553590+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-28T14:31:02.553596+00:00"
-    },
     {
       "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "domain": "ai",
@@ -1302,6 +1277,31 @@
       "trend_title": "Philippines vs Indonesia, 1st Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026 — Indonesia won by 11 runs",
       "domain": "cricket",
       "sent_at": "2026-05-08T14:06:41.842117+00:00"
+    },
+    {
+      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "domain": "ai",
+      "sent_at": "2026-05-08T19:28:11.978268+00:00"
+    },
+    {
+      "trend_title": "AI slop is killing online communities",
+      "domain": "ai",
+      "sent_at": "2026-05-08T19:28:11.978291+00:00"
+    },
+    {
+      "trend_title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "domain": "ai",
+      "sent_at": "2026-05-08T19:28:11.978298+00:00"
+    },
+    {
+      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania opt to bat",
+      "domain": "cricket",
+      "sent_at": "2026-05-08T19:28:11.978303+00:00"
+    },
+    {
+      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
+      "domain": "cricket",
+      "sent_at": "2026-05-08T19:28:11.978308+00:00"
     }
   ]
 }
