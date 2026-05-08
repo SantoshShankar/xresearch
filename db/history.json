@@ -509,6 +509,36 @@
       "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning",
       "score": 12.0,
       "sent_at": "2026-05-07T10:16:17.125453+00:00"
+    },
+    {
+      "arxiv_id": "2605.06200",
+      "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping",
+      "score": 12.25,
+      "sent_at": "2026-05-08T09:06:05.443713+00:00"
+    },
+    {
+      "arxiv_id": "2605.06614",
+      "title": "SkillOS: Learning Skill Curation for Self-Evolving Agents",
+      "score": 12.25,
+      "sent_at": "2026-05-08T09:06:05.443733+00:00"
+    },
+    {
+      "arxiv_id": "2605.06651",
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "score": 12.25,
+      "sent_at": "2026-05-08T09:06:05.443738+00:00"
+    },
+    {
+      "arxiv_id": "2605.06222",
+      "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models",
+      "score": 12.0,
+      "sent_at": "2026-05-08T09:06:05.443743+00:00"
+    },
+    {
+      "arxiv_id": "2605.05724",
+      "title": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes",
+      "score": 12.0,
+      "sent_at": "2026-05-08T09:06:05.443747+00:00"
     }
   ],
   "posts": [
