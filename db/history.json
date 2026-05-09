@@ -539,6 +539,36 @@
       "title": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes",
       "score": 12.0,
       "sent_at": "2026-05-08T09:06:05.443747+00:00"
+    },
+    {
+      "arxiv_id": "2605.05242",
+      "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
+      "score": 12.25,
+      "sent_at": "2026-05-09T09:07:05.471979+00:00"
+    },
+    {
+      "arxiv_id": "2605.06642",
+      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+      "score": 12.25,
+      "sent_at": "2026-05-09T09:07:05.471998+00:00"
+    },
+    {
+      "arxiv_id": "2605.06130",
+      "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
+      "score": 12.0,
+      "sent_at": "2026-05-09T09:07:05.472002+00:00"
+    },
+    {
+      "arxiv_id": "2605.06638",
+      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
+      "score": 12.0,
+      "sent_at": "2026-05-09T09:07:05.472005+00:00"
+    },
+    {
+      "arxiv_id": "2605.04647",
+      "title": "ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving",
+      "score": 12.0,
+      "sent_at": "2026-05-09T09:07:05.472007+00:00"
     }
   ],
   "posts": [
