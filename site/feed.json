@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-09T09:07:05.617978+00:00",
+  "updated": "2026-05-09T13:41:01.255225+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.24005",
-      "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
-      "score": 13.0,
-      "sent_at": "2026-04-29T09:57:10.918251+00:00"
-    },
-    {
-      "arxiv_id": "2604.24441",
-      "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
-      "score": 12.75,
-      "sent_at": "2026-04-29T09:57:10.918269+00:00"
-    },
-    {
-      "arxiv_id": "2604.25914",
-      "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
-      "score": 12.5,
-      "sent_at": "2026-04-29T09:57:10.918274+00:00"
-    },
-    {
-      "arxiv_id": "2604.25727",
-      "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
-      "score": 12.5,
-      "sent_at": "2026-04-29T09:57:10.918277+00:00"
-    },
-    {
-      "arxiv_id": "2604.23941",
-      "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
-      "score": 12.5,
-      "sent_at": "2026-04-29T09:57:10.918282+00:00"
-    },
     {
       "arxiv_id": "2604.25917",
       "title": "Recursive Multi-Agent Systems",
@@ -1307,6 +1277,31 @@
       "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
       "domain": "cricket",
       "sent_at": "2026-05-09T08:04:53.188952+00:00"
+    },
+    {
+      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "domain": "ai",
+      "sent_at": "2026-05-09T13:41:00.916117+00:00"
+    },
+    {
+      "trend_title": "AI slop is killing online communities",
+      "domain": "ai",
+      "sent_at": "2026-05-09T13:41:00.916140+00:00"
+    },
+    {
+      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
+      "domain": "ai",
+      "sent_at": "2026-05-09T13:41:00.916147+00:00"
+    },
+    {
+      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-09T13:41:00.916153+00:00"
+    },
+    {
+      "trend_title": "South Korea vs Papua New Guinea, 6th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026 — Papua New Guinea won by 136 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-09T13:41:00.916158+00:00"
     }
   ]
 }
