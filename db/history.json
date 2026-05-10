@@ -569,6 +569,36 @@
       "title": "ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving",
       "score": 12.0,
       "sent_at": "2026-05-09T09:07:05.472007+00:00"
+    },
+    {
+      "arxiv_id": "2605.02812",
+      "title": "Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense",
+      "score": 10.0,
+      "sent_at": "2026-05-10T09:20:45.754721+00:00"
+    },
+    {
+      "arxiv_id": "2605.05440",
+      "title": "Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure",
+      "score": 9.5,
+      "sent_at": "2026-05-10T09:20:45.754739+00:00"
+    },
+    {
+      "arxiv_id": "2605.03213",
+      "title": "When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI",
+      "score": 9.25,
+      "sent_at": "2026-05-10T09:20:45.754743+00:00"
+    },
+    {
+      "arxiv_id": "2605.06136",
+      "title": "BUILD-AND-FIND: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases",
+      "score": 9.0,
+      "sent_at": "2026-05-10T09:20:45.754747+00:00"
+    },
+    {
+      "arxiv_id": "2605.03675",
+      "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
+      "score": 9.0,
+      "sent_at": "2026-05-10T09:20:45.754750+00:00"
     }
   ],
   "posts": [
