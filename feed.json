@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T19:14:03.742463+00:00",
+  "updated": "2026-05-10T03:56:23.724158+00:00",
   "papers": [
     {
       "arxiv_id": "2604.25917",
@@ -303,56 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "domain": "ai",
-      "sent_at": "2026-04-29T19:46:30.068855+00:00"
-    },
-    {
-      "trend_title": "AI should elevate your thinking, not replace it",
-      "domain": "ai",
-      "sent_at": "2026-04-29T19:46:30.068885+00:00"
-    },
-    {
-      "trend_title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "domain": "ai",
-      "sent_at": "2026-04-29T19:46:30.068891+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Vanuatu Women, 11th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 3 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-29T19:46:30.068898+00:00"
-    },
-    {
-      "trend_title": "United States of America Women vs Nepal Women, 12th Match, ICC Womens T20I Challenge Trophy 2026 — United States of America Women won by 7 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-29T19:46:30.068903+00:00"
-    },
-    {
-      "trend_title": "Why AI companies want you to be afraid of them",
-      "domain": "ai",
-      "sent_at": "2026-04-30T03:47:56.931402+00:00"
-    },
-    {
-      "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "domain": "ai",
-      "sent_at": "2026-04-30T03:47:56.931428+00:00"
-    },
-    {
-      "trend_title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "domain": "ai",
-      "sent_at": "2026-04-30T03:47:56.931435+00:00"
-    },
-    {
-      "trend_title": "Costa Rica Women vs Chile Women, 3rd T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 9 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-30T03:47:56.931441+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Vanuatu Women, 11th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 3 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-30T03:47:56.931446+00:00"
-    },
     {
       "trend_title": "Why AI companies want you to be afraid of them",
       "domain": "ai",
@@ -1302,6 +1252,31 @@
       "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
       "domain": "cricket",
       "sent_at": "2026-05-09T19:14:03.398849+00:00"
+    },
+    {
+      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "domain": "ai",
+      "sent_at": "2026-05-10T03:56:23.351379+00:00"
+    },
+    {
+      "trend_title": "AI slop is killing online communities",
+      "domain": "ai",
+      "sent_at": "2026-05-10T03:56:23.351406+00:00"
+    },
+    {
+      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
+      "domain": "ai",
+      "sent_at": "2026-05-10T03:56:23.351413+00:00"
+    },
+    {
+      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-10T03:56:23.351418+00:00"
+    },
+    {
+      "trend_title": "Japan vs Vanuatu, 5th Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026 — Japan won by 30 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-10T03:56:23.351423+00:00"
     }
   ]
 }
