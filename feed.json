@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T19:14:51.563227+00:00",
+  "updated": "2026-05-11T04:07:03.661155+00:00",
   "papers": [
     {
       "arxiv_id": "2604.28139",
@@ -303,56 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "domain": "ai",
-      "sent_at": "2026-04-30T19:43:08.173187+00:00"
-    },
-    {
-      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "domain": "ai",
-      "sent_at": "2026-04-30T19:43:08.173216+00:00"
-    },
-    {
-      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
-      "domain": "ai",
-      "sent_at": "2026-04-30T19:43:08.173226+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-30T19:43:08.173232+00:00"
-    },
-    {
-      "trend_title": "United Arab Emirates vs Oman, 99th Match, ICC Cricket World Cup League Two 2023-27 — United Arab Emirates won by 25 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-30T19:43:08.173237+00:00"
-    },
-    {
-      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "domain": "ai",
-      "sent_at": "2026-05-01T03:59:43.504452+00:00"
-    },
-    {
-      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
-      "domain": "ai",
-      "sent_at": "2026-05-01T03:59:43.504470+00:00"
-    },
-    {
-      "trend_title": "How ChatGPT serves ads",
-      "domain": "ai",
-      "sent_at": "2026-05-01T03:59:43.504476+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-01T03:59:43.504481+00:00"
-    },
-    {
-      "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia opt to bowl",
-      "domain": "cricket",
-      "sent_at": "2026-05-01T03:59:43.504485+00:00"
-    },
     {
       "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "domain": "ai",
@@ -1302,6 +1252,31 @@
       "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
       "domain": "cricket",
       "sent_at": "2026-05-10T19:14:51.295133+00:00"
+    },
+    {
+      "trend_title": "Meta's embrace of AI is making its employees miserable",
+      "domain": "ai",
+      "sent_at": "2026-05-11T04:07:03.385208+00:00"
+    },
+    {
+      "trend_title": "Local AI needs to be the norm",
+      "domain": "ai",
+      "sent_at": "2026-05-11T04:07:03.385231+00:00"
+    },
+    {
+      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
+      "domain": "ai",
+      "sent_at": "2026-05-11T04:07:03.385239+00:00"
+    },
+    {
+      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-11T04:07:03.385245+00:00"
+    },
+    {
+      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
+      "domain": "cricket",
+      "sent_at": "2026-05-11T04:07:03.385250+00:00"
     }
   ]
 }
