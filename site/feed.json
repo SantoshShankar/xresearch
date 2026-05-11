@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T09:54:05.846898+00:00",
+  "updated": "2026-05-11T10:52:46.292820+00:00",
   "papers": [
     {
       "arxiv_id": "2604.27419",
@@ -270,6 +270,36 @@
       "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
       "score": 9.0,
       "sent_at": "2026-05-10T09:20:45.754750+00:00"
+    },
+    {
+      "arxiv_id": "2605.04808",
+      "title": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents",
+      "score": 12.5,
+      "sent_at": "2026-05-11T10:52:46.147338+00:00"
+    },
+    {
+      "arxiv_id": "2605.07510",
+      "title": "InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search",
+      "score": 12.5,
+      "sent_at": "2026-05-11T10:52:46.147354+00:00"
+    },
+    {
+      "arxiv_id": "2605.08083",
+      "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
+      "score": 12.0,
+      "sent_at": "2026-05-11T10:52:46.147359+00:00"
+    },
+    {
+      "arxiv_id": "2605.06747",
+      "title": "HumanNet: Scaling Human-centric Video Learning to One Million Hours",
+      "score": 12.0,
+      "sent_at": "2026-05-11T10:52:46.147362+00:00"
+    },
+    {
+      "arxiv_id": "2605.06924",
+      "title": "A^2RD: Agentic Autoregressive Diffusion for Long Video Consistency",
+      "score": 12.0,
+      "sent_at": "2026-05-11T10:52:46.147365+00:00"
     }
   ],
   "posts": [
