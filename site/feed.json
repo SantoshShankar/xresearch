@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-11T04:07:03.661155+00:00",
+  "updated": "2026-05-11T09:54:05.846898+00:00",
   "papers": [
-    {
-      "arxiv_id": "2604.28139",
-      "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows",
-      "score": 14.0,
-      "sent_at": "2026-05-01T09:25:57.462082+00:00"
-    },
-    {
-      "arxiv_id": "2604.26091",
-      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-      "score": 13.25,
-      "sent_at": "2026-05-01T09:25:57.462098+00:00"
-    },
-    {
-      "arxiv_id": "2604.28158",
-      "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
-      "score": 12.5,
-      "sent_at": "2026-05-01T09:25:57.462102+00:00"
-    },
-    {
-      "arxiv_id": "2604.28181",
-      "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
-      "score": 12.5,
-      "sent_at": "2026-05-01T09:25:57.462106+00:00"
-    },
-    {
-      "arxiv_id": "2604.24658",
-      "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
-      "score": 12.5,
-      "sent_at": "2026-05-01T09:25:57.462110+00:00"
-    },
     {
       "arxiv_id": "2604.27419",
       "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
@@ -303,31 +273,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "domain": "ai",
-      "sent_at": "2026-05-01T08:22:13.477123+00:00"
-    },
-    {
-      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
-      "domain": "ai",
-      "sent_at": "2026-05-01T08:22:13.477147+00:00"
-    },
-    {
-      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "domain": "ai",
-      "sent_at": "2026-05-01T08:22:13.477153+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 13th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-01T08:22:13.477159+00:00"
-    },
-    {
-      "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-01T08:22:13.477164+00:00"
-    },
     {
       "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "domain": "ai",
@@ -1277,6 +1222,31 @@
       "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
       "domain": "cricket",
       "sent_at": "2026-05-11T04:07:03.385250+00:00"
+    },
+    {
+      "trend_title": "Local AI needs to be the norm",
+      "domain": "ai",
+      "sent_at": "2026-05-11T09:54:05.507930+00:00"
+    },
+    {
+      "trend_title": "AI slop is killing online communities",
+      "domain": "ai",
+      "sent_at": "2026-05-11T09:54:05.507958+00:00"
+    },
+    {
+      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
+      "domain": "ai",
+      "sent_at": "2026-05-11T09:54:05.507964+00:00"
+    },
+    {
+      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-11T09:54:05.507970+00:00"
+    },
+    {
+      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
+      "domain": "cricket",
+      "sent_at": "2026-05-11T09:54:05.507975+00:00"
     }
   ]
 }
