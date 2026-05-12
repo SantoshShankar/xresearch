@@ -629,6 +629,36 @@
       "title": "A^2RD: Agentic Autoregressive Diffusion for Long Video Consistency",
       "score": 12.0,
       "sent_at": "2026-05-11T10:52:46.147365+00:00"
+    },
+    {
+      "arxiv_id": "2605.09649",
+      "title": "Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction",
+      "score": 12.5,
+      "sent_at": "2026-05-12T10:22:41.197364+00:00"
+    },
+    {
+      "arxiv_id": "2605.08520",
+      "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
+      "score": 12.5,
+      "sent_at": "2026-05-12T10:22:41.197383+00:00"
+    },
+    {
+      "arxiv_id": "2605.09063",
+      "title": "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs",
+      "score": 12.0,
+      "sent_at": "2026-05-12T10:22:41.197387+00:00"
+    },
+    {
+      "arxiv_id": "2605.10344",
+      "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
+      "score": 12.0,
+      "sent_at": "2026-05-12T10:22:41.197389+00:00"
+    },
+    {
+      "arxiv_id": "2605.10341",
+      "title": "PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents",
+      "score": 12.0,
+      "sent_at": "2026-05-12T10:22:41.197392+00:00"
     }
   ],
   "posts": [
