@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T10:22:41.356974+00:00",
+  "updated": "2026-05-12T14:40:09.346344+00:00",
   "papers": [
     {
       "arxiv_id": "2604.28182",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "domain": "ai",
-      "sent_at": "2026-05-02T13:27:03.315350+00:00"
-    },
-    {
-      "trend_title": "The Zig project's rationale for their anti-AI contribution policy",
-      "domain": "ai",
-      "sent_at": "2026-05-02T13:27:03.315377+00:00"
-    },
-    {
-      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "domain": "ai",
-      "sent_at": "2026-05-02T13:27:03.315384+00:00"
-    },
-    {
-      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-02T13:27:03.315391+00:00"
-    },
-    {
-      "trend_title": "Malaysia vs Indonesia, 1st T20I, Indonesia tour of Malaysia, 2026 — Malaysia won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-02T13:27:03.315396+00:00"
-    },
     {
       "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "domain": "ai",
@@ -1277,6 +1252,31 @@
       "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
       "domain": "cricket",
       "sent_at": "2026-05-12T08:49:45.736930+00:00"
+    },
+    {
+      "trend_title": "Claude Platform on AWS",
+      "domain": "ai",
+      "sent_at": "2026-05-12T14:40:08.927666+00:00"
+    },
+    {
+      "trend_title": "Google says criminal hackers used AI to find a major software flaw",
+      "domain": "ai",
+      "sent_at": "2026-05-12T14:40:08.927694+00:00"
+    },
+    {
+      "trend_title": "Local AI needs to be the norm",
+      "domain": "ai",
+      "sent_at": "2026-05-12T14:40:08.927701+00:00"
+    },
+    {
+      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
+      "domain": "cricket",
+      "sent_at": "2026-05-12T14:40:08.927706+00:00"
+    },
+    {
+      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
+      "domain": "cricket",
+      "sent_at": "2026-05-12T14:40:08.927709+00:00"
     }
   ]
 }
