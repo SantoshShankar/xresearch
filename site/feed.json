@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T03:59:25.694623+00:00",
+  "updated": "2026-05-13T08:53:43.590049+00:00",
   "papers": [
     {
       "arxiv_id": "2604.28182",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "domain": "ai",
-      "sent_at": "2026-05-03T08:09:15.620290+00:00"
-    },
-    {
-      "trend_title": "Trending space: gaia-benchmark/leaderboard",
-      "domain": "ai",
-      "sent_at": "2026-05-03T08:09:15.620318+00:00"
-    },
-    {
-      "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "domain": "ai",
-      "sent_at": "2026-05-03T08:09:15.620324+00:00"
-    },
-    {
-      "trend_title": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026 — Guernsey won by 7 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-03T08:09:15.620329+00:00"
-    },
-    {
-      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-03T08:09:15.620335+00:00"
-    },
     {
       "trend_title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "domain": "ai",
@@ -1277,6 +1252,31 @@
       "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
       "domain": "cricket",
       "sent_at": "2026-05-13T03:59:25.359489+00:00"
+    },
+    {
+      "trend_title": "Local AI needs to be the norm",
+      "domain": "ai",
+      "sent_at": "2026-05-13T08:53:43.247575+00:00"
+    },
+    {
+      "trend_title": "If AI writes your code, why use Python?",
+      "domain": "ai",
+      "sent_at": "2026-05-13T08:53:43.247601+00:00"
+    },
+    {
+      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
+      "domain": "ai",
+      "sent_at": "2026-05-13T08:53:43.247609+00:00"
+    },
+    {
+      "trend_title": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026 — South Korea won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-13T08:53:43.247615+00:00"
+    },
+    {
+      "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
+      "domain": "cricket",
+      "sent_at": "2026-05-13T08:53:43.247621+00:00"
     }
   ]
 }
