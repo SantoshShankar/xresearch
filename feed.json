@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T14:50:24.545670+00:00",
+  "updated": "2026-05-13T20:04:12.893264+00:00",
   "papers": [
     {
       "arxiv_id": "2605.00416",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "domain": "ai",
-      "sent_at": "2026-05-03T19:10:12.383444+00:00"
-    },
-    {
-      "trend_title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "domain": "ai",
-      "sent_at": "2026-05-03T19:10:12.383471+00:00"
-    },
-    {
-      "trend_title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "domain": "ai",
-      "sent_at": "2026-05-03T19:10:12.383478+00:00"
-    },
-    {
-      "trend_title": "ipl points table",
-      "domain": "cricket",
-      "sent_at": "2026-05-03T19:10:12.383483+00:00"
-    },
-    {
-      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-03T19:10:12.383488+00:00"
-    },
     {
       "trend_title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
       "domain": "ai",
@@ -1277,6 +1252,31 @@
       "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
       "domain": "cricket",
       "sent_at": "2026-05-13T14:50:24.195122+00:00"
+    },
+    {
+      "trend_title": "Local AI needs to be the norm",
+      "domain": "ai",
+      "sent_at": "2026-05-13T20:04:12.615182+00:00"
+    },
+    {
+      "trend_title": "If AI writes your code, why use Python?",
+      "domain": "ai",
+      "sent_at": "2026-05-13T20:04:12.615209+00:00"
+    },
+    {
+      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
+      "domain": "ai",
+      "sent_at": "2026-05-13T20:04:12.615217+00:00"
+    },
+    {
+      "trend_title": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026 — South Korea won by 6 wkts",
+      "domain": "cricket",
+      "sent_at": "2026-05-13T20:04:12.615226+00:00"
+    },
+    {
+      "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
+      "domain": "cricket",
+      "sent_at": "2026-05-13T20:04:12.615232+00:00"
     }
   ]
 }
