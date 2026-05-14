@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T08:47:41.785675+00:00",
+  "updated": "2026-05-14T10:05:48.750045+00:00",
   "papers": [
     {
       "arxiv_id": "2605.00416",
@@ -300,6 +300,36 @@
       "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
       "score": 12.25,
       "sent_at": "2026-05-13T10:12:57.019843+00:00"
+    },
+    {
+      "arxiv_id": "2605.12925",
+      "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
+      "score": 12.75,
+      "sent_at": "2026-05-14T10:05:48.598902+00:00"
+    },
+    {
+      "arxiv_id": "2605.13542",
+      "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
+      "score": 12.5,
+      "sent_at": "2026-05-14T10:05:48.598920+00:00"
+    },
+    {
+      "arxiv_id": "2605.12004",
+      "title": "Learning Agentic Policy from Action Guidance",
+      "score": 12.25,
+      "sent_at": "2026-05-14T10:05:48.598924+00:00"
+    },
+    {
+      "arxiv_id": "2605.09942",
+      "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution",
+      "score": 12.25,
+      "sent_at": "2026-05-14T10:05:48.598928+00:00"
+    },
+    {
+      "arxiv_id": "2605.13037",
+      "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
+      "score": 12.25,
+      "sent_at": "2026-05-14T10:05:48.598931+00:00"
     }
   ],
   "posts": [
