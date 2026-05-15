@@ -719,6 +719,36 @@
       "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
       "score": 12.25,
       "sent_at": "2026-05-14T10:05:48.598931+00:00"
+    },
+    {
+      "arxiv_id": "2605.13301",
+      "title": "Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling",
+      "score": 9.0,
+      "sent_at": "2026-05-15T10:11:01.082965+00:00"
+    },
+    {
+      "arxiv_id": "2605.15155",
+      "title": "Self-Distilled Agentic Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-05-15T10:11:01.082981+00:00"
+    },
+    {
+      "arxiv_id": "2605.14906",
+      "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models",
+      "score": 9.0,
+      "sent_at": "2026-05-15T10:11:01.082985+00:00"
+    },
+    {
+      "arxiv_id": "2605.15128",
+      "title": "MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory",
+      "score": 9.0,
+      "sent_at": "2026-05-15T10:11:01.082989+00:00"
+    },
+    {
+      "arxiv_id": "2605.15178",
+      "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
+      "score": 9.0,
+      "sent_at": "2026-05-15T10:11:01.082993+00:00"
     }
   ],
   "posts": [
