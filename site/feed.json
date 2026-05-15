@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T19:54:02.319294+00:00",
+  "updated": "2026-05-15T04:02:32.907798+00:00",
   "papers": [
     {
       "arxiv_id": "2605.02240",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-05T03:34:09.208962+00:00"
-    },
-    {
-      "trend_title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "domain": "ai",
-      "sent_at": "2026-05-05T03:34:09.208990+00:00"
-    },
-    {
-      "trend_title": "How OpenAI delivers low-latency voice AI at scale",
-      "domain": "ai",
-      "sent_at": "2026-05-05T03:34:09.208997+00:00"
-    },
-    {
-      "trend_title": "Guernsey vs Isle of Man, 1st T20I, Isle of Man tour of Guernsey 2026 — Guernsey won by 7 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-05T03:34:09.209003+00:00"
-    },
-    {
-      "trend_title": "Germany vs Austria, 1st T20I, Austria tour of Germany, 2026 — Germany won by 162 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-05T03:34:09.209007+00:00"
-    },
     {
       "trend_title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "domain": "ai",
