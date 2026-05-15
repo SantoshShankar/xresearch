@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T14:24:10.345248+00:00",
+  "updated": "2026-05-15T19:48:48.109961+00:00",
   "papers": [
     {
       "arxiv_id": "2605.03596",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "domain": "ai",
-      "sent_at": "2026-05-05T19:44:19.984152+00:00"
-    },
-    {
-      "trend_title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-05T19:44:19.984177+00:00"
-    },
-    {
-      "trend_title": "How OpenAI delivers low-latency voice AI at scale",
-      "domain": "ai",
-      "sent_at": "2026-05-05T19:44:19.984184+00:00"
-    },
-    {
-      "trend_title": "Guernsey vs Isle of Man, 3rd T20I, Isle of Man tour of Guernsey 2026 — No result",
-      "domain": "cricket",
-      "sent_at": "2026-05-05T19:44:19.984190+00:00"
-    },
-    {
-      "trend_title": "Germany vs Austria, 3rd T20I, Austria tour of Germany, 2026 — Austria won by 7 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-05T19:44:19.984195+00:00"
-    },
     {
       "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "domain": "ai",
