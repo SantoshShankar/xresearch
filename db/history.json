@@ -749,6 +749,36 @@
       "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
       "score": 9.0,
       "sent_at": "2026-05-15T10:11:01.082993+00:00"
+    },
+    {
+      "arxiv_id": "2605.15141",
+      "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064081+00:00"
+    },
+    {
+      "arxiv_id": "2605.14386",
+      "title": "Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064099+00:00"
+    },
+    {
+      "arxiv_id": "2605.14892",
+      "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064103+00:00"
+    },
+    {
+      "arxiv_id": "2605.06527",
+      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064107+00:00"
+    },
+    {
+      "arxiv_id": "2605.10912",
+      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064111+00:00"
     }
   ],
   "posts": [
