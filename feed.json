@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T08:12:16.310297+00:00",
+  "updated": "2026-05-16T09:18:55.237683+00:00",
   "papers": [
     {
       "arxiv_id": "2605.03596",
@@ -300,34 +300,39 @@
       "title": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
       "score": 9.0,
       "sent_at": "2026-05-15T10:11:01.082993+00:00"
+    },
+    {
+      "arxiv_id": "2605.15141",
+      "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064081+00:00"
+    },
+    {
+      "arxiv_id": "2605.14386",
+      "title": "Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064099+00:00"
+    },
+    {
+      "arxiv_id": "2605.14892",
+      "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064103+00:00"
+    },
+    {
+      "arxiv_id": "2605.06527",
+      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064107+00:00"
+    },
+    {
+      "arxiv_id": "2605.10912",
+      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
+      "score": 9.0,
+      "sent_at": "2026-05-16T09:18:55.064111+00:00"
     }
   ],
   "posts": [
-    {
-      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "domain": "ai",
-      "sent_at": "2026-05-06T08:36:49.040859+00:00"
-    },
-    {
-      "trend_title": "AI didn't delete your database, you did",
-      "domain": "ai",
-      "sent_at": "2026-05-06T08:36:49.040883+00:00"
-    },
-    {
-      "trend_title": "How OpenAI delivers low-latency voice AI at scale",
-      "domain": "ai",
-      "sent_at": "2026-05-06T08:36:49.040889+00:00"
-    },
-    {
-      "trend_title": "Guernsey vs Isle of Man, 3rd T20I, Isle of Man tour of Guernsey 2026 — No result",
-      "domain": "cricket",
-      "sent_at": "2026-05-06T08:36:49.040896+00:00"
-    },
-    {
-      "trend_title": "Germany vs Austria, 3rd T20I, Austria tour of Germany, 2026 — Austria won by 7 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-06T08:36:49.040901+00:00"
-    },
     {
       "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "domain": "ai",
