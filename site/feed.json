@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-17T09:26:44.886943+00:00",
+  "updated": "2026-05-17T13:47:52.155113+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.05185",
-      "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
-      "score": 12.5,
-      "sent_at": "2026-05-07T10:16:17.125426+00:00"
-    },
-    {
-      "arxiv_id": "2605.04018",
-      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
-      "score": 12.25,
-      "sent_at": "2026-05-07T10:16:17.125441+00:00"
-    },
-    {
-      "arxiv_id": "2605.05163",
-      "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
-      "score": 12.0,
-      "sent_at": "2026-05-07T10:16:17.125446+00:00"
-    },
-    {
-      "arxiv_id": "2604.20441",
-      "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills",
-      "score": 12.0,
-      "sent_at": "2026-05-07T10:16:17.125449+00:00"
-    },
-    {
-      "arxiv_id": "2605.03314",
-      "title": "When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning",
-      "score": 12.0,
-      "sent_at": "2026-05-07T10:16:17.125453+00:00"
-    },
     {
       "arxiv_id": "2605.06200",
       "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping",
