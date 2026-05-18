@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T19:19:06.929050+00:00",
+  "updated": "2026-05-18T04:15:47.310780+00:00",
   "papers": [
     {
       "arxiv_id": "2605.06200",
@@ -303,56 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "domain": "ai",
-      "sent_at": "2026-05-07T19:49:18.183792+00:00"
-    },
-    {
-      "trend_title": "Three Inverse Laws of AI",
-      "domain": "ai",
-      "sent_at": "2026-05-07T19:49:18.183818+00:00"
-    },
-    {
-      "trend_title": "How OpenAI delivers low-latency voice AI at scale",
-      "domain": "ai",
-      "sent_at": "2026-05-07T19:49:18.183826+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 1st Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women won by 26 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-07T19:49:18.183833+00:00"
-    },
-    {
-      "trend_title": "Malaysia vs Indonesia, 3rd T20I, Indonesia tour of Malaysia, 2026 — Malaysia won by 104 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-07T19:49:18.183840+00:00"
-    },
-    {
-      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "domain": "ai",
-      "sent_at": "2026-05-08T03:38:43.669437+00:00"
-    },
-    {
-      "trend_title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "domain": "ai",
-      "sent_at": "2026-05-08T03:38:43.669466+00:00"
-    },
-    {
-      "trend_title": "AI slop is killing online communities",
-      "domain": "ai",
-      "sent_at": "2026-05-08T03:38:43.669474+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 1st Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women won by 26 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-08T03:38:43.669481+00:00"
-    },
-    {
-      "trend_title": "Philippines vs Indonesia, 1st Match, ICC Men's T20 World Cup East Asia Pacific Qualifier 2026 — Philippines need 92 runs in 68 balls",
-      "domain": "cricket",
-      "sent_at": "2026-05-08T03:38:43.669486+00:00"
-    },
     {
       "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "domain": "ai",
