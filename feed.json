@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T15:48:25.877254+00:00",
+  "updated": "2026-05-18T19:53:38.985823+00:00",
   "papers": [
     {
       "arxiv_id": "2605.05242",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "domain": "ai",
-      "sent_at": "2026-05-08T19:28:11.978268+00:00"
-    },
-    {
-      "trend_title": "AI slop is killing online communities",
-      "domain": "ai",
-      "sent_at": "2026-05-08T19:28:11.978291+00:00"
-    },
-    {
-      "trend_title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "domain": "ai",
-      "sent_at": "2026-05-08T19:28:11.978298+00:00"
-    },
-    {
-      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania opt to bat",
-      "domain": "cricket",
-      "sent_at": "2026-05-08T19:28:11.978303+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
-      "domain": "cricket",
-      "sent_at": "2026-05-08T19:28:11.978308+00:00"
-    },
     {
       "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "domain": "ai",
