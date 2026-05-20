@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T15:42:11.603605+00:00",
+  "updated": "2026-05-20T20:27:58.847864+00:00",
   "papers": [
     {
       "arxiv_id": "2605.04808",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Meta's embrace of AI is making its employees miserable",
-      "domain": "ai",
-      "sent_at": "2026-05-10T19:14:51.295092+00:00"
-    },
-    {
-      "trend_title": "AI slop is killing online communities",
-      "domain": "ai",
-      "sent_at": "2026-05-10T19:14:51.295115+00:00"
-    },
-    {
-      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-10T19:14:51.295122+00:00"
-    },
-    {
-      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-10T19:14:51.295128+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
-      "domain": "cricket",
-      "sent_at": "2026-05-10T19:14:51.295133+00:00"
-    },
     {
       "trend_title": "Meta's embrace of AI is making its employees miserable",
       "domain": "ai",
