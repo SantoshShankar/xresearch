@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-20T04:11:48.397804+00:00",
+  "updated": "2026-05-20T09:47:50.413095+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.02812",
-      "title": "Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense",
-      "score": 10.0,
-      "sent_at": "2026-05-10T09:20:45.754721+00:00"
-    },
-    {
-      "arxiv_id": "2605.05440",
-      "title": "Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure",
-      "score": 9.5,
-      "sent_at": "2026-05-10T09:20:45.754739+00:00"
-    },
-    {
-      "arxiv_id": "2605.03213",
-      "title": "When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI",
-      "score": 9.25,
-      "sent_at": "2026-05-10T09:20:45.754743+00:00"
-    },
-    {
-      "arxiv_id": "2605.06136",
-      "title": "BUILD-AND-FIND: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases",
-      "score": 9.0,
-      "sent_at": "2026-05-10T09:20:45.754747+00:00"
-    },
-    {
-      "arxiv_id": "2605.03675",
-      "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
-      "score": 9.0,
-      "sent_at": "2026-05-10T09:20:45.754750+00:00"
-    },
     {
       "arxiv_id": "2605.04808",
       "title": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents",
@@ -303,31 +273,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Meta's embrace of AI is making its employees miserable",
-      "domain": "ai",
-      "sent_at": "2026-05-10T08:18:21.317297+00:00"
-    },
-    {
-      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "domain": "ai",
-      "sent_at": "2026-05-10T08:18:21.317321+00:00"
-    },
-    {
-      "trend_title": "AI slop is killing online communities",
-      "domain": "ai",
-      "sent_at": "2026-05-10T08:18:21.317329+00:00"
-    },
-    {
-      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-10T08:18:21.317335+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
-      "domain": "cricket",
-      "sent_at": "2026-05-10T08:18:21.317341+00:00"
-    },
     {
       "trend_title": "Meta's embrace of AI is making its employees miserable",
       "domain": "ai",
