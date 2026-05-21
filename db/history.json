@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2604.18292",
-      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
-      "score": 13.25,
-      "sent_at": "2026-04-21T09:17:36.624144+00:00"
-    },
-    {
-      "arxiv_id": "2604.18543",
-      "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
-      "score": 12.75,
-      "sent_at": "2026-04-21T09:17:36.624160+00:00"
-    },
-    {
-      "arxiv_id": "2604.18486",
-      "title": "OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation",
-      "score": 12.5,
-      "sent_at": "2026-04-21T09:17:36.624165+00:00"
-    },
-    {
-      "arxiv_id": "2604.17308",
-      "title": "SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents",
-      "score": 12.5,
-      "sent_at": "2026-04-21T09:17:36.624169+00:00"
-    },
-    {
-      "arxiv_id": "2604.18224",
-      "title": "WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models",
-      "score": 12.25,
-      "sent_at": "2026-04-21T09:17:36.624172+00:00"
-    },
-    {
       "arxiv_id": "2604.17596",
       "title": "Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories",
       "score": 14.0,
@@ -902,81 +872,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Thoughts and feelings around Claude Design",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:25:31.807923+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:25:31.807950+00:00"
-    },
-    {
-      "trend_title": "College instructor turns to typewriters to curb AI-written work",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:25:31.807958+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:25:31.807964+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:25:31.807970+00:00"
-    },
-    {
-      "trend_title": "Thoughts and feelings around Claude Design",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:49:12.069335+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:49:12.069362+00:00"
-    },
-    {
-      "trend_title": "College instructor turns to typewriters to curb AI-written work",
-      "domain": "ai",
-      "sent_at": "2026-04-21T04:49:12.069367+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:49:12.069371+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Italy Women, 1st Match, ICC Womens T20I Challenge Trophy 2026 — Italy Women won by 16 runs (2nd innings reduced to 7 ovs due to rain, DLS target 67)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T04:49:12.069375+00:00"
-    },
-    {
-      "trend_title": "Claude Design",
-      "domain": "ai",
-      "sent_at": "2026-04-21T08:04:29.426764+00:00"
-    },
-    {
-      "trend_title": "Atlassian enables default data collection to train AI",
-      "domain": "ai",
-      "sent_at": "2026-04-21T08:04:29.426789+00:00"
-    },
-    {
-      "trend_title": "College instructor turns to typewriters to curb AI-written work",
-      "domain": "ai",
-      "sent_at": "2026-04-21T08:04:29.426797+00:00"
-    },
-    {
-      "trend_title": "Nepal vs United Arab Emirates, 1st T20I, United Arab Emirates tour of Nepal 2026 — UAE won by 6 wkts  -  2nd inns reduced to 10 overs (DLS Target 78)",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T08:04:29.426803+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Vanuatu Women, 3rd Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 41 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-21T08:04:29.426810+00:00"
-    },
     {
       "trend_title": "anthropic stock",
       "domain": "ai",
