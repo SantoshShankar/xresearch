@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-22T09:42:44.355602+00:00",
+  "updated": "2026-05-22T10:41:28.344931+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.09649",
-      "title": "Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction",
-      "score": 12.5,
-      "sent_at": "2026-05-12T10:22:41.197364+00:00"
-    },
-    {
-      "arxiv_id": "2605.08520",
-      "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
-      "score": 12.5,
-      "sent_at": "2026-05-12T10:22:41.197383+00:00"
-    },
-    {
-      "arxiv_id": "2605.09063",
-      "title": "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs",
-      "score": 12.0,
-      "sent_at": "2026-05-12T10:22:41.197387+00:00"
-    },
-    {
-      "arxiv_id": "2605.10344",
-      "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
-      "score": 12.0,
-      "sent_at": "2026-05-12T10:22:41.197389+00:00"
-    },
-    {
-      "arxiv_id": "2605.10341",
-      "title": "PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents",
-      "score": 12.0,
-      "sent_at": "2026-05-12T10:22:41.197392+00:00"
-    },
     {
       "arxiv_id": "2605.12477",
       "title": "MEME: Multi-entity & Evolving Memory Evaluation",
@@ -300,6 +270,36 @@
       "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
       "score": 9.0,
       "sent_at": "2026-05-21T10:57:13.788355+00:00"
+    },
+    {
+      "arxiv_id": "2605.22355",
+      "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166663+00:00"
+    },
+    {
+      "arxiv_id": "2605.14678",
+      "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166681+00:00"
+    },
+    {
+      "arxiv_id": "2605.21467",
+      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166685+00:00"
+    },
+    {
+      "arxiv_id": "2605.16928",
+      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166688+00:00"
+    },
+    {
+      "arxiv_id": "2605.22109",
+      "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166692+00:00"
     }
   ],
   "posts": [
