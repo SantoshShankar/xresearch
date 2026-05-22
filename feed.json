@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T04:15:44.155930+00:00",
+  "updated": "2026-05-22T09:42:44.355602+00:00",
   "papers": [
     {
       "arxiv_id": "2605.09649",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Local AI needs to be the norm",
-      "domain": "ai",
-      "sent_at": "2026-05-12T08:49:45.736888+00:00"
-    },
-    {
-      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-12T08:49:45.736913+00:00"
-    },
-    {
-      "trend_title": "If AI writes your code, why use Python?",
-      "domain": "ai",
-      "sent_at": "2026-05-12T08:49:45.736919+00:00"
-    },
-    {
-      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-12T08:49:45.736925+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
-      "domain": "cricket",
-      "sent_at": "2026-05-12T08:49:45.736930+00:00"
-    },
     {
       "trend_title": "Claude Platform on AWS",
       "domain": "ai",
