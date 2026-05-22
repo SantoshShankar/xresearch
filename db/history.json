@@ -869,6 +869,36 @@
       "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
       "score": 9.0,
       "sent_at": "2026-05-21T10:57:13.788355+00:00"
+    },
+    {
+      "arxiv_id": "2605.22355",
+      "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166663+00:00"
+    },
+    {
+      "arxiv_id": "2605.14678",
+      "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166681+00:00"
+    },
+    {
+      "arxiv_id": "2605.21467",
+      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166685+00:00"
+    },
+    {
+      "arxiv_id": "2605.16928",
+      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166688+00:00"
+    },
+    {
+      "arxiv_id": "2605.22109",
+      "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
+      "score": 9.0,
+      "sent_at": "2026-05-22T10:41:28.166692+00:00"
     }
   ],
   "posts": [
