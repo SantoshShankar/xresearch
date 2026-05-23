@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T13:51:45.953789+00:00",
+  "updated": "2026-05-23T19:20:40.910529+00:00",
   "papers": [
     {
       "arxiv_id": "2605.12925",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Local AI needs to be the norm",
-      "domain": "ai",
-      "sent_at": "2026-05-13T14:50:24.195080+00:00"
-    },
-    {
-      "trend_title": "Trending space: black-forest-labs/FLUX.1-Kontext-Dev",
-      "domain": "ai",
-      "sent_at": "2026-05-13T14:50:24.195105+00:00"
-    },
-    {
-      "trend_title": "If AI writes your code, why use Python?",
-      "domain": "ai",
-      "sent_at": "2026-05-13T14:50:24.195111+00:00"
-    },
-    {
-      "trend_title": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026 — South Korea won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T14:50:24.195117+00:00"
-    },
-    {
-      "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T14:50:24.195122+00:00"
-    },
     {
       "trend_title": "Local AI needs to be the norm",
       "domain": "ai",
