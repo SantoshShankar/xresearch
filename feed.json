@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T08:27:18.195552+00:00",
+  "updated": "2026-05-23T09:31:04.219753+00:00",
   "papers": [
     {
       "arxiv_id": "2605.12477",
@@ -300,34 +300,39 @@
       "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
       "score": 9.0,
       "sent_at": "2026-05-22T10:41:28.166692+00:00"
+    },
+    {
+      "arxiv_id": "2605.22138",
+      "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
+      "score": 10.0,
+      "sent_at": "2026-05-23T09:31:04.056847+00:00"
+    },
+    {
+      "arxiv_id": "2605.21850",
+      "title": "ACC: Compiling Agent Trajectories for Long-Context Training",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056867+00:00"
+    },
+    {
+      "arxiv_id": "2605.21572",
+      "title": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056871+00:00"
+    },
+    {
+      "arxiv_id": "2605.22012",
+      "title": "LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056874+00:00"
+    },
+    {
+      "arxiv_id": "2605.22681",
+      "title": "Forecasting Scientific Progress with Artificial Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056878+00:00"
     }
   ],
   "posts": [
-    {
-      "trend_title": "Local AI needs to be the norm",
-      "domain": "ai",
-      "sent_at": "2026-05-13T08:53:43.247575+00:00"
-    },
-    {
-      "trend_title": "If AI writes your code, why use Python?",
-      "domain": "ai",
-      "sent_at": "2026-05-13T08:53:43.247601+00:00"
-    },
-    {
-      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-13T08:53:43.247609+00:00"
-    },
-    {
-      "trend_title": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026 — South Korea won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T08:53:43.247615+00:00"
-    },
-    {
-      "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T08:53:43.247621+00:00"
-    },
     {
       "trend_title": "Local AI needs to be the norm",
       "domain": "ai",
