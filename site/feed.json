@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T03:53:21.177856+00:00",
+  "updated": "2026-05-23T08:27:18.195552+00:00",
   "papers": [
     {
       "arxiv_id": "2605.12477",
@@ -303,31 +303,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Local AI needs to be the norm",
-      "domain": "ai",
-      "sent_at": "2026-05-13T03:59:25.359444+00:00"
-    },
-    {
-      "trend_title": "If AI writes your code, why use Python?",
-      "domain": "ai",
-      "sent_at": "2026-05-13T03:59:25.359471+00:00"
-    },
-    {
-      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-13T03:59:25.359478+00:00"
-    },
-    {
-      "trend_title": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026 — South Korea need 52 runs in 49 balls",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T03:59:25.359484+00:00"
-    },
-    {
-      "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T03:59:25.359489+00:00"
-    },
     {
       "trend_title": "Local AI needs to be the norm",
       "domain": "ai",
