@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2604.20779",
-      "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
-      "score": 13.5,
-      "sent_at": "2026-04-23T09:18:13.594088+00:00"
-    },
-    {
-      "arxiv_id": "2604.16529",
-      "title": "Scaling Test-Time Compute for Agentic Coding",
-      "score": 12.75,
-      "sent_at": "2026-04-23T09:18:13.594104+00:00"
-    },
-    {
-      "arxiv_id": "2604.11610",
-      "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
-      "score": 12.5,
-      "sent_at": "2026-04-23T09:18:13.594109+00:00"
-    },
-    {
-      "arxiv_id": "2604.18982",
-      "title": "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution",
-      "score": 12.25,
-      "sent_at": "2026-04-23T09:18:13.594112+00:00"
-    },
-    {
-      "arxiv_id": "2604.18805",
-      "title": "AI scientists produce results without reasoning scientifically",
-      "score": 12.25,
-      "sent_at": "2026-04-23T09:18:13.594116+00:00"
-    },
-    {
       "arxiv_id": "2604.19572",
       "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
       "score": 13.0,
@@ -899,6 +869,36 @@
       "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
       "score": 9.0,
       "sent_at": "2026-05-22T10:41:28.166692+00:00"
+    },
+    {
+      "arxiv_id": "2605.22138",
+      "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
+      "score": 10.0,
+      "sent_at": "2026-05-23T09:31:04.056847+00:00"
+    },
+    {
+      "arxiv_id": "2605.21850",
+      "title": "ACC: Compiling Agent Trajectories for Long-Context Training",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056867+00:00"
+    },
+    {
+      "arxiv_id": "2605.21572",
+      "title": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056871+00:00"
+    },
+    {
+      "arxiv_id": "2605.22012",
+      "title": "LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056874+00:00"
+    },
+    {
+      "arxiv_id": "2605.22681",
+      "title": "Forecasting Scientific Progress with Artificial Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-05-23T09:31:04.056878+00:00"
     }
   ],
   "posts": [
