@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2604.19572",
-      "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
-      "score": 13.0,
-      "sent_at": "2026-04-24T09:22:55.849325+00:00"
-    },
-    {
-      "arxiv_id": "2604.21375",
-      "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
-      "score": 12.5,
-      "sent_at": "2026-04-24T09:22:55.849342+00:00"
-    },
-    {
-      "arxiv_id": "2604.15093",
-      "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
-      "score": 12.5,
-      "sent_at": "2026-04-24T09:22:55.849348+00:00"
-    },
-    {
-      "arxiv_id": "2604.21686",
-      "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
-      "score": 12.25,
-      "sent_at": "2026-04-24T09:22:55.849353+00:00"
-    },
-    {
-      "arxiv_id": "2604.19734",
-      "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
-      "score": 12.25,
-      "sent_at": "2026-04-24T09:22:55.849358+00:00"
-    },
-    {
       "arxiv_id": "2604.20987",
       "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
       "score": 12.0,
@@ -899,6 +869,36 @@
       "title": "Forecasting Scientific Progress with Artificial Intelligence",
       "score": 9.0,
       "sent_at": "2026-05-23T09:31:04.056878+00:00"
+    },
+    {
+      "arxiv_id": "2605.22786",
+      "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
+      "score": 6.0,
+      "sent_at": "2026-05-24T09:46:33.689054+00:00"
+    },
+    {
+      "arxiv_id": "2605.22564",
+      "title": "SynAE: A Framework for Measuring the Quality of Synthetic Data for Tool-Calling Agent Evaluations",
+      "score": 6.0,
+      "sent_at": "2026-05-24T09:46:33.689072+00:00"
+    },
+    {
+      "arxiv_id": "2605.22511",
+      "title": "Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning",
+      "score": 6.0,
+      "sent_at": "2026-05-24T09:46:33.689076+00:00"
+    },
+    {
+      "arxiv_id": "2605.22205",
+      "title": "Skill Weaving: Efficient LLM Improvement via Modular Skillpacks",
+      "score": 6.0,
+      "sent_at": "2026-05-24T09:46:33.689080+00:00"
+    },
+    {
+      "arxiv_id": "2605.21740",
+      "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
+      "score": 6.0,
+      "sent_at": "2026-05-24T09:46:33.689084+00:00"
     }
   ],
   "posts": [
