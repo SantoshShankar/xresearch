@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-24T09:46:33.858188+00:00",
+  "updated": "2026-05-24T13:48:54.309787+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.12925",
-      "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
-      "score": 12.75,
-      "sent_at": "2026-05-14T10:05:48.598902+00:00"
-    },
-    {
-      "arxiv_id": "2605.13542",
-      "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
-      "score": 12.5,
-      "sent_at": "2026-05-14T10:05:48.598920+00:00"
-    },
-    {
-      "arxiv_id": "2605.12004",
-      "title": "Learning Agentic Policy from Action Guidance",
-      "score": 12.25,
-      "sent_at": "2026-05-14T10:05:48.598924+00:00"
-    },
-    {
-      "arxiv_id": "2605.09942",
-      "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution",
-      "score": 12.25,
-      "sent_at": "2026-05-14T10:05:48.598928+00:00"
-    },
-    {
-      "arxiv_id": "2605.13037",
-      "title": "MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning",
-      "score": 12.25,
-      "sent_at": "2026-05-14T10:05:48.598931+00:00"
-    },
     {
       "arxiv_id": "2605.13301",
       "title": "Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling",
