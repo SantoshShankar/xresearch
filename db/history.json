@@ -869,6 +869,36 @@
       "title": "SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?",
       "score": 6.0,
       "sent_at": "2026-05-24T09:46:33.689084+00:00"
+    },
+    {
+      "arxiv_id": "2605.23904",
+      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "score": 9.0,
+      "sent_at": "2026-05-25T11:40:57.421047+00:00"
+    },
+    {
+      "arxiv_id": "2605.21573",
+      "title": "Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models",
+      "score": 9.0,
+      "sent_at": "2026-05-25T11:40:57.421064+00:00"
+    },
+    {
+      "arxiv_id": "2605.20708",
+      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+      "score": 9.0,
+      "sent_at": "2026-05-25T11:40:57.421069+00:00"
+    },
+    {
+      "arxiv_id": "2605.22878",
+      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+      "score": 9.0,
+      "sent_at": "2026-05-25T11:40:57.421074+00:00"
+    },
+    {
+      "arxiv_id": "2605.23463",
+      "title": "StepAudio 2.5 Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-05-25T11:40:57.421079+00:00"
     }
   ],
   "posts": [
