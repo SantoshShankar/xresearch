@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-26T04:10:25.560813+00:00",
+  "updated": "2026-05-26T10:10:18.561079+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.15141",
-      "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-05-16T09:18:55.064081+00:00"
-    },
-    {
-      "arxiv_id": "2605.14386",
-      "title": "Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning",
-      "score": 9.0,
-      "sent_at": "2026-05-16T09:18:55.064099+00:00"
-    },
-    {
-      "arxiv_id": "2605.14892",
-      "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
-      "score": 9.0,
-      "sent_at": "2026-05-16T09:18:55.064103+00:00"
-    },
-    {
-      "arxiv_id": "2605.06527",
-      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
-      "score": 9.0,
-      "sent_at": "2026-05-16T09:18:55.064107+00:00"
-    },
-    {
-      "arxiv_id": "2605.10912",
-      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
-      "score": 9.0,
-      "sent_at": "2026-05-16T09:18:55.064111+00:00"
-    },
     {
       "arxiv_id": "2605.15064",
       "title": "After the Interface: Relocating Human Agency in the Age of Conversational AI",
