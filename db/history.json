@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2604.22294",
-      "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
-      "score": 12.75,
-      "sent_at": "2026-04-27T10:04:39.943088+00:00"
-    },
-    {
-      "arxiv_id": "2604.22436",
-      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
-      "score": 12.75,
-      "sent_at": "2026-04-27T10:04:39.943104+00:00"
-    },
-    {
-      "arxiv_id": "2604.22152",
-      "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
-      "score": 12.0,
-      "sent_at": "2026-04-27T10:04:39.943107+00:00"
-    },
-    {
-      "arxiv_id": "2604.22565",
-      "title": "Learning Evidence Highlighting for Frozen LLMs",
-      "score": 12.0,
-      "sent_at": "2026-04-27T10:04:39.943109+00:00"
-    },
-    {
-      "arxiv_id": "2604.18519",
-      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
-      "score": 11.25,
-      "sent_at": "2026-04-27T10:04:39.943111+00:00"
-    },
-    {
       "arxiv_id": "2604.23781",
       "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
       "score": 13.0,
@@ -872,31 +842,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "GPT‑5.5 Bio Bug Bounty",
-      "domain": "ai",
-      "sent_at": "2026-04-27T08:37:16.220541+00:00"
-    },
-    {
-      "trend_title": "Amateur armed with ChatGPT solves an Erdős problem",
-      "domain": "ai",
-      "sent_at": "2026-04-27T08:37:16.220566+00:00"
-    },
-    {
-      "trend_title": "An AI agent deleted our production database. The agent's confession is below",
-      "domain": "ai",
-      "sent_at": "2026-04-27T08:37:16.220573+00:00"
-    },
-    {
-      "trend_title": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 8 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-27T08:37:16.220579+00:00"
-    },
-    {
-      "trend_title": "Nepal Women vs Vanuatu Women, 9th Match, ICC Womens T20I Challenge Trophy 2026 — Vanuatu Women won by 22 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-27T08:37:16.220584+00:00"
-    },
     {
       "trend_title": "GPT‑5.5 Bio Bug Bounty",
       "domain": "ai",
