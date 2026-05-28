@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-28T11:27:40.155065+00:00",
+  "updated": "2026-05-28T16:15:09.208515+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.15301",
-      "title": "Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution",
-      "score": 10.0,
-      "sent_at": "2026-05-18T11:37:06.797249+00:00"
-    },
-    {
-      "arxiv_id": "2605.15298",
-      "title": "PhysBrain 1.0 Technical Report",
-      "score": 9.0,
-      "sent_at": "2026-05-18T11:37:06.797268+00:00"
-    },
-    {
-      "arxiv_id": "2605.13527",
-      "title": "MMSkills: Towards Multimodal Skills for General Visual Agents",
-      "score": 9.0,
-      "sent_at": "2026-05-18T11:37:06.797272+00:00"
-    },
-    {
-      "arxiv_id": "2605.12882",
-      "title": "CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-05-18T11:37:06.797275+00:00"
-    },
-    {
-      "arxiv_id": "2605.16257",
-      "title": "DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo",
-      "score": 9.0,
-      "sent_at": "2026-05-18T11:37:06.797278+00:00"
-    },
     {
       "arxiv_id": "2605.18747",
       "title": "Code as Agent Harness",
