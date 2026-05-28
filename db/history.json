@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2604.23781",
-      "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
-      "score": 13.0,
-      "sent_at": "2026-04-28T10:05:55.018971+00:00"
-    },
-    {
-      "arxiv_id": "2604.24479",
-      "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
-      "score": 12.75,
-      "sent_at": "2026-04-28T10:05:55.018984+00:00"
-    },
-    {
-      "arxiv_id": "2604.21480",
-      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
-      "score": 12.5,
-      "sent_at": "2026-04-28T10:05:55.018987+00:00"
-    },
-    {
-      "arxiv_id": "2604.22085",
-      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-      "score": 12.5,
-      "sent_at": "2026-04-28T10:05:55.018990+00:00"
-    },
-    {
-      "arxiv_id": "2604.20012",
-      "title": "EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training",
-      "score": 12.25,
-      "sent_at": "2026-04-28T10:05:55.019020+00:00"
-    },
-    {
       "arxiv_id": "2604.24005",
       "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
       "score": 13.0,
@@ -872,31 +842,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "GPT-5.5",
-      "domain": "ai",
-      "sent_at": "2026-04-28T08:35:17.855485+00:00"
-    },
-    {
-      "trend_title": "China blocks Meta's acquisition of AI startup Manus",
-      "domain": "ai",
-      "sent_at": "2026-04-28T08:35:17.855506+00:00"
-    },
-    {
-      "trend_title": "Archaeologists at Pompeii use artificial intelligence to reveal the face of one of the victims - ABC News - Breaking News, Latest News and Videos",
-      "domain": "ai",
-      "sent_at": "2026-04-28T08:35:17.855514+00:00"
-    },
-    {
-      "trend_title": "Costa Rica Women vs Chile Women, 1st T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 8 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-28T08:35:17.855520+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Vanuatu Women, 11th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 3 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-28T08:35:17.855523+00:00"
-    },
     {
       "trend_title": "GPT-5.5",
       "domain": "ai",
