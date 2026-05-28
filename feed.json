@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T10:16:13.690207+00:00",
+  "updated": "2026-05-28T11:27:40.155065+00:00",
   "papers": [
     {
       "arxiv_id": "2605.15301",
@@ -270,6 +270,36 @@
       "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
       "score": 9.0,
       "sent_at": "2026-05-27T11:26:32.724709+00:00"
+    },
+    {
+      "arxiv_id": "2605.28293",
+      "title": "ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation",
+      "score": 9.0,
+      "sent_at": "2026-05-28T11:27:40.032158+00:00"
+    },
+    {
+      "arxiv_id": "2605.28774",
+      "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-05-28T11:27:40.032176+00:00"
+    },
+    {
+      "arxiv_id": "2605.28816",
+      "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
+      "score": 9.0,
+      "sent_at": "2026-05-28T11:27:40.032178+00:00"
+    },
+    {
+      "arxiv_id": "2605.28820",
+      "title": "From Pixels to Words -- Towards Native One-Vision Models at Scale",
+      "score": 9.0,
+      "sent_at": "2026-05-28T11:27:40.032179+00:00"
+    },
+    {
+      "arxiv_id": "2605.28814",
+      "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
+      "score": 9.0,
+      "sent_at": "2026-05-28T11:27:40.032180+00:00"
     }
   ],
   "posts": []
