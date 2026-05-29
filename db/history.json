@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2604.24005",
-      "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
-      "score": 13.0,
-      "sent_at": "2026-04-29T09:57:10.918251+00:00"
-    },
-    {
-      "arxiv_id": "2604.24441",
-      "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
-      "score": 12.75,
-      "sent_at": "2026-04-29T09:57:10.918269+00:00"
-    },
-    {
-      "arxiv_id": "2604.25914",
-      "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
-      "score": 12.5,
-      "sent_at": "2026-04-29T09:57:10.918274+00:00"
-    },
-    {
-      "arxiv_id": "2604.25727",
-      "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
-      "score": 12.5,
-      "sent_at": "2026-04-29T09:57:10.918277+00:00"
-    },
-    {
-      "arxiv_id": "2604.23941",
-      "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
-      "score": 12.5,
-      "sent_at": "2026-04-29T09:57:10.918282+00:00"
-    },
-    {
       "arxiv_id": "2604.25917",
       "title": "Recursive Multi-Agent Systems",
       "score": 12.75,
@@ -872,31 +842,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "domain": "ai",
-      "sent_at": "2026-04-29T08:29:05.298495+00:00"
-    },
-    {
-      "trend_title": "AI should elevate your thinking, not replace it",
-      "domain": "ai",
-      "sent_at": "2026-04-29T08:29:05.298514+00:00"
-    },
-    {
-      "trend_title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "domain": "ai",
-      "sent_at": "2026-04-29T08:29:05.298520+00:00"
-    },
-    {
-      "trend_title": "Costa Rica Women vs Chile Women, 2nd T20I, Chile Women tour of Costa Rica 2026 — Costa Rica Women won by 8 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-04-29T08:29:05.298526+00:00"
-    },
-    {
-      "trend_title": "Rwanda Women vs Vanuatu Women, 11th Match, ICC Womens T20I Challenge Trophy 2026 — Rwanda Women won by 3 runs",
-      "domain": "cricket",
-      "sent_at": "2026-04-29T08:29:05.298532+00:00"
-    },
     {
       "trend_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "domain": "ai",
