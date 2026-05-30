@@ -1,36 +1,6 @@
 {
-  "updated": "2026-05-30T09:48:46.143819+00:00",
+  "updated": "2026-05-30T13:56:34.518584+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.17894",
-      "title": "Evaluating Cognitive Age Alignment in Interactive AI Agents",
-      "score": 10.0,
-      "sent_at": "2026-05-20T10:40:22.420194+00:00"
-    },
-    {
-      "arxiv_id": "2605.19577",
-      "title": "GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment",
-      "score": 9.0,
-      "sent_at": "2026-05-20T10:40:22.420214+00:00"
-    },
-    {
-      "arxiv_id": "2605.19769",
-      "title": "OpenComputer: Verifiable Software Worlds for Computer-Use Agents",
-      "score": 9.0,
-      "sent_at": "2026-05-20T10:40:22.420218+00:00"
-    },
-    {
-      "arxiv_id": "2605.16403",
-      "title": "When Vision Speaks for Sound",
-      "score": 9.0,
-      "sent_at": "2026-05-20T10:40:22.420221+00:00"
-    },
-    {
-      "arxiv_id": "2605.20025",
-      "title": "AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration",
-      "score": 9.0,
-      "sent_at": "2026-05-20T10:40:22.420226+00:00"
-    },
     {
       "arxiv_id": "2605.20315",
       "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
