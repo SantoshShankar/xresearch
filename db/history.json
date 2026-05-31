@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2604.28139",
-      "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows",
-      "score": 14.0,
-      "sent_at": "2026-05-01T09:25:57.462082+00:00"
-    },
-    {
-      "arxiv_id": "2604.26091",
-      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-      "score": 13.25,
-      "sent_at": "2026-05-01T09:25:57.462098+00:00"
-    },
-    {
-      "arxiv_id": "2604.28158",
-      "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
-      "score": 12.5,
-      "sent_at": "2026-05-01T09:25:57.462102+00:00"
-    },
-    {
-      "arxiv_id": "2604.28181",
-      "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
-      "score": 12.5,
-      "sent_at": "2026-05-01T09:25:57.462106+00:00"
-    },
-    {
-      "arxiv_id": "2604.24658",
-      "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
-      "score": 12.5,
-      "sent_at": "2026-05-01T09:25:57.462110+00:00"
-    },
-    {
       "arxiv_id": "2604.27419",
       "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
       "score": 12.75,
@@ -869,6 +839,36 @@
       "title": "EarlyTom: Early Token Compression Completes Fast Video Understanding",
       "score": 9.0,
       "sent_at": "2026-05-30T09:48:45.999327+00:00"
+    },
+    {
+      "arxiv_id": "2605.30208",
+      "title": "Automating Low-Risk Code Review at Meta: RADAR, Risk Calibration, and Review Efficiency",
+      "score": 6.0,
+      "sent_at": "2026-05-31T10:09:55.017209+00:00"
+    },
+    {
+      "arxiv_id": "2605.30187",
+      "title": "Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance",
+      "score": 6.0,
+      "sent_at": "2026-05-31T10:09:55.017223+00:00"
+    },
+    {
+      "arxiv_id": "2605.29879",
+      "title": "DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding",
+      "score": 6.0,
+      "sent_at": "2026-05-31T10:09:55.017227+00:00"
+    },
+    {
+      "arxiv_id": "2605.29829",
+      "title": "OptSkills: Learning Generalizable Optimization Skills from Problem Archetypes via Cluster-Based Distillation",
+      "score": 6.0,
+      "sent_at": "2026-05-31T10:09:55.017231+00:00"
+    },
+    {
+      "arxiv_id": "2605.29790",
+      "title": "Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems",
+      "score": 6.0,
+      "sent_at": "2026-05-31T10:09:55.017235+00:00"
     }
   ],
   "posts": [
