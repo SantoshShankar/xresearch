@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-01T04:57:23.175456+00:00",
+  "updated": "2026-06-01T11:48:53.037574+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.22355",
-      "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166663+00:00"
-    },
-    {
-      "arxiv_id": "2605.14678",
-      "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166681+00:00"
-    },
-    {
-      "arxiv_id": "2605.21467",
-      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166685+00:00"
-    },
-    {
-      "arxiv_id": "2605.16928",
-      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166688+00:00"
-    },
-    {
-      "arxiv_id": "2605.22109",
-      "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166692+00:00"
-    },
     {
       "arxiv_id": "2605.22138",
       "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
