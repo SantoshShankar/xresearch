@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T10:47:29.015550+00:00",
+  "updated": "2026-06-02T11:56:03.980579+00:00",
   "papers": [
     {
       "arxiv_id": "2605.22786",
@@ -240,6 +240,36 @@
       "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
       "score": 9.0,
       "sent_at": "2026-06-01T13:29:02.077465+00:00"
+    },
+    {
+      "arxiv_id": "2606.02404",
+      "title": "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts",
+      "score": 10.0,
+      "sent_at": "2026-06-02T11:56:03.805601+00:00"
+    },
+    {
+      "arxiv_id": "2605.30611",
+      "title": "Crafter: A Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs",
+      "score": 9.0,
+      "sent_at": "2026-06-02T11:56:03.805619+00:00"
+    },
+    {
+      "arxiv_id": "2606.02437",
+      "title": "On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters",
+      "score": 9.0,
+      "sent_at": "2026-06-02T11:56:03.805623+00:00"
+    },
+    {
+      "arxiv_id": "2605.28556",
+      "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks",
+      "score": 9.0,
+      "sent_at": "2026-06-02T11:56:03.805628+00:00"
+    },
+    {
+      "arxiv_id": "2605.29343",
+      "title": "Draft-OPD: On-Policy Distillation for Speculative Draft Models",
+      "score": 9.0,
+      "sent_at": "2026-06-02T11:56:03.805632+00:00"
     }
   ],
   "posts": []
