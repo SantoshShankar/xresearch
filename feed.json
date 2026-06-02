@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-02T04:46:29.206643+00:00",
+  "updated": "2026-06-02T10:47:29.015550+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.22138",
-      "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
-      "score": 10.0,
-      "sent_at": "2026-05-23T09:31:04.056847+00:00"
-    },
-    {
-      "arxiv_id": "2605.21850",
-      "title": "ACC: Compiling Agent Trajectories for Long-Context Training",
-      "score": 9.0,
-      "sent_at": "2026-05-23T09:31:04.056867+00:00"
-    },
-    {
-      "arxiv_id": "2605.21572",
-      "title": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
-      "score": 9.0,
-      "sent_at": "2026-05-23T09:31:04.056871+00:00"
-    },
-    {
-      "arxiv_id": "2605.22012",
-      "title": "LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning",
-      "score": 9.0,
-      "sent_at": "2026-05-23T09:31:04.056874+00:00"
-    },
-    {
-      "arxiv_id": "2605.22681",
-      "title": "Forecasting Scientific Progress with Artificial Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-05-23T09:31:04.056878+00:00"
-    },
     {
       "arxiv_id": "2605.22786",
       "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
