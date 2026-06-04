@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T10:07:04.848073+00:00",
+  "updated": "2026-06-04T10:55:37.144851+00:00",
   "papers": [
     {
       "arxiv_id": "2605.23904",
@@ -240,6 +240,36 @@
       "title": "Draft-OPD: On-Policy Distillation for Speculative Draft Models",
       "score": 9.0,
       "sent_at": "2026-06-02T11:56:03.805632+00:00"
+    },
+    {
+      "arxiv_id": "2606.03159",
+      "title": "NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation",
+      "score": 11.0,
+      "sent_at": "2026-06-04T10:55:36.992893+00:00"
+    },
+    {
+      "arxiv_id": "2606.02800",
+      "title": "Cosmos 3: Omnimodal World Models for Physical AI",
+      "score": 9.0,
+      "sent_at": "2026-06-04T10:55:36.992912+00:00"
+    },
+    {
+      "arxiv_id": "2606.02060",
+      "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories",
+      "score": 9.0,
+      "sent_at": "2026-06-04T10:55:36.992916+00:00"
+    },
+    {
+      "arxiv_id": "2606.03890",
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "score": 9.0,
+      "sent_at": "2026-06-04T10:55:36.992919+00:00"
+    },
+    {
+      "arxiv_id": "2606.03746",
+      "title": "Qwen-Image-Flash: Beyond Objective Design",
+      "score": 9.0,
+      "sent_at": "2026-06-04T10:55:36.992922+00:00"
     }
   ],
   "posts": []
