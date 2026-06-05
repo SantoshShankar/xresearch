@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T10:04:01.847334+00:00",
+  "updated": "2026-06-05T11:16:52.157745+00:00",
   "papers": [
     {
       "arxiv_id": "2605.27141",
@@ -240,6 +240,36 @@
       "title": "Qwen-Image-Flash: Beyond Objective Design",
       "score": 9.0,
       "sent_at": "2026-06-04T10:55:36.992922+00:00"
+    },
+    {
+      "arxiv_id": "2606.05553",
+      "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?",
+      "score": 9.0,
+      "sent_at": "2026-06-05T11:16:51.992054+00:00"
+    },
+    {
+      "arxiv_id": "2606.04743",
+      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "score": 9.0,
+      "sent_at": "2026-06-05T11:16:51.992073+00:00"
+    },
+    {
+      "arxiv_id": "2606.05259",
+      "title": "VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding",
+      "score": 9.0,
+      "sent_at": "2026-06-05T11:16:51.992078+00:00"
+    },
+    {
+      "arxiv_id": "2606.05622",
+      "title": "AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints",
+      "score": 9.0,
+      "sent_at": "2026-06-05T11:16:51.992082+00:00"
+    },
+    {
+      "arxiv_id": "2606.06428",
+      "title": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
+      "score": 9.0,
+      "sent_at": "2026-06-05T11:16:51.992086+00:00"
     }
   ],
   "posts": []
