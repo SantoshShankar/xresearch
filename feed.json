@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T08:42:11.811500+00:00",
+  "updated": "2026-06-06T09:55:35.820773+00:00",
   "papers": [
     {
       "arxiv_id": "2605.27141",
@@ -270,6 +270,36 @@
       "title": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
       "score": 9.0,
       "sent_at": "2026-06-05T11:16:51.992086+00:00"
+    },
+    {
+      "arxiv_id": "2606.06492",
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "score": 9.0,
+      "sent_at": "2026-06-06T09:55:35.678484+00:00"
+    },
+    {
+      "arxiv_id": "2606.03312",
+      "title": "RobotValues: Evaluating Household Robots When Human Values Conflict",
+      "score": 9.0,
+      "sent_at": "2026-06-06T09:55:35.678502+00:00"
+    },
+    {
+      "arxiv_id": "2606.06042",
+      "title": "LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing",
+      "score": 9.0,
+      "sent_at": "2026-06-06T09:55:35.678506+00:00"
+    },
+    {
+      "arxiv_id": "2606.05275",
+      "title": "Personal AI Agent for Camera Roll VQA",
+      "score": 9.0,
+      "sent_at": "2026-06-06T09:55:35.678509+00:00"
+    },
+    {
+      "arxiv_id": "2606.04703",
+      "title": "Rethinking Continual Experience Internalization for Self-Evolving LLM Agents",
+      "score": 9.0,
+      "sent_at": "2026-06-06T09:55:35.678512+00:00"
     }
   ],
   "posts": []
