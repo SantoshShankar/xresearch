@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-06T09:55:35.820773+00:00",
+  "updated": "2026-06-06T13:58:10.092274+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.27141",
-      "title": "VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions",
-      "score": 10.0,
-      "sent_at": "2026-05-27T11:26:32.724680+00:00"
-    },
-    {
-      "arxiv_id": "2605.27365",
-      "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
-      "score": 9.0,
-      "sent_at": "2026-05-27T11:26:32.724700+00:00"
-    },
-    {
-      "arxiv_id": "2605.27367",
-      "title": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
-      "score": 9.0,
-      "sent_at": "2026-05-27T11:26:32.724705+00:00"
-    },
-    {
-      "arxiv_id": "2605.26114",
-      "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-      "score": 9.0,
-      "sent_at": "2026-05-27T11:26:32.724707+00:00"
-    },
-    {
-      "arxiv_id": "2605.26230",
-      "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
-      "score": 9.0,
-      "sent_at": "2026-05-27T11:26:32.724709+00:00"
-    },
     {
       "arxiv_id": "2605.28293",
       "title": "ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation",
