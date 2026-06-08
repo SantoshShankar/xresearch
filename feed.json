@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-08T11:10:04.450867+00:00",
+  "updated": "2026-06-08T12:19:02.730942+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.29801",
-      "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273747+00:00"
-    },
-    {
-      "arxiv_id": "2605.29250",
-      "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273763+00:00"
-    },
-    {
-      "arxiv_id": "2605.25378",
-      "title": "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273768+00:00"
-    },
-    {
-      "arxiv_id": "2605.30263",
-      "title": "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273772+00:00"
-    },
-    {
-      "arxiv_id": "2605.30346",
-      "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273776+00:00"
-    },
     {
       "arxiv_id": "2605.30102",
       "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
@@ -270,6 +240,36 @@
       "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
       "score": 6.0,
       "sent_at": "2026-06-07T10:19:49.249358+00:00"
+    },
+    {
+      "arxiv_id": "2606.07502",
+      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "score": 9.0,
+      "sent_at": "2026-06-08T12:19:02.562438+00:00"
+    },
+    {
+      "arxiv_id": "2606.07229",
+      "title": "MMAE: A Massive Multitask Audio Editing Benchmark",
+      "score": 9.0,
+      "sent_at": "2026-06-08T12:19:02.562458+00:00"
+    },
+    {
+      "arxiv_id": "2606.05563",
+      "title": "SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations",
+      "score": 9.0,
+      "sent_at": "2026-06-08T12:19:02.562462+00:00"
+    },
+    {
+      "arxiv_id": "2606.07326",
+      "title": "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization",
+      "score": 9.0,
+      "sent_at": "2026-06-08T12:19:02.562465+00:00"
+    },
+    {
+      "arxiv_id": "2606.06601",
+      "title": "Direct 3D-Aware Object Insertion via Decomposed Visual Proxies",
+      "score": 9.0,
+      "sent_at": "2026-06-08T12:19:02.562468+00:00"
     }
   ],
   "posts": []
