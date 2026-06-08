@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.05242",
-      "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
-      "score": 12.25,
-      "sent_at": "2026-05-09T09:07:05.471979+00:00"
-    },
-    {
-      "arxiv_id": "2605.06642",
-      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-      "score": 12.25,
-      "sent_at": "2026-05-09T09:07:05.471998+00:00"
-    },
-    {
-      "arxiv_id": "2605.06130",
-      "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
-      "score": 12.0,
-      "sent_at": "2026-05-09T09:07:05.472002+00:00"
-    },
-    {
-      "arxiv_id": "2605.06638",
-      "title": "Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key",
-      "score": 12.0,
-      "sent_at": "2026-05-09T09:07:05.472005+00:00"
-    },
-    {
-      "arxiv_id": "2605.04647",
-      "title": "ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving",
-      "score": 12.0,
-      "sent_at": "2026-05-09T09:07:05.472007+00:00"
-    },
-    {
       "arxiv_id": "2605.02812",
       "title": "Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense",
       "score": 10.0,
@@ -842,31 +812,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "domain": "ai",
-      "sent_at": "2026-05-09T08:04:53.188908+00:00"
-    },
-    {
-      "trend_title": "AI slop is killing online communities",
-      "domain": "ai",
-      "sent_at": "2026-05-09T08:04:53.188931+00:00"
-    },
-    {
-      "trend_title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "domain": "ai",
-      "sent_at": "2026-05-09T08:04:53.188939+00:00"
-    },
-    {
-      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-09T08:04:53.188946+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
-      "domain": "cricket",
-      "sent_at": "2026-05-09T08:04:53.188952+00:00"
-    },
     {
       "trend_title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "domain": "ai",
