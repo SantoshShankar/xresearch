@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-09T04:08:16.423699+00:00",
+  "updated": "2026-06-09T09:56:39.506893+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.30102",
-      "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
-      "score": 10.0,
-      "sent_at": "2026-05-30T09:48:45.999293+00:00"
-    },
-    {
-      "arxiv_id": "2605.30280",
-      "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
-      "score": 9.0,
-      "sent_at": "2026-05-30T09:48:45.999313+00:00"
-    },
-    {
-      "arxiv_id": "2605.30248",
-      "title": "GenClaw: Code-Driven Agentic Image Generation",
-      "score": 9.0,
-      "sent_at": "2026-05-30T09:48:45.999318+00:00"
-    },
-    {
-      "arxiv_id": "2605.30161",
-      "title": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
-      "score": 9.0,
-      "sent_at": "2026-05-30T09:48:45.999323+00:00"
-    },
-    {
-      "arxiv_id": "2605.30010",
-      "title": "EarlyTom: Early Token Compression Completes Fast Video Understanding",
-      "score": 9.0,
-      "sent_at": "2026-05-30T09:48:45.999327+00:00"
-    },
     {
       "arxiv_id": "2605.30208",
       "title": "Automating Low-Risk Code Review at Meta: RADAR, Risk Calibration, and Review Efficiency",
