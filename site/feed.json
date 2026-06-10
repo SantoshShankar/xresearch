@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-10T04:19:48.674356+00:00",
+  "updated": "2026-06-10T10:14:21.399064+00:00",
   "papers": [
-    {
-      "arxiv_id": "2605.30208",
-      "title": "Automating Low-Risk Code Review at Meta: RADAR, Risk Calibration, and Review Efficiency",
-      "score": 6.0,
-      "sent_at": "2026-05-31T10:09:55.017209+00:00"
-    },
-    {
-      "arxiv_id": "2605.30187",
-      "title": "Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance",
-      "score": 6.0,
-      "sent_at": "2026-05-31T10:09:55.017223+00:00"
-    },
-    {
-      "arxiv_id": "2605.29879",
-      "title": "DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding",
-      "score": 6.0,
-      "sent_at": "2026-05-31T10:09:55.017227+00:00"
-    },
-    {
-      "arxiv_id": "2605.29829",
-      "title": "OptSkills: Learning Generalizable Optimization Skills from Problem Archetypes via Cluster-Based Distillation",
-      "score": 6.0,
-      "sent_at": "2026-05-31T10:09:55.017231+00:00"
-    },
-    {
-      "arxiv_id": "2605.29790",
-      "title": "Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems",
-      "score": 6.0,
-      "sent_at": "2026-05-31T10:09:55.017235+00:00"
-    },
     {
       "arxiv_id": "2605.29307",
       "title": "GrepSeek: Training Search Agents for Direct Corpus Interaction",
