@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.09649",
-      "title": "Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction",
-      "score": 12.5,
-      "sent_at": "2026-05-12T10:22:41.197364+00:00"
-    },
-    {
-      "arxiv_id": "2605.08520",
-      "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
-      "score": 12.5,
-      "sent_at": "2026-05-12T10:22:41.197383+00:00"
-    },
-    {
-      "arxiv_id": "2605.09063",
-      "title": "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs",
-      "score": 12.0,
-      "sent_at": "2026-05-12T10:22:41.197387+00:00"
-    },
-    {
-      "arxiv_id": "2605.10344",
-      "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
-      "score": 12.0,
-      "sent_at": "2026-05-12T10:22:41.197389+00:00"
-    },
-    {
-      "arxiv_id": "2605.10341",
-      "title": "PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents",
-      "score": 12.0,
-      "sent_at": "2026-05-12T10:22:41.197392+00:00"
-    },
-    {
       "arxiv_id": "2605.12477",
       "title": "MEME: Multi-entity & Evolving Memory Evaluation",
       "score": 12.75,
@@ -842,31 +812,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Local AI needs to be the norm",
-      "domain": "ai",
-      "sent_at": "2026-05-12T08:49:45.736888+00:00"
-    },
-    {
-      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-12T08:49:45.736913+00:00"
-    },
-    {
-      "trend_title": "If AI writes your code, why use Python?",
-      "domain": "ai",
-      "sent_at": "2026-05-12T08:49:45.736919+00:00"
-    },
-    {
-      "trend_title": "Romania vs Bulgaria, 1st T20I, Bulgaria tour of Romania 2026 — Romania won by 31 runs",
-      "domain": "cricket",
-      "sent_at": "2026-05-12T08:49:45.736925+00:00"
-    },
-    {
-      "trend_title": "China Women vs Malaysia Women, 3rd Match, Hong Kong, China Women T20I Tri-Series, 2026 — Malaysia Women opt to bowl",
-      "domain": "cricket",
-      "sent_at": "2026-05-12T08:49:45.736930+00:00"
-    },
     {
       "trend_title": "Claude Platform on AWS",
       "domain": "ai",
