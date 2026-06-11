@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T10:49:01.889683+00:00",
+  "updated": "2026-06-11T12:01:42.970599+00:00",
   "papers": [
     {
       "arxiv_id": "2605.29307",
@@ -270,6 +270,36 @@
       "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
       "score": 9.0,
       "sent_at": "2026-06-10T11:29:20.078102+00:00"
+    },
+    {
+      "arxiv_id": "2606.11119",
+      "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
+      "score": 10.0,
+      "sent_at": "2026-06-11T12:01:42.792872+00:00"
+    },
+    {
+      "arxiv_id": "2606.12397",
+      "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
+      "score": 9.0,
+      "sent_at": "2026-06-11T12:01:42.792890+00:00"
+    },
+    {
+      "arxiv_id": "2606.11926",
+      "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
+      "score": 9.0,
+      "sent_at": "2026-06-11T12:01:42.792896+00:00"
+    },
+    {
+      "arxiv_id": "2606.12191",
+      "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
+      "score": 9.0,
+      "sent_at": "2026-06-11T12:01:42.792900+00:00"
+    },
+    {
+      "arxiv_id": "2606.09076",
+      "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
+      "score": 9.0,
+      "sent_at": "2026-06-11T12:01:42.792905+00:00"
     }
   ],
   "posts": []
