@@ -809,6 +809,36 @@
       "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
       "score": 9.0,
       "sent_at": "2026-06-11T12:01:42.792905+00:00"
+    },
+    {
+      "arxiv_id": "2606.13681",
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "score": 9.0,
+      "sent_at": "2026-06-12T11:32:52.818689+00:00"
+    },
+    {
+      "arxiv_id": "2606.13673",
+      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-06-12T11:32:52.818708+00:00"
+    },
+    {
+      "arxiv_id": "2606.12087",
+      "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents",
+      "score": 9.0,
+      "sent_at": "2026-06-12T11:32:52.818741+00:00"
+    },
+    {
+      "arxiv_id": "2606.13679",
+      "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
+      "score": 9.0,
+      "sent_at": "2026-06-12T11:32:52.818746+00:00"
+    },
+    {
+      "arxiv_id": "2606.08063",
+      "title": "Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?",
+      "score": 9.0,
+      "sent_at": "2026-06-12T11:32:52.818750+00:00"
     }
   ],
   "posts": [
