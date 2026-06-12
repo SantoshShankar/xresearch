@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.12477",
-      "title": "MEME: Multi-entity & Evolving Memory Evaluation",
-      "score": 12.75,
-      "sent_at": "2026-05-13T10:12:57.019806+00:00"
-    },
-    {
-      "arxiv_id": "2605.12493",
-      "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
-      "score": 12.75,
-      "sent_at": "2026-05-13T10:12:57.019826+00:00"
-    },
-    {
-      "arxiv_id": "2605.09530",
-      "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
-      "score": 12.5,
-      "sent_at": "2026-05-13T10:12:57.019832+00:00"
-    },
-    {
-      "arxiv_id": "2605.09998",
-      "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
-      "score": 12.5,
-      "sent_at": "2026-05-13T10:12:57.019839+00:00"
-    },
-    {
-      "arxiv_id": "2605.12500",
-      "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
-      "score": 12.25,
-      "sent_at": "2026-05-13T10:12:57.019843+00:00"
-    },
-    {
       "arxiv_id": "2605.12925",
       "title": "AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation",
       "score": 12.75,
@@ -842,31 +812,6 @@
     }
   ],
   "posts": [
-    {
-      "trend_title": "Local AI needs to be the norm",
-      "domain": "ai",
-      "sent_at": "2026-05-13T08:53:43.247575+00:00"
-    },
-    {
-      "trend_title": "If AI writes your code, why use Python?",
-      "domain": "ai",
-      "sent_at": "2026-05-13T08:53:43.247601+00:00"
-    },
-    {
-      "trend_title": "A recent experience with ChatGPT 5.5 Pro",
-      "domain": "ai",
-      "sent_at": "2026-05-13T08:53:43.247609+00:00"
-    },
-    {
-      "trend_title": "Fiji vs South Korea, 2nd Match, T20I Tri-Series In Japan, 2026 — South Korea won by 6 wkts",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T08:53:43.247615+00:00"
-    },
-    {
-      "trend_title": "Sri Lanka A Women vs New Zealand A Women, 1st Unofficial ODI, New Zealand A Women tour of Sri Lanka, 2026 — No result",
-      "domain": "cricket",
-      "sent_at": "2026-05-13T08:53:43.247621+00:00"
-    },
     {
       "trend_title": "Local AI needs to be the norm",
       "domain": "ai",
