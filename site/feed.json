@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T09:26:22.626868+00:00",
+  "updated": "2026-06-13T10:19:38.855581+00:00",
   "papers": [
     {
       "arxiv_id": "2606.03159",
@@ -270,6 +270,36 @@
       "title": "Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?",
       "score": 9.0,
       "sent_at": "2026-06-12T11:32:52.818750+00:00"
+    },
+    {
+      "arxiv_id": "2606.13392",
+      "title": "MiniMax Sparse Attention",
+      "score": 9.0,
+      "sent_at": "2026-06-13T10:19:38.703942+00:00"
+    },
+    {
+      "arxiv_id": "2606.09426",
+      "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
+      "score": 9.0,
+      "sent_at": "2026-06-13T10:19:38.703960+00:00"
+    },
+    {
+      "arxiv_id": "2606.13473",
+      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
+      "score": 9.0,
+      "sent_at": "2026-06-13T10:19:38.703964+00:00"
+    },
+    {
+      "arxiv_id": "2606.13578",
+      "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
+      "score": 9.0,
+      "sent_at": "2026-06-13T10:19:38.703967+00:00"
+    },
+    {
+      "arxiv_id": "2606.13289",
+      "title": "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers",
+      "score": 9.0,
+      "sent_at": "2026-06-13T10:19:38.703970+00:00"
     }
   ],
   "posts": []
