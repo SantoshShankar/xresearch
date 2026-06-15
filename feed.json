@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T12:31:25.943067+00:00",
+  "updated": "2026-06-15T13:44:16.803119+00:00",
   "papers": [
     {
       "arxiv_id": "2606.06492",
@@ -270,6 +270,36 @@
       "title": "The Rise of AI-Native Software Engineering: Implications for Practice, Education, and the Future Workforce",
       "score": 6.0,
       "sent_at": "2026-06-14T10:42:20.242255+00:00"
+    },
+    {
+      "arxiv_id": "2606.13432",
+      "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
+      "score": 9.0,
+      "sent_at": "2026-06-15T13:44:16.651027+00:00"
+    },
+    {
+      "arxiv_id": "2606.12384",
+      "title": "APPO: Agentic Procedural Policy Optimization",
+      "score": 9.0,
+      "sent_at": "2026-06-15T13:44:16.651046+00:00"
+    },
+    {
+      "arxiv_id": "2606.06036",
+      "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
+      "score": 9.0,
+      "sent_at": "2026-06-15T13:44:16.651051+00:00"
+    },
+    {
+      "arxiv_id": "2606.14502",
+      "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+      "score": 9.0,
+      "sent_at": "2026-06-15T13:44:16.651054+00:00"
+    },
+    {
+      "arxiv_id": "2606.13707",
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "score": 9.0,
+      "sent_at": "2026-06-15T13:44:16.651058+00:00"
     }
   ],
   "posts": []
