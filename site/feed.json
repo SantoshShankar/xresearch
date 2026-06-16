@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T11:24:48.334870+00:00",
+  "updated": "2026-06-16T12:44:07.453415+00:00",
   "papers": [
     {
       "arxiv_id": "2606.06301",
@@ -270,6 +270,36 @@
       "title": "Orchestra-o1: Omnimodal Agent Orchestration",
       "score": 9.0,
       "sent_at": "2026-06-15T13:44:16.651058+00:00"
+    },
+    {
+      "arxiv_id": "2606.15007",
+      "title": "Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+      "score": 11.0,
+      "sent_at": "2026-06-16T12:44:07.274772+00:00"
+    },
+    {
+      "arxiv_id": "2606.16295",
+      "title": "VisualClaw: A Real-Time, Personalized Agent for the Physical World",
+      "score": 10.0,
+      "sent_at": "2026-06-16T12:44:07.274791+00:00"
+    },
+    {
+      "arxiv_id": "2606.14777",
+      "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-06-16T12:44:07.274796+00:00"
+    },
+    {
+      "arxiv_id": "2606.11176",
+      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+      "score": 9.0,
+      "sent_at": "2026-06-16T12:44:07.274801+00:00"
+    },
+    {
+      "arxiv_id": "2606.17046",
+      "title": "Geometric Action Model for Robot Policy Learning",
+      "score": 9.0,
+      "sent_at": "2026-06-16T12:44:07.274806+00:00"
     }
   ],
   "posts": []
