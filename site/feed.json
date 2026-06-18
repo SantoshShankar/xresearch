@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-18T11:42:49.676549+00:00",
+  "updated": "2026-06-18T15:40:44.593522+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.07502",
-      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
-      "score": 9.0,
-      "sent_at": "2026-06-08T12:19:02.562438+00:00"
-    },
-    {
-      "arxiv_id": "2606.07229",
-      "title": "MMAE: A Massive Multitask Audio Editing Benchmark",
-      "score": 9.0,
-      "sent_at": "2026-06-08T12:19:02.562458+00:00"
-    },
-    {
-      "arxiv_id": "2606.05563",
-      "title": "SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations",
-      "score": 9.0,
-      "sent_at": "2026-06-08T12:19:02.562462+00:00"
-    },
-    {
-      "arxiv_id": "2606.07326",
-      "title": "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization",
-      "score": 9.0,
-      "sent_at": "2026-06-08T12:19:02.562465+00:00"
-    },
-    {
-      "arxiv_id": "2606.06601",
-      "title": "Direct 3D-Aware Object Insertion via Decomposed Visual Proxies",
-      "score": 9.0,
-      "sent_at": "2026-06-08T12:19:02.562468+00:00"
-    },
     {
       "arxiv_id": "2606.08960",
       "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops",
