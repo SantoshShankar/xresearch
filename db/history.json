@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.18747",
-      "title": "Code as Agent Harness",
-      "score": 10.0,
-      "sent_at": "2026-05-19T10:53:53.748945+00:00"
-    },
-    {
-      "arxiv_id": "2605.18739",
-      "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-05-19T10:53:53.748964+00:00"
-    },
-    {
-      "arxiv_id": "2605.18678",
-      "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
-      "score": 9.0,
-      "sent_at": "2026-05-19T10:53:53.748967+00:00"
-    },
-    {
-      "arxiv_id": "2605.18661",
-      "title": "AI for Auto-Research: Roadmap & User Guide",
-      "score": 9.0,
-      "sent_at": "2026-05-19T10:53:53.748971+00:00"
-    },
-    {
-      "arxiv_id": "2605.18401",
-      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
-      "score": 9.0,
-      "sent_at": "2026-05-19T10:53:53.748973+00:00"
-    },
-    {
       "arxiv_id": "2605.17894",
       "title": "Evaluating Cognitive Age Alignment in Interactive AI Agents",
       "score": 10.0,
@@ -839,6 +809,36 @@
       "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
       "score": 9.0,
       "sent_at": "2026-06-17T12:08:58.764186+00:00"
+    },
+    {
+      "arxiv_id": "2606.19338",
+      "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+      "score": 9.0,
+      "sent_at": "2026-06-18T11:42:49.526667+00:00"
+    },
+    {
+      "arxiv_id": "2606.18363",
+      "title": "Guava: An Effective and Universal Harness for Embodied Manipulation",
+      "score": 9.0,
+      "sent_at": "2026-06-18T11:42:49.526681+00:00"
+    },
+    {
+      "arxiv_id": "2606.16533",
+      "title": "Kairos: A Native World Model Stack for Physical AI",
+      "score": 9.0,
+      "sent_at": "2026-06-18T11:42:49.526685+00:00"
+    },
+    {
+      "arxiv_id": "2606.17539",
+      "title": "Reinforcing Dual-Path Reasoning in Spatial Vision Language Models",
+      "score": 9.0,
+      "sent_at": "2026-06-18T11:42:49.526689+00:00"
+    },
+    {
+      "arxiv_id": "2606.18322",
+      "title": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
+      "score": 9.0,
+      "sent_at": "2026-06-18T11:42:49.526692+00:00"
     }
   ],
   "posts": []
