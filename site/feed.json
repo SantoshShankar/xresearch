@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-19T10:48:21.425998+00:00",
+  "updated": "2026-06-19T11:57:37.741585+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.08960",
-      "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops",
-      "score": 10.0,
-      "sent_at": "2026-06-09T10:50:05.275731+00:00"
-    },
-    {
-      "arxiv_id": "2606.07297",
-      "title": "SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
-      "score": 9.0,
-      "sent_at": "2026-06-09T10:50:05.275747+00:00"
-    },
-    {
-      "arxiv_id": "2606.07082",
-      "title": "On the Geometry of On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-06-09T10:50:05.275752+00:00"
-    },
-    {
-      "arxiv_id": "2606.09828",
-      "title": "Latent Spatial Memory for Video World Models",
-      "score": 9.0,
-      "sent_at": "2026-06-09T10:50:05.275755+00:00"
-    },
-    {
-      "arxiv_id": "2606.06087",
-      "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents",
-      "score": 9.0,
-      "sent_at": "2026-06-09T10:50:05.275758+00:00"
-    },
     {
       "arxiv_id": "2606.10651",
       "title": "Kwai Keye-VL-2.0 Technical Report",
@@ -300,6 +270,36 @@
       "title": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
       "score": 9.0,
       "sent_at": "2026-06-18T11:42:49.526692+00:00"
+    },
+    {
+      "arxiv_id": "2606.19704",
+      "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
+      "score": 10.0,
+      "sent_at": "2026-06-19T11:57:37.584992+00:00"
+    },
+    {
+      "arxiv_id": "2606.19195",
+      "title": "Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
+      "score": 9.0,
+      "sent_at": "2026-06-19T11:57:37.585010+00:00"
+    },
+    {
+      "arxiv_id": "2606.19419",
+      "title": "Playful Agentic Robot Learning",
+      "score": 9.0,
+      "sent_at": "2026-06-19T11:57:37.585014+00:00"
+    },
+    {
+      "arxiv_id": "2606.15133",
+      "title": "DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects",
+      "score": 9.0,
+      "sent_at": "2026-06-19T11:57:37.585017+00:00"
+    },
+    {
+      "arxiv_id": "2606.20515",
+      "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-06-19T11:57:37.585020+00:00"
     }
   ],
   "posts": []
