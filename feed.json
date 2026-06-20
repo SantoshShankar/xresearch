@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-20T10:24:09.740948+00:00",
+  "updated": "2026-06-20T14:19:05.708694+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.10651",
-      "title": "Kwai Keye-VL-2.0 Technical Report",
-      "score": 10.0,
-      "sent_at": "2026-06-10T11:29:20.078069+00:00"
-    },
-    {
-      "arxiv_id": "2606.09967",
-      "title": "ABot-Earth 0.5: Generative 3D Earth Model",
-      "score": 9.0,
-      "sent_at": "2026-06-10T11:29:20.078087+00:00"
-    },
-    {
-      "arxiv_id": "2606.10917",
-      "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution",
-      "score": 9.0,
-      "sent_at": "2026-06-10T11:29:20.078093+00:00"
-    },
-    {
-      "arxiv_id": "2606.09730",
-      "title": "SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research",
-      "score": 9.0,
-      "sent_at": "2026-06-10T11:29:20.078098+00:00"
-    },
-    {
-      "arxiv_id": "2606.05922",
-      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
-      "score": 9.0,
-      "sent_at": "2026-06-10T11:29:20.078102+00:00"
-    },
     {
       "arxiv_id": "2606.11119",
       "title": "TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning",
