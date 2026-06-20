@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.20315",
-      "title": "Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs",
-      "score": 10.0,
-      "sent_at": "2026-05-21T10:57:13.788328+00:00"
-    },
-    {
-      "arxiv_id": "2605.20630",
-      "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
-      "score": 10.0,
-      "sent_at": "2026-05-21T10:57:13.788341+00:00"
-    },
-    {
-      "arxiv_id": "2605.21463",
-      "title": "Mem-π: Adaptive Memory through Learning When and What to Generate",
-      "score": 10.0,
-      "sent_at": "2026-05-21T10:57:13.788346+00:00"
-    },
-    {
-      "arxiv_id": "2605.19833",
-      "title": "Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation",
-      "score": 9.0,
-      "sent_at": "2026-05-21T10:57:13.788350+00:00"
-    },
-    {
-      "arxiv_id": "2605.14747",
-      "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
-      "score": 9.0,
-      "sent_at": "2026-05-21T10:57:13.788355+00:00"
-    },
-    {
       "arxiv_id": "2605.22355",
       "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
       "score": 9.0,
