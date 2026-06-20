@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T09:28:56.777033+00:00",
+  "updated": "2026-06-20T10:24:09.740948+00:00",
   "papers": [
     {
       "arxiv_id": "2606.10651",
@@ -300,6 +300,36 @@
       "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
       "score": 9.0,
       "sent_at": "2026-06-19T11:57:37.585020+00:00"
+    },
+    {
+      "arxiv_id": "2606.20517",
+      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+      "score": 9.0,
+      "sent_at": "2026-06-20T10:24:09.581730+00:00"
+    },
+    {
+      "arxiv_id": "2604.13416",
+      "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
+      "score": 9.0,
+      "sent_at": "2026-06-20T10:24:09.581746+00:00"
+    },
+    {
+      "arxiv_id": "2606.20506",
+      "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
+      "score": 9.0,
+      "sent_at": "2026-06-20T10:24:09.581750+00:00"
+    },
+    {
+      "arxiv_id": "2606.20563",
+      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
+      "score": 9.0,
+      "sent_at": "2026-06-20T10:24:09.581754+00:00"
+    },
+    {
+      "arxiv_id": "2606.20404",
+      "title": "FlowBender: Feedback-Aware Training for Self-Correcting Conditional Flows",
+      "score": 9.0,
+      "sent_at": "2026-06-20T10:24:09.581757+00:00"
     }
   ],
   "posts": []
