@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.22355",
-      "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166663+00:00"
-    },
-    {
-      "arxiv_id": "2605.14678",
-      "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166681+00:00"
-    },
-    {
-      "arxiv_id": "2605.21467",
-      "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166685+00:00"
-    },
-    {
-      "arxiv_id": "2605.16928",
-      "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166688+00:00"
-    },
-    {
-      "arxiv_id": "2605.22109",
-      "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
-      "score": 9.0,
-      "sent_at": "2026-05-22T10:41:28.166692+00:00"
-    },
-    {
       "arxiv_id": "2605.22138",
       "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
       "score": 10.0,
@@ -839,6 +809,36 @@
       "title": "FlowBender: Feedback-Aware Training for Self-Correcting Conditional Flows",
       "score": 9.0,
       "sent_at": "2026-06-20T10:24:09.581757+00:00"
+    },
+    {
+      "arxiv_id": "2606.20470",
+      "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
+      "score": 6.0,
+      "sent_at": "2026-06-21T10:58:01.510313+00:00"
+    },
+    {
+      "arxiv_id": "2606.20453",
+      "title": "Directors Duties in the Age of Agentic Artificial Intelligence",
+      "score": 6.0,
+      "sent_at": "2026-06-21T10:58:01.510329+00:00"
+    },
+    {
+      "arxiv_id": "2606.20401",
+      "title": "PowerAgentBench-Dyn: A Benchmark for Agentic AI in Power System Dynamic Studies",
+      "score": 6.0,
+      "sent_at": "2026-06-21T10:58:01.510333+00:00"
+    },
+    {
+      "arxiv_id": "2606.20243",
+      "title": "Phoenix: Safe GitHub Issue Resolution via Multi-Agent LLMs",
+      "score": 6.0,
+      "sent_at": "2026-06-21T10:58:01.510337+00:00"
+    },
+    {
+      "arxiv_id": "2606.20142",
+      "title": "RACL: Reasoning-Agent Control Layers for Continuous Metaheuristic Learning",
+      "score": 6.0,
+      "sent_at": "2026-06-21T10:58:01.510340+00:00"
     }
   ],
   "posts": []
