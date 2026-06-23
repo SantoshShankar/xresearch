@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-23T09:55:18.262119+00:00",
+  "updated": "2026-06-23T10:52:18.533351+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.13392",
-      "title": "MiniMax Sparse Attention",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703942+00:00"
-    },
-    {
-      "arxiv_id": "2606.09426",
-      "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703960+00:00"
-    },
-    {
-      "arxiv_id": "2606.13473",
-      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703964+00:00"
-    },
-    {
-      "arxiv_id": "2606.13578",
-      "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703967+00:00"
-    },
-    {
-      "arxiv_id": "2606.13289",
-      "title": "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703970+00:00"
-    },
     {
       "arxiv_id": "2606.13474",
       "title": "Exploring Systems-Thinking Approaches to Loss of Control Risk",
@@ -300,6 +270,36 @@
       "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
       "score": 9.0,
       "sent_at": "2026-06-22T13:24:33.443248+00:00"
+    },
+    {
+      "arxiv_id": "2606.23654",
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "score": 10.0,
+      "sent_at": "2026-06-23T10:52:18.377950+00:00"
+    },
+    {
+      "arxiv_id": "2606.21627",
+      "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+      "score": 10.0,
+      "sent_at": "2026-06-23T10:52:18.377969+00:00"
+    },
+    {
+      "arxiv_id": "2606.22388",
+      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+      "score": 9.0,
+      "sent_at": "2026-06-23T10:52:18.377975+00:00"
+    },
+    {
+      "arxiv_id": "2606.21337",
+      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+      "score": 9.0,
+      "sent_at": "2026-06-23T10:52:18.377979+00:00"
+    },
+    {
+      "arxiv_id": "2606.22807",
+      "title": "KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking",
+      "score": 9.0,
+      "sent_at": "2026-06-23T10:52:18.377983+00:00"
     }
   ],
   "posts": []
