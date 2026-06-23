@@ -809,6 +809,36 @@
       "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
       "score": 9.0,
       "sent_at": "2026-06-22T13:24:33.443248+00:00"
+    },
+    {
+      "arxiv_id": "2606.23654",
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "score": 10.0,
+      "sent_at": "2026-06-23T10:52:18.377950+00:00"
+    },
+    {
+      "arxiv_id": "2606.21627",
+      "title": "Counsel: A Meta-Evaluation Dataset for Agentic Tasks",
+      "score": 10.0,
+      "sent_at": "2026-06-23T10:52:18.377969+00:00"
+    },
+    {
+      "arxiv_id": "2606.22388",
+      "title": "PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems",
+      "score": 9.0,
+      "sent_at": "2026-06-23T10:52:18.377975+00:00"
+    },
+    {
+      "arxiv_id": "2606.21337",
+      "title": "DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams",
+      "score": 9.0,
+      "sent_at": "2026-06-23T10:52:18.377979+00:00"
+    },
+    {
+      "arxiv_id": "2606.22807",
+      "title": "KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking",
+      "score": 9.0,
+      "sent_at": "2026-06-23T10:52:18.377983+00:00"
     }
   ],
   "posts": []
