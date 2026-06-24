@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T09:42:07.181053+00:00",
+  "updated": "2026-06-24T10:38:50.951968+00:00",
   "papers": [
     {
       "arxiv_id": "2606.13474",
@@ -300,6 +300,36 @@
       "title": "KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking",
       "score": 9.0,
       "sent_at": "2026-06-23T10:52:18.377983+00:00"
+    },
+    {
+      "arxiv_id": "2606.24597",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "score": 10.0,
+      "sent_at": "2026-06-24T10:38:50.807165+00:00"
+    },
+    {
+      "arxiv_id": "2606.24855",
+      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "score": 10.0,
+      "sent_at": "2026-06-24T10:38:50.807178+00:00"
+    },
+    {
+      "arxiv_id": "2606.24530",
+      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "score": 9.0,
+      "sent_at": "2026-06-24T10:38:50.807183+00:00"
+    },
+    {
+      "arxiv_id": "2606.23449",
+      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "score": 9.0,
+      "sent_at": "2026-06-24T10:38:50.807187+00:00"
+    },
+    {
+      "arxiv_id": "2606.19930",
+      "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
+      "score": 9.0,
+      "sent_at": "2026-06-24T10:38:50.807191+00:00"
     }
   ],
   "posts": []
