@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T09:34:20.472832+00:00",
+  "updated": "2026-06-25T10:32:02.318965+00:00",
   "papers": [
     {
       "arxiv_id": "2606.13432",
@@ -300,6 +300,36 @@
       "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
       "score": 9.0,
       "sent_at": "2026-06-24T10:38:50.807191+00:00"
+    },
+    {
+      "arxiv_id": "2606.24937",
+      "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+      "score": 10.0,
+      "sent_at": "2026-06-25T10:32:02.154572+00:00"
+    },
+    {
+      "arxiv_id": "2606.23991",
+      "title": "Critique of Agent Model",
+      "score": 10.0,
+      "sent_at": "2026-06-25T10:32:02.154588+00:00"
+    },
+    {
+      "arxiv_id": "2606.24775",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "score": 9.0,
+      "sent_at": "2026-06-25T10:32:02.154593+00:00"
+    },
+    {
+      "arxiv_id": "2606.26058",
+      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+      "score": 9.0,
+      "sent_at": "2026-06-25T10:32:02.154597+00:00"
+    },
+    {
+      "arxiv_id": "2606.25763",
+      "title": "ShutterMuse: Capture-Time Photography Guidance with MLLMs",
+      "score": 9.0,
+      "sent_at": "2026-06-25T10:32:02.154601+00:00"
     }
   ],
   "posts": []
