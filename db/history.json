@@ -869,6 +869,36 @@
       "title": "ShutterMuse: Capture-Time Photography Guidance with MLLMs",
       "score": 9.0,
       "sent_at": "2026-06-25T10:32:02.154601+00:00"
+    },
+    {
+      "arxiv_id": "2606.27377",
+      "title": "DanceOPD: On-Policy Generative Field Distillation",
+      "score": 9.0,
+      "sent_at": "2026-06-26T10:41:54.371943+00:00"
+    },
+    {
+      "arxiv_id": "2606.27313",
+      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
+      "score": 9.0,
+      "sent_at": "2026-06-26T10:41:54.371963+00:00"
+    },
+    {
+      "arxiv_id": "2606.26907",
+      "title": "Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation",
+      "score": 9.0,
+      "sent_at": "2026-06-26T10:41:54.371968+00:00"
+    },
+    {
+      "arxiv_id": "2606.26790",
+      "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-06-26T10:41:54.371971+00:00"
+    },
+    {
+      "arxiv_id": "2606.26300",
+      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+      "score": 9.0,
+      "sent_at": "2026-06-26T10:41:54.371975+00:00"
     }
   ],
   "posts": []
