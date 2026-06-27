@@ -869,6 +869,36 @@
       "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
       "score": 9.0,
       "sent_at": "2026-06-26T10:41:54.371975+00:00"
+    },
+    {
+      "arxiv_id": "2606.26025",
+      "title": "In-Context World Modeling for Robotic Control",
+      "score": 9.0,
+      "sent_at": "2026-06-27T09:54:25.942896+00:00"
+    },
+    {
+      "arxiv_id": "2606.18394",
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "score": 9.0,
+      "sent_at": "2026-06-27T09:54:25.942912+00:00"
+    },
+    {
+      "arxiv_id": "2606.24551",
+      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+      "score": 9.0,
+      "sent_at": "2026-06-27T09:54:25.942916+00:00"
+    },
+    {
+      "arxiv_id": "2606.26217",
+      "title": "Fast LeWorldModel",
+      "score": 9.0,
+      "sent_at": "2026-06-27T09:54:25.942920+00:00"
+    },
+    {
+      "arxiv_id": "2606.26027",
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "score": 9.0,
+      "sent_at": "2026-06-27T09:54:25.942924+00:00"
     }
   ],
   "posts": []
