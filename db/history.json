@@ -869,6 +869,36 @@
       "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
       "score": 9.0,
       "sent_at": "2026-06-27T09:54:25.942924+00:00"
+    },
+    {
+      "arxiv_id": "2606.27350",
+      "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
+      "score": 6.0,
+      "sent_at": "2026-06-28T10:18:36.651987+00:00"
+    },
+    {
+      "arxiv_id": "2606.26959",
+      "title": "The Shift to Agentic AI: Evidence from Codex",
+      "score": 6.0,
+      "sent_at": "2026-06-28T10:18:36.652006+00:00"
+    },
+    {
+      "arxiv_id": "2606.26722",
+      "title": "Socratic agents for autonomous scientific discovery in high-dimensional physical systems",
+      "score": 6.0,
+      "sent_at": "2026-06-28T10:18:36.652010+00:00"
+    },
+    {
+      "arxiv_id": "2606.26448",
+      "title": "Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist",
+      "score": 6.0,
+      "sent_at": "2026-06-28T10:18:36.652015+00:00"
+    },
+    {
+      "arxiv_id": "2606.26346",
+      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+      "score": 6.0,
+      "sent_at": "2026-06-28T10:18:36.652020+00:00"
     }
   ],
   "posts": []
