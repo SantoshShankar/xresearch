@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.29801",
-      "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273747+00:00"
-    },
-    {
-      "arxiv_id": "2605.29250",
-      "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273763+00:00"
-    },
-    {
-      "arxiv_id": "2605.25378",
-      "title": "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273768+00:00"
-    },
-    {
-      "arxiv_id": "2605.30263",
-      "title": "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273772+00:00"
-    },
-    {
-      "arxiv_id": "2605.30346",
-      "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-      "score": 9.0,
-      "sent_at": "2026-05-29T11:22:04.273776+00:00"
-    },
-    {
       "arxiv_id": "2605.30102",
       "title": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
       "score": 10.0,
