@@ -1,36 +1,6 @@
 {
-  "updated": "2026-06-30T09:52:46.714273+00:00",
+  "updated": "2026-06-30T10:46:45.906357+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.20517",
-      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581730+00:00"
-    },
-    {
-      "arxiv_id": "2604.13416",
-      "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581746+00:00"
-    },
-    {
-      "arxiv_id": "2606.20506",
-      "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581750+00:00"
-    },
-    {
-      "arxiv_id": "2606.20563",
-      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581754+00:00"
-    },
-    {
-      "arxiv_id": "2606.20404",
-      "title": "FlowBender: Feedback-Aware Training for Self-Correcting Conditional Flows",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581757+00:00"
-    },
     {
       "arxiv_id": "2606.20470",
       "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
@@ -300,6 +270,36 @@
       "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
       "score": 9.0,
       "sent_at": "2026-06-29T12:21:22.047928+00:00"
+    },
+    {
+      "arxiv_id": "2606.30616",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "score": 10.0,
+      "sent_at": "2026-06-30T10:46:45.758480+00:00"
+    },
+    {
+      "arxiv_id": "2606.26740",
+      "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
+      "score": 9.0,
+      "sent_at": "2026-06-30T10:46:45.758496+00:00"
+    },
+    {
+      "arxiv_id": "2606.28480",
+      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "score": 9.0,
+      "sent_at": "2026-06-30T10:46:45.758501+00:00"
+    },
+    {
+      "arxiv_id": "2606.24256",
+      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
+      "score": 9.0,
+      "sent_at": "2026-06-30T10:46:45.758505+00:00"
+    },
+    {
+      "arxiv_id": "2606.27828",
+      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-06-30T10:46:45.758509+00:00"
     }
   ],
   "posts": []
