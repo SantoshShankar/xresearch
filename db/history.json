@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2605.29307",
-      "title": "GrepSeek: Training Search Agents for Direct Corpus Interaction",
-      "score": 9.0,
-      "sent_at": "2026-06-01T13:29:02.077436+00:00"
-    },
-    {
-      "arxiv_id": "2605.31264",
-      "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
-      "score": 9.0,
-      "sent_at": "2026-06-01T13:29:02.077457+00:00"
-    },
-    {
-      "arxiv_id": "2605.31604",
-      "title": "Representation Forcing for Bottleneck-Free Unified Multimodal Models",
-      "score": 9.0,
-      "sent_at": "2026-06-01T13:29:02.077461+00:00"
-    },
-    {
-      "arxiv_id": "2605.30993",
-      "title": "SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue",
-      "score": 9.0,
-      "sent_at": "2026-06-01T13:29:02.077463+00:00"
-    },
-    {
-      "arxiv_id": "2605.31584",
-      "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
-      "score": 9.0,
-      "sent_at": "2026-06-01T13:29:02.077465+00:00"
-    },
-    {
       "arxiv_id": "2606.02404",
       "title": "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts",
       "score": 10.0,
