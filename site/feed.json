@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-01T10:01:44.096826+00:00",
+  "updated": "2026-07-01T11:00:07.054522+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.20470",
-      "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
-      "score": 6.0,
-      "sent_at": "2026-06-21T10:58:01.510313+00:00"
-    },
-    {
-      "arxiv_id": "2606.20453",
-      "title": "Directors Duties in the Age of Agentic Artificial Intelligence",
-      "score": 6.0,
-      "sent_at": "2026-06-21T10:58:01.510329+00:00"
-    },
-    {
-      "arxiv_id": "2606.20401",
-      "title": "PowerAgentBench-Dyn: A Benchmark for Agentic AI in Power System Dynamic Studies",
-      "score": 6.0,
-      "sent_at": "2026-06-21T10:58:01.510333+00:00"
-    },
-    {
-      "arxiv_id": "2606.20243",
-      "title": "Phoenix: Safe GitHub Issue Resolution via Multi-Agent LLMs",
-      "score": 6.0,
-      "sent_at": "2026-06-21T10:58:01.510337+00:00"
-    },
-    {
-      "arxiv_id": "2606.20142",
-      "title": "RACL: Reasoning-Agent Control Layers for Continuous Metaheuristic Learning",
-      "score": 6.0,
-      "sent_at": "2026-06-21T10:58:01.510340+00:00"
-    },
     {
       "arxiv_id": "2606.19534",
       "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
@@ -300,6 +270,36 @@
       "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
       "score": 9.0,
       "sent_at": "2026-06-30T10:46:45.758509+00:00"
+    },
+    {
+      "arxiv_id": "2606.29957",
+      "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
+      "score": 10.0,
+      "sent_at": "2026-07-01T11:00:06.919799+00:00"
+    },
+    {
+      "arxiv_id": "2606.30534",
+      "title": "Orca: The World is in Your Mind",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919815+00:00"
+    },
+    {
+      "arxiv_id": "2606.28436",
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919819+00:00"
+    },
+    {
+      "arxiv_id": "2606.31315",
+      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919821+00:00"
+    },
+    {
+      "arxiv_id": "2606.30626",
+      "title": "DOPD: Dual On-policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919825+00:00"
     }
   ],
   "posts": []

@@ -869,6 +869,36 @@
       "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
       "score": 9.0,
       "sent_at": "2026-06-30T10:46:45.758509+00:00"
+    },
+    {
+      "arxiv_id": "2606.29957",
+      "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
+      "score": 10.0,
+      "sent_at": "2026-07-01T11:00:06.919799+00:00"
+    },
+    {
+      "arxiv_id": "2606.30534",
+      "title": "Orca: The World is in Your Mind",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919815+00:00"
+    },
+    {
+      "arxiv_id": "2606.28436",
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919819+00:00"
+    },
+    {
+      "arxiv_id": "2606.31315",
+      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919821+00:00"
+    },
+    {
+      "arxiv_id": "2606.30626",
+      "title": "DOPD: Dual On-policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-07-01T11:00:06.919825+00:00"
     }
   ],
   "posts": []
