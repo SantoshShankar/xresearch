@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-07T09:53:21.413597+00:00",
+  "updated": "2026-07-07T10:43:49.952757+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.26025",
-      "title": "In-Context World Modeling for Robotic Control",
-      "score": 9.0,
-      "sent_at": "2026-06-27T09:54:25.942896+00:00"
-    },
-    {
-      "arxiv_id": "2606.18394",
-      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
-      "score": 9.0,
-      "sent_at": "2026-06-27T09:54:25.942912+00:00"
-    },
-    {
-      "arxiv_id": "2606.24551",
-      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
-      "score": 9.0,
-      "sent_at": "2026-06-27T09:54:25.942916+00:00"
-    },
-    {
-      "arxiv_id": "2606.26217",
-      "title": "Fast LeWorldModel",
-      "score": 9.0,
-      "sent_at": "2026-06-27T09:54:25.942920+00:00"
-    },
-    {
-      "arxiv_id": "2606.26027",
-      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
-      "score": 9.0,
-      "sent_at": "2026-06-27T09:54:25.942924+00:00"
-    },
     {
       "arxiv_id": "2606.27350",
       "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
@@ -300,6 +270,36 @@
       "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
       "score": 9.0,
       "sent_at": "2026-07-06T11:52:41.988067+00:00"
+    },
+    {
+      "arxiv_id": "2607.04425",
+      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822629+00:00"
+    },
+    {
+      "arxiv_id": "2607.04438",
+      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822645+00:00"
+    },
+    {
+      "arxiv_id": "2607.04439",
+      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822652+00:00"
+    },
+    {
+      "arxiv_id": "2607.05373",
+      "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822658+00:00"
+    },
+    {
+      "arxiv_id": "2607.04033",
+      "title": "OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822664+00:00"
     }
   ],
   "posts": []
