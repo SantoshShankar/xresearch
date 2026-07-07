@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.06301",
-      "title": "More than a Judge: An Empirical Study of Agent-Human Interaction in Crowdsourced Testing Assessment",
-      "score": 6.0,
-      "sent_at": "2026-06-07T10:19:49.249329+00:00"
-    },
-    {
-      "arxiv_id": "2606.05749",
-      "title": "MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA",
-      "score": 6.0,
-      "sent_at": "2026-06-07T10:19:49.249346+00:00"
-    },
-    {
-      "arxiv_id": "2606.05548",
-      "title": "ADK Arena: Evaluating Agent Development Kits via LLM-as-a-Developer",
-      "score": 6.0,
-      "sent_at": "2026-06-07T10:19:49.249351+00:00"
-    },
-    {
-      "arxiv_id": "2606.05449",
-      "title": "Insurance of Agentic AI",
-      "score": 6.0,
-      "sent_at": "2026-06-07T10:19:49.249354+00:00"
-    },
-    {
-      "arxiv_id": "2606.05436",
-      "title": "Ten Headache Specialists versus Artificial Intelligence for Clinical Literature Summarization: A Critical Evaluation and Comparison",
-      "score": 6.0,
-      "sent_at": "2026-06-07T10:19:49.249358+00:00"
-    },
-    {
       "arxiv_id": "2606.07502",
       "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
       "score": 9.0,
       "sent_at": "2026-07-06T11:52:41.988067+00:00"
+    },
+    {
+      "arxiv_id": "2607.04425",
+      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822629+00:00"
+    },
+    {
+      "arxiv_id": "2607.04438",
+      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822645+00:00"
+    },
+    {
+      "arxiv_id": "2607.04439",
+      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822652+00:00"
+    },
+    {
+      "arxiv_id": "2607.05373",
+      "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822658+00:00"
+    },
+    {
+      "arxiv_id": "2607.04033",
+      "title": "OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers",
+      "score": 9.0,
+      "sent_at": "2026-07-07T10:43:49.822664+00:00"
     }
   ],
   "posts": []
