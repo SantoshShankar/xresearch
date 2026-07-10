@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-10T10:42:02.866418+00:00",
+  "updated": "2026-07-10T14:42:00.037834+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.30616",
-      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "score": 10.0,
-      "sent_at": "2026-06-30T10:46:45.758480+00:00"
-    },
-    {
-      "arxiv_id": "2606.26740",
-      "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
-      "score": 9.0,
-      "sent_at": "2026-06-30T10:46:45.758496+00:00"
-    },
-    {
-      "arxiv_id": "2606.28480",
-      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
-      "score": 9.0,
-      "sent_at": "2026-06-30T10:46:45.758501+00:00"
-    },
-    {
-      "arxiv_id": "2606.24256",
-      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
-      "score": 9.0,
-      "sent_at": "2026-06-30T10:46:45.758505+00:00"
-    },
-    {
-      "arxiv_id": "2606.27828",
-      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
-      "score": 9.0,
-      "sent_at": "2026-06-30T10:46:45.758509+00:00"
-    },
     {
       "arxiv_id": "2606.29957",
       "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
