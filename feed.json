@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T08:05:29.104380+00:00",
+  "updated": "2026-07-11T09:13:55.704742+00:00",
   "papers": [
     {
       "arxiv_id": "2606.29957",
@@ -300,6 +300,36 @@
       "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
       "score": 9.0,
       "sent_at": "2026-07-10T10:42:02.735670+00:00"
+    },
+    {
+      "arxiv_id": "2607.08770",
+      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "score": 9.0,
+      "sent_at": "2026-07-11T09:13:55.562939+00:00"
+    },
+    {
+      "arxiv_id": "2607.08765",
+      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+      "score": 9.0,
+      "sent_at": "2026-07-11T09:13:55.562957+00:00"
+    },
+    {
+      "arxiv_id": "2607.08404",
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+      "score": 9.0,
+      "sent_at": "2026-07-11T09:13:55.562960+00:00"
+    },
+    {
+      "arxiv_id": "2607.07740",
+      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+      "score": 9.0,
+      "sent_at": "2026-07-11T09:13:55.562961+00:00"
+    },
+    {
+      "arxiv_id": "2607.08763",
+      "title": "OpenCoF: Learning to Reason Through Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-07-11T09:13:55.562963+00:00"
     }
   ],
   "posts": []
