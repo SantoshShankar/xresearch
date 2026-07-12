@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T08:26:22.491943+00:00",
+  "updated": "2026-07-12T09:40:37.647577+00:00",
   "papers": [
     {
       "arxiv_id": "2606.28322",
@@ -300,6 +300,36 @@
       "title": "OpenCoF: Learning to Reason Through Video Generation",
       "score": 9.0,
       "sent_at": "2026-07-11T09:13:55.562963+00:00"
+    },
+    {
+      "arxiv_id": "2607.08681",
+      "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
+      "score": 6.0,
+      "sent_at": "2026-07-12T09:40:37.469761+00:00"
+    },
+    {
+      "arxiv_id": "2607.08177",
+      "title": "ASMR: Agentic Schema Generation for Ship Maintenance Report Writing",
+      "score": 6.0,
+      "sent_at": "2026-07-12T09:40:37.469777+00:00"
+    },
+    {
+      "arxiv_id": "2607.08043",
+      "title": "Aleena: Alignment Agent for Research Software Engineering Collaborations",
+      "score": 6.0,
+      "sent_at": "2026-07-12T09:40:37.469779+00:00"
+    },
+    {
+      "arxiv_id": "2607.07858",
+      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+      "score": 6.0,
+      "sent_at": "2026-07-12T09:40:37.469781+00:00"
+    },
+    {
+      "arxiv_id": "2607.07695",
+      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "score": 6.0,
+      "sent_at": "2026-07-12T09:40:37.469783+00:00"
     }
   ],
   "posts": []
