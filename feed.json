@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-12T09:40:37.647577+00:00",
+  "updated": "2026-07-12T13:41:10.981614+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.28322",
-      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-      "score": 9.0,
-      "sent_at": "2026-07-02T10:26:09.752649+00:00"
-    },
-    {
-      "arxiv_id": "2606.19271",
-      "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
-      "score": 9.0,
-      "sent_at": "2026-07-02T10:26:09.752668+00:00"
-    },
-    {
-      "arxiv_id": "2607.01071",
-      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
-      "score": 9.0,
-      "sent_at": "2026-07-02T10:26:09.752673+00:00"
-    },
-    {
-      "arxiv_id": "2607.00466",
-      "title": "ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving",
-      "score": 9.0,
-      "sent_at": "2026-07-02T10:26:09.752676+00:00"
-    },
-    {
-      "arxiv_id": "2607.00666",
-      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
-      "score": 9.0,
-      "sent_at": "2026-07-02T10:26:09.752681+00:00"
-    },
     {
       "arxiv_id": "2607.02032",
       "title": "PACE: A Proxy for Agentic Capability Evaluation",
