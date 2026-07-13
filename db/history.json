@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.13392",
-      "title": "MiniMax Sparse Attention",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703942+00:00"
-    },
-    {
-      "arxiv_id": "2606.09426",
-      "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703960+00:00"
-    },
-    {
-      "arxiv_id": "2606.13473",
-      "title": "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703964+00:00"
-    },
-    {
-      "arxiv_id": "2606.13578",
-      "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703967+00:00"
-    },
-    {
-      "arxiv_id": "2606.13289",
-      "title": "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers",
-      "score": 9.0,
-      "sent_at": "2026-06-13T10:19:38.703970+00:00"
-    },
-    {
       "arxiv_id": "2606.13474",
       "title": "Exploring Systems-Thinking Approaches to Loss of Control Risk",
       "score": 6.0,
@@ -899,6 +869,36 @@
       "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
       "score": 6.0,
       "sent_at": "2026-07-12T09:40:37.469783+00:00"
+    },
+    {
+      "arxiv_id": "2607.08964",
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "score": 9.0,
+      "sent_at": "2026-07-13T10:47:09.991863+00:00"
+    },
+    {
+      "arxiv_id": "2607.09024",
+      "title": "Video Generation Models are General-Purpose Vision Learners",
+      "score": 9.0,
+      "sent_at": "2026-07-13T10:47:09.991880+00:00"
+    },
+    {
+      "arxiv_id": "2607.09657",
+      "title": "Scalable Visual Pretraining for Language Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-07-13T10:47:09.991885+00:00"
+    },
+    {
+      "arxiv_id": "2607.04751",
+      "title": "Trust Region Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-07-13T10:47:09.991890+00:00"
+    },
+    {
+      "arxiv_id": "2607.07964",
+      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
+      "score": 9.0,
+      "sent_at": "2026-07-13T10:47:09.991894+00:00"
     }
   ],
   "posts": []
