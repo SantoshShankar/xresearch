@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.13474",
-      "title": "Exploring Systems-Thinking Approaches to Loss of Control Risk",
-      "score": 6.0,
-      "sent_at": "2026-06-14T10:42:20.242226+00:00"
-    },
-    {
-      "arxiv_id": "2606.13317",
-      "title": "SkillCAT: Contrastive Assessment and Topology-Aware Skill Self-Evolution for LLM Agents",
-      "score": 6.0,
-      "sent_at": "2026-06-14T10:42:20.242241+00:00"
-    },
-    {
-      "arxiv_id": "2606.13298",
-      "title": "Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories",
-      "score": 6.0,
-      "sent_at": "2026-06-14T10:42:20.242246+00:00"
-    },
-    {
-      "arxiv_id": "2606.13220",
-      "title": "LLM-as-an-Investigator: Evidence-First Reasoning for Robust Interactive Problem Diagnosis",
-      "score": 6.0,
-      "sent_at": "2026-06-14T10:42:20.242251+00:00"
-    },
-    {
-      "arxiv_id": "2606.12986",
-      "title": "The Rise of AI-Native Software Engineering: Implications for Practice, Education, and the Future Workforce",
-      "score": 6.0,
-      "sent_at": "2026-06-14T10:42:20.242255+00:00"
-    },
-    {
       "arxiv_id": "2606.13432",
       "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
       "score": 9.0,
