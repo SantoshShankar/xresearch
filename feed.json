@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T08:19:24.421154+00:00",
+  "updated": "2026-07-14T09:42:59.961639+00:00",
   "papers": [
     {
       "arxiv_id": "2606.30562",
@@ -300,6 +300,36 @@
       "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
       "score": 9.0,
       "sent_at": "2026-07-13T10:47:09.991894+00:00"
+    },
+    {
+      "arxiv_id": "2607.10383",
+      "title": "ABot-N1: Toward a General Visual Language Navigation Foundation Model",
+      "score": 9.0,
+      "sent_at": "2026-07-14T09:42:59.815080+00:00"
+    },
+    {
+      "arxiv_id": "2607.10350",
+      "title": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory",
+      "score": 9.0,
+      "sent_at": "2026-07-14T09:42:59.815099+00:00"
+    },
+    {
+      "arxiv_id": "2607.05394",
+      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-07-14T09:42:59.815102+00:00"
+    },
+    {
+      "arxiv_id": "2607.09125",
+      "title": "4D Human-Scene Reconstruction from Low-Overlap Captures",
+      "score": 9.0,
+      "sent_at": "2026-07-14T09:42:59.815104+00:00"
+    },
+    {
+      "arxiv_id": "2607.11487",
+      "title": "LightMem-Ego: Your AI Memory for Everyday Life",
+      "score": 9.0,
+      "sent_at": "2026-07-14T09:42:59.815105+00:00"
     }
   ],
   "posts": []
