@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-15T09:46:49.447782+00:00",
+  "updated": "2026-07-15T13:56:01.411859+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.02448",
-      "title": "AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572369+00:00"
-    },
-    {
-      "arxiv_id": "2607.02376",
-      "title": "Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572387+00:00"
-    },
-    {
-      "arxiv_id": "2607.02294",
-      "title": "Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572391+00:00"
-    },
-    {
-      "arxiv_id": "2607.02116",
-      "title": "ContextNest: Verifiable Context Governance for Autonomous AI Agent",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572395+00:00"
-    },
-    {
-      "arxiv_id": "2607.01639",
-      "title": "Autonomous discovery of traffic laws with AI traffic scientists",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572398+00:00"
-    },
     {
       "arxiv_id": "2606.29526",
       "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
