@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T08:24:57.147464+00:00",
+  "updated": "2026-07-15T09:46:49.447782+00:00",
   "papers": [
     {
       "arxiv_id": "2607.02448",
@@ -300,6 +300,36 @@
       "title": "LightMem-Ego: Your AI Memory for Everyday Life",
       "score": 9.0,
       "sent_at": "2026-07-14T09:42:59.815105+00:00"
+    },
+    {
+      "arxiv_id": "2607.11886",
+      "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
+      "score": 9.0,
+      "sent_at": "2026-07-15T09:46:49.291778+00:00"
+    },
+    {
+      "arxiv_id": "2607.11111",
+      "title": "Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution",
+      "score": 9.0,
+      "sent_at": "2026-07-15T09:46:49.291797+00:00"
+    },
+    {
+      "arxiv_id": "2607.11643",
+      "title": "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model",
+      "score": 9.0,
+      "sent_at": "2026-07-15T09:46:49.291800+00:00"
+    },
+    {
+      "arxiv_id": "2607.11849",
+      "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+      "score": 9.0,
+      "sent_at": "2026-07-15T09:46:49.291804+00:00"
+    },
+    {
+      "arxiv_id": "2607.11881",
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "score": 9.0,
+      "sent_at": "2026-07-15T09:46:49.291806+00:00"
     }
   ],
   "posts": []
