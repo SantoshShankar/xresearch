@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T08:25:17.491702+00:00",
+  "updated": "2026-07-16T09:52:53.962050+00:00",
   "papers": [
     {
       "arxiv_id": "2606.29526",
@@ -300,6 +300,36 @@
       "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
       "score": 9.0,
       "sent_at": "2026-07-15T09:46:49.291806+00:00"
+    },
+    {
+      "arxiv_id": "2607.13125",
+      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
+      "score": 9.0,
+      "sent_at": "2026-07-16T09:52:53.823113+00:00"
+    },
+    {
+      "arxiv_id": "2607.13285",
+      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+      "score": 9.0,
+      "sent_at": "2026-07-16T09:52:53.823130+00:00"
+    },
+    {
+      "arxiv_id": "2607.12395",
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-07-16T09:52:53.823134+00:00"
+    },
+    {
+      "arxiv_id": "2607.13639",
+      "title": "OvisOCR2 Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-07-16T09:52:53.823138+00:00"
+    },
+    {
+      "arxiv_id": "2607.12625",
+      "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
+      "score": 9.0,
+      "sent_at": "2026-07-16T09:52:53.823142+00:00"
     }
   ],
   "posts": []
