@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-16T09:52:53.962050+00:00",
+  "updated": "2026-07-16T14:08:16.963687+00:00",
   "papers": [
-    {
-      "arxiv_id": "2606.29526",
-      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
-      "score": 9.0,
-      "sent_at": "2026-07-06T11:52:41.988036+00:00"
-    },
-    {
-      "arxiv_id": "2607.01804",
-      "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
-      "score": 9.0,
-      "sent_at": "2026-07-06T11:52:41.988055+00:00"
-    },
-    {
-      "arxiv_id": "2607.02501",
-      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
-      "score": 9.0,
-      "sent_at": "2026-07-06T11:52:41.988060+00:00"
-    },
-    {
-      "arxiv_id": "2607.02461",
-      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers",
-      "score": 9.0,
-      "sent_at": "2026-07-06T11:52:41.988064+00:00"
-    },
-    {
-      "arxiv_id": "2606.28551",
-      "title": "DataComp-VLM: Improved Open Datasets for Vision-Language Models",
-      "score": 9.0,
-      "sent_at": "2026-07-06T11:52:41.988067+00:00"
-    },
     {
       "arxiv_id": "2607.04425",
       "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
