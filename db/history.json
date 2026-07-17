@@ -899,6 +899,36 @@
       "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
       "score": 9.0,
       "sent_at": "2026-07-16T09:52:53.823142+00:00"
+    },
+    {
+      "arxiv_id": "2607.14935",
+      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+      "score": 9.0,
+      "sent_at": "2026-07-17T09:43:34.189022+00:00"
+    },
+    {
+      "arxiv_id": "2607.14777",
+      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-07-17T09:43:34.189038+00:00"
+    },
+    {
+      "arxiv_id": "2607.15257",
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "score": 9.0,
+      "sent_at": "2026-07-17T09:43:34.189043+00:00"
+    },
+    {
+      "arxiv_id": "2607.14202",
+      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-07-17T09:43:34.189046+00:00"
+    },
+    {
+      "arxiv_id": "2607.15207",
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "score": 9.0,
+      "sent_at": "2026-07-17T09:43:34.189050+00:00"
     }
   ],
   "posts": []
