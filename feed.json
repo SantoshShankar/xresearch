@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-17T09:43:34.372082+00:00",
+  "updated": "2026-07-17T13:51:51.084486+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.04425",
-      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
-      "score": 9.0,
-      "sent_at": "2026-07-07T10:43:49.822629+00:00"
-    },
-    {
-      "arxiv_id": "2607.04438",
-      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
-      "score": 9.0,
-      "sent_at": "2026-07-07T10:43:49.822645+00:00"
-    },
-    {
-      "arxiv_id": "2607.04439",
-      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
-      "score": 9.0,
-      "sent_at": "2026-07-07T10:43:49.822652+00:00"
-    },
-    {
-      "arxiv_id": "2607.05373",
-      "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
-      "score": 9.0,
-      "sent_at": "2026-07-07T10:43:49.822658+00:00"
-    },
-    {
-      "arxiv_id": "2607.04033",
-      "title": "OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers",
-      "score": 9.0,
-      "sent_at": "2026-07-07T10:43:49.822664+00:00"
-    },
     {
       "arxiv_id": "2607.06291",
       "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
