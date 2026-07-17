@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.18023",
-      "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling",
-      "score": 10.0,
-      "sent_at": "2026-06-17T12:08:58.764156+00:00"
-    },
-    {
-      "arxiv_id": "2606.18216",
-      "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
-      "score": 9.0,
-      "sent_at": "2026-06-17T12:08:58.764175+00:00"
-    },
-    {
-      "arxiv_id": "2606.17861",
-      "title": "GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?",
-      "score": 9.0,
-      "sent_at": "2026-06-17T12:08:58.764179+00:00"
-    },
-    {
-      "arxiv_id": "2606.17200",
-      "title": "ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining",
-      "score": 9.0,
-      "sent_at": "2026-06-17T12:08:58.764183+00:00"
-    },
-    {
-      "arxiv_id": "2606.16428",
-      "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
-      "score": 9.0,
-      "sent_at": "2026-06-17T12:08:58.764186+00:00"
-    },
-    {
       "arxiv_id": "2606.19338",
       "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
       "score": 9.0,
