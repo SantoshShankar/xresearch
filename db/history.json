@@ -899,6 +899,36 @@
       "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
       "score": 9.0,
       "sent_at": "2026-07-17T09:43:34.189050+00:00"
+    },
+    {
+      "arxiv_id": "2607.14952",
+      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+      "score": 9.0,
+      "sent_at": "2026-07-18T09:13:45.058633+00:00"
+    },
+    {
+      "arxiv_id": "2607.14189",
+      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-07-18T09:13:45.058653+00:00"
+    },
+    {
+      "arxiv_id": "2607.14076",
+      "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+      "score": 9.0,
+      "sent_at": "2026-07-18T09:13:45.058659+00:00"
+    },
+    {
+      "arxiv_id": "2607.12800",
+      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-07-18T09:13:45.058663+00:00"
+    },
+    {
+      "arxiv_id": "2607.13188",
+      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
+      "score": 9.0,
+      "sent_at": "2026-07-18T09:13:45.058668+00:00"
     }
   ],
   "posts": []
