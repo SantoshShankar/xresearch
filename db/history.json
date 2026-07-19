@@ -899,6 +899,36 @@
       "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
       "score": 9.0,
       "sent_at": "2026-07-18T09:13:45.058668+00:00"
+    },
+    {
+      "arxiv_id": "2607.15263",
+      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+      "score": 6.0,
+      "sent_at": "2026-07-19T09:41:44.971245+00:00"
+    },
+    {
+      "arxiv_id": "2607.15246",
+      "title": "ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors",
+      "score": 6.0,
+      "sent_at": "2026-07-19T09:41:44.971263+00:00"
+    },
+    {
+      "arxiv_id": "2607.15051",
+      "title": "SCITUS: A Multi-Jurisdictional Framework for Adapting NIST AI RMF to the Canadian Regulatory Context",
+      "score": 6.0,
+      "sent_at": "2026-07-19T09:41:44.971268+00:00"
+    },
+    {
+      "arxiv_id": "2607.14989",
+      "title": "OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios",
+      "score": 6.0,
+      "sent_at": "2026-07-19T09:41:44.971271+00:00"
+    },
+    {
+      "arxiv_id": "2607.14444",
+      "title": "The analogue of Belinskaya's theorem for measure-preserving flows",
+      "score": 6.0,
+      "sent_at": "2026-07-19T09:41:44.971274+00:00"
     }
   ],
   "posts": []
