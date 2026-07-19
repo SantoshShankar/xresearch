@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.19704",
-      "title": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
-      "score": 10.0,
-      "sent_at": "2026-06-19T11:57:37.584992+00:00"
-    },
-    {
-      "arxiv_id": "2606.19195",
-      "title": "Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
-      "score": 9.0,
-      "sent_at": "2026-06-19T11:57:37.585010+00:00"
-    },
-    {
-      "arxiv_id": "2606.19419",
-      "title": "Playful Agentic Robot Learning",
-      "score": 9.0,
-      "sent_at": "2026-06-19T11:57:37.585014+00:00"
-    },
-    {
-      "arxiv_id": "2606.15133",
-      "title": "DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects",
-      "score": 9.0,
-      "sent_at": "2026-06-19T11:57:37.585017+00:00"
-    },
-    {
-      "arxiv_id": "2606.20515",
-      "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-06-19T11:57:37.585020+00:00"
-    },
-    {
       "arxiv_id": "2606.20517",
       "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
       "score": 9.0,
