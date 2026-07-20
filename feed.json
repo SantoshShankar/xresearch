@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-20T10:37:38.446718+00:00",
+  "updated": "2026-07-20T14:21:22.328983+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.03118",
-      "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
-      "score": 9.0,
-      "sent_at": "2026-07-10T10:42:02.735646+00:00"
-    },
-    {
-      "arxiv_id": "2601.16211",
-      "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
-      "score": 9.0,
-      "sent_at": "2026-07-10T10:42:02.735659+00:00"
-    },
-    {
-      "arxiv_id": "2603.29616",
-      "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
-      "score": 9.0,
-      "sent_at": "2026-07-10T10:42:02.735663+00:00"
-    },
-    {
-      "arxiv_id": "2607.08768",
-      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "score": 9.0,
-      "sent_at": "2026-07-10T10:42:02.735667+00:00"
-    },
-    {
-      "arxiv_id": "2607.08758",
-      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "score": 9.0,
-      "sent_at": "2026-07-10T10:42:02.735670+00:00"
-    },
     {
       "arxiv_id": "2607.08770",
       "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
