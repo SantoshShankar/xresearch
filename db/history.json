@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.20517",
-      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581730+00:00"
-    },
-    {
-      "arxiv_id": "2604.13416",
-      "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581746+00:00"
-    },
-    {
-      "arxiv_id": "2606.20506",
-      "title": "FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581750+00:00"
-    },
-    {
-      "arxiv_id": "2606.20563",
-      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581754+00:00"
-    },
-    {
-      "arxiv_id": "2606.20404",
-      "title": "FlowBender: Feedback-Aware Training for Self-Correcting Conditional Flows",
-      "score": 9.0,
-      "sent_at": "2026-06-20T10:24:09.581757+00:00"
-    },
-    {
       "arxiv_id": "2606.20470",
       "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
       "score": 6.0,
@@ -899,6 +869,36 @@
       "title": "The analogue of Belinskaya's theorem for measure-preserving flows",
       "score": 6.0,
       "sent_at": "2026-07-19T09:41:44.971274+00:00"
+    },
+    {
+      "arxiv_id": "2607.15314",
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "score": 10.0,
+      "sent_at": "2026-07-20T10:37:38.297376+00:00"
+    },
+    {
+      "arxiv_id": "2607.15330",
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "score": 9.0,
+      "sent_at": "2026-07-20T10:37:38.297397+00:00"
+    },
+    {
+      "arxiv_id": "2607.14530",
+      "title": "xHC: Expanded Hyper-Connections",
+      "score": 9.0,
+      "sent_at": "2026-07-20T10:37:38.297400+00:00"
+    },
+    {
+      "arxiv_id": "2607.11683",
+      "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
+      "score": 9.0,
+      "sent_at": "2026-07-20T10:37:38.297403+00:00"
+    },
+    {
+      "arxiv_id": "2607.16051",
+      "title": "Loop the Loopies!",
+      "score": 9.0,
+      "sent_at": "2026-07-20T10:37:38.297405+00:00"
     }
   ],
   "posts": []
