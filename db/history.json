@@ -899,6 +899,36 @@
       "title": "Loop the Loopies!",
       "score": 9.0,
       "sent_at": "2026-07-20T10:37:38.297405+00:00"
+    },
+    {
+      "arxiv_id": "2607.18213",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841013+00:00"
+    },
+    {
+      "arxiv_id": "2607.17250",
+      "title": "EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841030+00:00"
+    },
+    {
+      "arxiv_id": "2607.07820",
+      "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841034+00:00"
+    },
+    {
+      "arxiv_id": "2607.17423",
+      "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841036+00:00"
+    },
+    {
+      "arxiv_id": "2607.17977",
+      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841039+00:00"
     }
   ],
   "posts": []

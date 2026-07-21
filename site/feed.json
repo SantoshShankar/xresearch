@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-21T08:38:12.477732+00:00",
+  "updated": "2026-07-21T10:11:41.975387+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.08770",
-      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
-      "score": 9.0,
-      "sent_at": "2026-07-11T09:13:55.562939+00:00"
-    },
-    {
-      "arxiv_id": "2607.08765",
-      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
-      "score": 9.0,
-      "sent_at": "2026-07-11T09:13:55.562957+00:00"
-    },
-    {
-      "arxiv_id": "2607.08404",
-      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
-      "score": 9.0,
-      "sent_at": "2026-07-11T09:13:55.562960+00:00"
-    },
-    {
-      "arxiv_id": "2607.07740",
-      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-      "score": 9.0,
-      "sent_at": "2026-07-11T09:13:55.562961+00:00"
-    },
-    {
-      "arxiv_id": "2607.08763",
-      "title": "OpenCoF: Learning to Reason Through Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-07-11T09:13:55.562963+00:00"
-    },
     {
       "arxiv_id": "2607.08681",
       "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
@@ -300,6 +270,36 @@
       "title": "Loop the Loopies!",
       "score": 9.0,
       "sent_at": "2026-07-20T10:37:38.297405+00:00"
+    },
+    {
+      "arxiv_id": "2607.18213",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841013+00:00"
+    },
+    {
+      "arxiv_id": "2607.17250",
+      "title": "EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841030+00:00"
+    },
+    {
+      "arxiv_id": "2607.07820",
+      "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841034+00:00"
+    },
+    {
+      "arxiv_id": "2607.17423",
+      "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841036+00:00"
+    },
+    {
+      "arxiv_id": "2607.17977",
+      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
+      "score": 9.0,
+      "sent_at": "2026-07-21T10:11:41.841039+00:00"
     }
   ],
   "posts": []
