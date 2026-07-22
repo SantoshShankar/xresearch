@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-22T08:37:51.202288+00:00",
+  "updated": "2026-07-22T10:11:45.096934+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.08681",
-      "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
-      "score": 6.0,
-      "sent_at": "2026-07-12T09:40:37.469761+00:00"
-    },
-    {
-      "arxiv_id": "2607.08177",
-      "title": "ASMR: Agentic Schema Generation for Ship Maintenance Report Writing",
-      "score": 6.0,
-      "sent_at": "2026-07-12T09:40:37.469777+00:00"
-    },
-    {
-      "arxiv_id": "2607.08043",
-      "title": "Aleena: Alignment Agent for Research Software Engineering Collaborations",
-      "score": 6.0,
-      "sent_at": "2026-07-12T09:40:37.469779+00:00"
-    },
-    {
-      "arxiv_id": "2607.07858",
-      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-      "score": 6.0,
-      "sent_at": "2026-07-12T09:40:37.469781+00:00"
-    },
-    {
-      "arxiv_id": "2607.07695",
-      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
-      "score": 6.0,
-      "sent_at": "2026-07-12T09:40:37.469783+00:00"
-    },
     {
       "arxiv_id": "2607.08964",
       "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
@@ -300,6 +270,36 @@
       "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
       "score": 9.0,
       "sent_at": "2026-07-21T10:11:41.841039+00:00"
+    },
+    {
+      "arxiv_id": "2607.16617",
+      "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
+      "score": 9.0,
+      "sent_at": "2026-07-22T10:11:44.940475+00:00"
+    },
+    {
+      "arxiv_id": "2607.18703",
+      "title": "Generative World Renderer at the Speed of Play",
+      "score": 9.0,
+      "sent_at": "2026-07-22T10:11:44.940491+00:00"
+    },
+    {
+      "arxiv_id": "2607.19139",
+      "title": "Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers",
+      "score": 9.0,
+      "sent_at": "2026-07-22T10:11:44.940496+00:00"
+    },
+    {
+      "arxiv_id": "2607.18367",
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-07-22T10:11:44.940500+00:00"
+    },
+    {
+      "arxiv_id": "2607.19064",
+      "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
+      "score": 9.0,
+      "sent_at": "2026-07-22T10:11:44.940504+00:00"
     }
   ],
   "posts": []
