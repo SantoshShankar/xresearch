@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-23T10:09:29.334299+00:00",
+  "updated": "2026-07-23T14:23:08.449959+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.08964",
-      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-      "score": 9.0,
-      "sent_at": "2026-07-13T10:47:09.991863+00:00"
-    },
-    {
-      "arxiv_id": "2607.09024",
-      "title": "Video Generation Models are General-Purpose Vision Learners",
-      "score": 9.0,
-      "sent_at": "2026-07-13T10:47:09.991880+00:00"
-    },
-    {
-      "arxiv_id": "2607.09657",
-      "title": "Scalable Visual Pretraining for Language Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-07-13T10:47:09.991885+00:00"
-    },
-    {
-      "arxiv_id": "2607.04751",
-      "title": "Trust Region Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-07-13T10:47:09.991890+00:00"
-    },
-    {
-      "arxiv_id": "2607.07964",
-      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
-      "score": 9.0,
-      "sent_at": "2026-07-13T10:47:09.991894+00:00"
-    },
     {
       "arxiv_id": "2607.10383",
       "title": "ABot-N1: Toward a General Visual Language Navigation Foundation Model",
