@@ -899,6 +899,36 @@
       "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
       "score": 9.0,
       "sent_at": "2026-07-22T10:11:44.940504+00:00"
+    },
+    {
+      "arxiv_id": "2607.20145",
+      "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
+      "score": 9.0,
+      "sent_at": "2026-07-23T10:09:29.189931+00:00"
+    },
+    {
+      "arxiv_id": "2607.20368",
+      "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+      "score": 9.0,
+      "sent_at": "2026-07-23T10:09:29.189945+00:00"
+    },
+    {
+      "arxiv_id": "2607.19747",
+      "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+      "score": 9.0,
+      "sent_at": "2026-07-23T10:09:29.189950+00:00"
+    },
+    {
+      "arxiv_id": "2607.16165",
+      "title": "An Exam for Active Observers",
+      "score": 9.0,
+      "sent_at": "2026-07-23T10:09:29.189954+00:00"
+    },
+    {
+      "arxiv_id": "2607.19604",
+      "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
+      "score": 9.0,
+      "sent_at": "2026-07-23T10:09:29.189958+00:00"
     }
   ],
   "posts": []
