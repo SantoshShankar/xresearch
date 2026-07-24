@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-24T08:35:31.551981+00:00",
+  "updated": "2026-07-24T10:06:14.105566+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.10383",
-      "title": "ABot-N1: Toward a General Visual Language Navigation Foundation Model",
-      "score": 9.0,
-      "sent_at": "2026-07-14T09:42:59.815080+00:00"
-    },
-    {
-      "arxiv_id": "2607.10350",
-      "title": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory",
-      "score": 9.0,
-      "sent_at": "2026-07-14T09:42:59.815099+00:00"
-    },
-    {
-      "arxiv_id": "2607.05394",
-      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-07-14T09:42:59.815102+00:00"
-    },
-    {
-      "arxiv_id": "2607.09125",
-      "title": "4D Human-Scene Reconstruction from Low-Overlap Captures",
-      "score": 9.0,
-      "sent_at": "2026-07-14T09:42:59.815104+00:00"
-    },
-    {
-      "arxiv_id": "2607.11487",
-      "title": "LightMem-Ego: Your AI Memory for Everyday Life",
-      "score": 9.0,
-      "sent_at": "2026-07-14T09:42:59.815105+00:00"
-    },
     {
       "arxiv_id": "2607.11886",
       "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
@@ -300,6 +270,36 @@
       "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
       "score": 9.0,
       "sent_at": "2026-07-23T10:09:29.189958+00:00"
+    },
+    {
+      "arxiv_id": "2607.21461",
+      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
+      "score": 9.0,
+      "sent_at": "2026-07-24T10:06:13.965977+00:00"
+    },
+    {
+      "arxiv_id": "2605.09635",
+      "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+      "score": 9.0,
+      "sent_at": "2026-07-24T10:06:13.965993+00:00"
+    },
+    {
+      "arxiv_id": "2607.20061",
+      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+      "score": 9.0,
+      "sent_at": "2026-07-24T10:06:13.965998+00:00"
+    },
+    {
+      "arxiv_id": "2607.21556",
+      "title": "Visual Contrastive Self-Distillation",
+      "score": 9.0,
+      "sent_at": "2026-07-24T10:06:13.966002+00:00"
+    },
+    {
+      "arxiv_id": "2607.21072",
+      "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
+      "score": 9.0,
+      "sent_at": "2026-07-24T10:06:13.966006+00:00"
     }
   ],
   "posts": []
