@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T08:15:48.265173+00:00",
+  "updated": "2026-07-25T09:24:49.712729+00:00",
   "papers": [
     {
       "arxiv_id": "2607.11886",
@@ -300,6 +300,36 @@
       "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
       "score": 9.0,
       "sent_at": "2026-07-24T10:06:13.966006+00:00"
+    },
+    {
+      "arxiv_id": "2607.20911",
+      "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
+      "score": 9.0,
+      "sent_at": "2026-07-25T09:24:49.569892+00:00"
+    },
+    {
+      "arxiv_id": "2607.20709",
+      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-25T09:24:49.569915+00:00"
+    },
+    {
+      "arxiv_id": "2607.21553",
+      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-07-25T09:24:49.569919+00:00"
+    },
+    {
+      "arxiv_id": "2607.12746",
+      "title": "Color Pass-Through via Camera-Display Coupling",
+      "score": 9.0,
+      "sent_at": "2026-07-25T09:24:49.569921+00:00"
+    },
+    {
+      "arxiv_id": "2607.20734",
+      "title": "LLMs Get Lost in Evolving User Intent",
+      "score": 9.0,
+      "sent_at": "2026-07-25T09:24:49.569924+00:00"
     }
   ],
   "posts": []
