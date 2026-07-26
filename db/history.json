@@ -899,6 +899,36 @@
       "title": "LLMs Get Lost in Evolving User Intent",
       "score": 9.0,
       "sent_at": "2026-07-25T09:24:49.569924+00:00"
+    },
+    {
+      "arxiv_id": "2607.21437",
+      "title": "Agent-Guided Relational Concept Discovery: Toward Interpretable Surgical Margin Assessment",
+      "score": 6.0,
+      "sent_at": "2026-07-26T09:49:32.236533+00:00"
+    },
+    {
+      "arxiv_id": "2607.21345",
+      "title": "Regulating autonomous and agentic AI",
+      "score": 6.0,
+      "sent_at": "2026-07-26T09:49:32.236550+00:00"
+    },
+    {
+      "arxiv_id": "2607.21325",
+      "title": "Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation",
+      "score": 6.0,
+      "sent_at": "2026-07-26T09:49:32.236555+00:00"
+    },
+    {
+      "arxiv_id": "2607.20255",
+      "title": "The Ethics of Autonomous AI Agents for Offensive Security",
+      "score": 6.0,
+      "sent_at": "2026-07-26T09:49:32.236560+00:00"
+    },
+    {
+      "arxiv_id": "2607.20062",
+      "title": "Solar Open 2 Technical Report",
+      "score": 6.0,
+      "sent_at": "2026-07-26T09:49:32.236564+00:00"
     }
   ],
   "posts": []
