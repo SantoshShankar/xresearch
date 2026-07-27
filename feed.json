@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T10:02:49.100228+00:00",
+  "updated": "2026-07-27T10:59:36.566883+00:00",
   "papers": [
     {
       "arxiv_id": "2607.14952",
@@ -270,6 +270,36 @@
       "title": "Solar Open 2 Technical Report",
       "score": 6.0,
       "sent_at": "2026-07-26T09:49:32.236564+00:00"
+    },
+    {
+      "arxiv_id": "2607.22529",
+      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+      "score": 9.0,
+      "sent_at": "2026-07-27T10:59:36.391052+00:00"
+    },
+    {
+      "arxiv_id": "2607.20465",
+      "title": "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators",
+      "score": 9.0,
+      "sent_at": "2026-07-27T10:59:36.391071+00:00"
+    },
+    {
+      "arxiv_id": "2607.22043",
+      "title": "Scaling Native Multimodal Pre-Training From Scratch",
+      "score": 9.0,
+      "sent_at": "2026-07-27T10:59:36.391075+00:00"
+    },
+    {
+      "arxiv_id": "2607.21653",
+      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-07-27T10:59:36.391079+00:00"
+    },
+    {
+      "arxiv_id": "2607.21503",
+      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+      "score": 9.0,
+      "sent_at": "2026-07-27T10:59:36.391081+00:00"
     }
   ],
   "posts": []
