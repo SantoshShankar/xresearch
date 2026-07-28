@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.27350",
-      "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
-      "score": 6.0,
-      "sent_at": "2026-06-28T10:18:36.651987+00:00"
-    },
-    {
-      "arxiv_id": "2606.26959",
-      "title": "The Shift to Agentic AI: Evidence from Codex",
-      "score": 6.0,
-      "sent_at": "2026-06-28T10:18:36.652006+00:00"
-    },
-    {
-      "arxiv_id": "2606.26722",
-      "title": "Socratic agents for autonomous scientific discovery in high-dimensional physical systems",
-      "score": 6.0,
-      "sent_at": "2026-06-28T10:18:36.652010+00:00"
-    },
-    {
-      "arxiv_id": "2606.26448",
-      "title": "Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist",
-      "score": 6.0,
-      "sent_at": "2026-06-28T10:18:36.652015+00:00"
-    },
-    {
-      "arxiv_id": "2606.26346",
-      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-      "score": 6.0,
-      "sent_at": "2026-06-28T10:18:36.652020+00:00"
-    },
-    {
       "arxiv_id": "2606.28128",
       "title": "PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
       "score": 9.0,
       "sent_at": "2026-07-27T10:59:36.391081+00:00"
+    },
+    {
+      "arxiv_id": "2607.24653",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901723+00:00"
+    },
+    {
+      "arxiv_id": "2607.23588",
+      "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901741+00:00"
+    },
+    {
+      "arxiv_id": "2607.24280",
+      "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901745+00:00"
+    },
+    {
+      "arxiv_id": "2607.21655",
+      "title": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901749+00:00"
+    },
+    {
+      "arxiv_id": "2607.22798",
+      "title": "StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901753+00:00"
     }
   ],
   "posts": []
