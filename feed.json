@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-28T08:45:10.746468+00:00",
+  "updated": "2026-07-28T10:20:03.077347+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.14952",
-      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
-      "score": 9.0,
-      "sent_at": "2026-07-18T09:13:45.058633+00:00"
-    },
-    {
-      "arxiv_id": "2607.14189",
-      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-07-18T09:13:45.058653+00:00"
-    },
-    {
-      "arxiv_id": "2607.14076",
-      "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-      "score": 9.0,
-      "sent_at": "2026-07-18T09:13:45.058659+00:00"
-    },
-    {
-      "arxiv_id": "2607.12800",
-      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
-      "score": 9.0,
-      "sent_at": "2026-07-18T09:13:45.058663+00:00"
-    },
-    {
-      "arxiv_id": "2607.13188",
-      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
-      "score": 9.0,
-      "sent_at": "2026-07-18T09:13:45.058668+00:00"
-    },
     {
       "arxiv_id": "2607.15263",
       "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
@@ -300,6 +270,36 @@
       "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
       "score": 9.0,
       "sent_at": "2026-07-27T10:59:36.391081+00:00"
+    },
+    {
+      "arxiv_id": "2607.24653",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901723+00:00"
+    },
+    {
+      "arxiv_id": "2607.23588",
+      "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901741+00:00"
+    },
+    {
+      "arxiv_id": "2607.24280",
+      "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901745+00:00"
+    },
+    {
+      "arxiv_id": "2607.21655",
+      "title": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901749+00:00"
+    },
+    {
+      "arxiv_id": "2607.22798",
+      "title": "StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-28T10:20:02.901753+00:00"
     }
   ],
   "posts": []
