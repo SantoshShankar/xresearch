@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-30T10:13:02.496120+00:00",
+  "updated": "2026-07-30T14:19:29.855386+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.15314",
-      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-      "score": 10.0,
-      "sent_at": "2026-07-20T10:37:38.297376+00:00"
-    },
-    {
-      "arxiv_id": "2607.15330",
-      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
-      "score": 9.0,
-      "sent_at": "2026-07-20T10:37:38.297397+00:00"
-    },
-    {
-      "arxiv_id": "2607.14530",
-      "title": "xHC: Expanded Hyper-Connections",
-      "score": 9.0,
-      "sent_at": "2026-07-20T10:37:38.297400+00:00"
-    },
-    {
-      "arxiv_id": "2607.11683",
-      "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
-      "score": 9.0,
-      "sent_at": "2026-07-20T10:37:38.297403+00:00"
-    },
-    {
-      "arxiv_id": "2607.16051",
-      "title": "Loop the Loopies!",
-      "score": 9.0,
-      "sent_at": "2026-07-20T10:37:38.297405+00:00"
-    },
     {
       "arxiv_id": "2607.18213",
       "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
