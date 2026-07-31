@@ -1,36 +1,6 @@
 {
-  "updated": "2026-07-31T09:10:18.813870+00:00",
+  "updated": "2026-07-31T10:25:33.107591+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.18213",
-      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-      "score": 9.0,
-      "sent_at": "2026-07-21T10:11:41.841013+00:00"
-    },
-    {
-      "arxiv_id": "2607.17250",
-      "title": "EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World",
-      "score": 9.0,
-      "sent_at": "2026-07-21T10:11:41.841030+00:00"
-    },
-    {
-      "arxiv_id": "2607.07820",
-      "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
-      "score": 9.0,
-      "sent_at": "2026-07-21T10:11:41.841034+00:00"
-    },
-    {
-      "arxiv_id": "2607.17423",
-      "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
-      "score": 9.0,
-      "sent_at": "2026-07-21T10:11:41.841036+00:00"
-    },
-    {
-      "arxiv_id": "2607.17977",
-      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
-      "score": 9.0,
-      "sent_at": "2026-07-21T10:11:41.841039+00:00"
-    },
     {
       "arxiv_id": "2607.16617",
       "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
@@ -300,6 +270,36 @@
       "title": "CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition",
       "score": 9.0,
       "sent_at": "2026-07-30T10:13:02.342793+00:00"
+    },
+    {
+      "arxiv_id": "2607.28624",
+      "title": "PhiZero: A World Model Built Around Physical Language",
+      "score": 9.0,
+      "sent_at": "2026-07-31T10:25:32.950801+00:00"
+    },
+    {
+      "arxiv_id": "2607.28227",
+      "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
+      "score": 9.0,
+      "sent_at": "2026-07-31T10:25:32.950821+00:00"
+    },
+    {
+      "arxiv_id": "2607.28568",
+      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+      "score": 9.0,
+      "sent_at": "2026-07-31T10:25:32.950827+00:00"
+    },
+    {
+      "arxiv_id": "2607.26760",
+      "title": "Metis: Memory Foundation Model",
+      "score": 9.0,
+      "sent_at": "2026-07-31T10:25:32.950832+00:00"
+    },
+    {
+      "arxiv_id": "2607.28618",
+      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+      "score": 9.0,
+      "sent_at": "2026-07-31T10:25:32.950835+00:00"
     }
   ],
   "posts": []
