@@ -899,6 +899,36 @@
       "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
       "score": 9.0,
       "sent_at": "2026-07-31T10:25:32.950835+00:00"
+    },
+    {
+      "arxiv_id": "2607.27380",
+      "title": "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System",
+      "score": 9.0,
+      "sent_at": "2026-08-01T09:46:59.794493+00:00"
+    },
+    {
+      "arxiv_id": "2607.27919",
+      "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
+      "score": 9.0,
+      "sent_at": "2026-08-01T09:46:59.794506+00:00"
+    },
+    {
+      "arxiv_id": "2607.28595",
+      "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-08-01T09:46:59.794532+00:00"
+    },
+    {
+      "arxiv_id": "2607.26497",
+      "title": "BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms",
+      "score": 9.0,
+      "sent_at": "2026-08-01T09:46:59.794537+00:00"
+    },
+    {
+      "arxiv_id": "2607.28022",
+      "title": "Flux-OPD: On-Policy Distillation with Evolving Contexts",
+      "score": 9.0,
+      "sent_at": "2026-08-01T09:46:59.794541+00:00"
     }
   ],
   "posts": []
