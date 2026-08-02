@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T08:31:51.059226+00:00",
+  "updated": "2026-08-02T09:46:49.139799+00:00",
   "papers": [
     {
       "arxiv_id": "2607.20145",
@@ -300,6 +300,36 @@
       "title": "Flux-OPD: On-Policy Distillation with Evolving Contexts",
       "score": 9.0,
       "sent_at": "2026-08-01T09:46:59.794541+00:00"
+    },
+    {
+      "arxiv_id": "2607.28242",
+      "title": "Agentic Metaverse Services: A New As-a-Service Paradigm",
+      "score": 6.0,
+      "sent_at": "2026-08-02T09:46:49.000822+00:00"
+    },
+    {
+      "arxiv_id": "2607.28176",
+      "title": "Integrating AI into Requirements Quality Learning in Software Engineering Education: A TPACK-Guided Empirical Study",
+      "score": 6.0,
+      "sent_at": "2026-08-02T09:46:49.000840+00:00"
+    },
+    {
+      "arxiv_id": "2607.28048",
+      "title": "SKILL-KD: Contrastive Skill Distillation for LLM Agents",
+      "score": 6.0,
+      "sent_at": "2026-08-02T09:46:49.000845+00:00"
+    },
+    {
+      "arxiv_id": "2607.27636",
+      "title": "HALO: Heterogeneous Admission through Localized Obligations for Safe Agentic Execution",
+      "score": 6.0,
+      "sent_at": "2026-08-02T09:46:49.000849+00:00"
+    },
+    {
+      "arxiv_id": "2607.27518",
+      "title": "Automated Transcript Analysis for Detecting Flaws in Agentic Benchmarks",
+      "score": 6.0,
+      "sent_at": "2026-08-02T09:46:49.000854+00:00"
     }
   ],
   "posts": []
