@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2606.30562",
-      "title": "Morphing into Hybrid Attention Models",
-      "score": 9.0,
-      "sent_at": "2026-07-04T09:57:33.621311+00:00"
-    },
-    {
-      "arxiv_id": "2607.01647",
-      "title": "AgenticDataBench: A Comprehensive Benchmark for Data Agents",
-      "score": 9.0,
-      "sent_at": "2026-07-04T09:57:33.621327+00:00"
-    },
-    {
-      "arxiv_id": "2607.01642",
-      "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling",
-      "score": 9.0,
-      "sent_at": "2026-07-04T09:57:33.621330+00:00"
-    },
-    {
-      "arxiv_id": "2607.02517",
-      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
-      "score": 9.0,
-      "sent_at": "2026-07-04T09:57:33.621332+00:00"
-    },
-    {
-      "arxiv_id": "2606.31825",
-      "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
-      "score": 9.0,
-      "sent_at": "2026-07-04T09:57:33.621334+00:00"
-    },
-    {
       "arxiv_id": "2607.02448",
       "title": "AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition",
       "score": 6.0,
@@ -899,6 +869,36 @@
       "title": "Automated Transcript Analysis for Detecting Flaws in Agentic Benchmarks",
       "score": 6.0,
       "sent_at": "2026-08-02T09:46:49.000854+00:00"
+    },
+    {
+      "arxiv_id": "2607.23802",
+      "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
+      "score": 9.0,
+      "sent_at": "2026-08-03T11:10:18.755812+00:00"
+    },
+    {
+      "arxiv_id": "2607.23782",
+      "title": "N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
+      "score": 9.0,
+      "sent_at": "2026-08-03T11:10:18.755830+00:00"
+    },
+    {
+      "arxiv_id": "2607.28675",
+      "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
+      "score": 9.0,
+      "sent_at": "2026-08-03T11:10:18.755835+00:00"
+    },
+    {
+      "arxiv_id": "2607.28617",
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "score": 9.0,
+      "sent_at": "2026-08-03T11:10:18.755838+00:00"
+    },
+    {
+      "arxiv_id": "2607.28415",
+      "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
+      "score": 9.0,
+      "sent_at": "2026-08-03T11:10:18.755841+00:00"
     }
   ],
   "posts": []
