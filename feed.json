@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-04T08:48:02.223896+00:00",
+  "updated": "2026-08-04T10:24:58.816628+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.20911",
-      "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
-      "score": 9.0,
-      "sent_at": "2026-07-25T09:24:49.569892+00:00"
-    },
-    {
-      "arxiv_id": "2607.20709",
-      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-      "score": 9.0,
-      "sent_at": "2026-07-25T09:24:49.569915+00:00"
-    },
-    {
-      "arxiv_id": "2607.21553",
-      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-07-25T09:24:49.569919+00:00"
-    },
-    {
-      "arxiv_id": "2607.12746",
-      "title": "Color Pass-Through via Camera-Display Coupling",
-      "score": 9.0,
-      "sent_at": "2026-07-25T09:24:49.569921+00:00"
-    },
-    {
-      "arxiv_id": "2607.20734",
-      "title": "LLMs Get Lost in Evolving User Intent",
-      "score": 9.0,
-      "sent_at": "2026-07-25T09:24:49.569924+00:00"
-    },
     {
       "arxiv_id": "2607.21437",
       "title": "Agent-Guided Relational Concept Discovery: Toward Interpretable Surgical Margin Assessment",
@@ -300,6 +270,36 @@
       "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
       "score": 9.0,
       "sent_at": "2026-08-03T11:10:18.755841+00:00"
+    },
+    {
+      "arxiv_id": "2608.02023",
+      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635539+00:00"
+    },
+    {
+      "arxiv_id": "2608.01964",
+      "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635558+00:00"
+    },
+    {
+      "arxiv_id": "2608.01678",
+      "title": "Progressive Agent Skill Generation via Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635561+00:00"
+    },
+    {
+      "arxiv_id": "2607.28590",
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635564+00:00"
+    },
+    {
+      "arxiv_id": "2608.02603",
+      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635567+00:00"
     }
   ],
   "posts": []
