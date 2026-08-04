@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2607.02448",
-      "title": "AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572369+00:00"
-    },
-    {
-      "arxiv_id": "2607.02376",
-      "title": "Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572387+00:00"
-    },
-    {
-      "arxiv_id": "2607.02294",
-      "title": "Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572391+00:00"
-    },
-    {
-      "arxiv_id": "2607.02116",
-      "title": "ContextNest: Verifiable Context Governance for Autonomous AI Agent",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572395+00:00"
-    },
-    {
-      "arxiv_id": "2607.01639",
-      "title": "Autonomous discovery of traffic laws with AI traffic scientists",
-      "score": 6.0,
-      "sent_at": "2026-07-05T10:01:25.572398+00:00"
-    },
-    {
       "arxiv_id": "2606.29526",
       "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
       "score": 9.0,
       "sent_at": "2026-08-03T11:10:18.755841+00:00"
+    },
+    {
+      "arxiv_id": "2608.02023",
+      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635539+00:00"
+    },
+    {
+      "arxiv_id": "2608.01964",
+      "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635558+00:00"
+    },
+    {
+      "arxiv_id": "2608.01678",
+      "title": "Progressive Agent Skill Generation via Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635561+00:00"
+    },
+    {
+      "arxiv_id": "2607.28590",
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635564+00:00"
+    },
+    {
+      "arxiv_id": "2608.02603",
+      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+      "score": 9.0,
+      "sent_at": "2026-08-04T10:24:58.635567+00:00"
     }
   ],
   "posts": []
