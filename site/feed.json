@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-05T08:45:12.308241+00:00",
+  "updated": "2026-08-05T10:21:30.206879+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.21437",
-      "title": "Agent-Guided Relational Concept Discovery: Toward Interpretable Surgical Margin Assessment",
-      "score": 6.0,
-      "sent_at": "2026-07-26T09:49:32.236533+00:00"
-    },
-    {
-      "arxiv_id": "2607.21345",
-      "title": "Regulating autonomous and agentic AI",
-      "score": 6.0,
-      "sent_at": "2026-07-26T09:49:32.236550+00:00"
-    },
-    {
-      "arxiv_id": "2607.21325",
-      "title": "Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation",
-      "score": 6.0,
-      "sent_at": "2026-07-26T09:49:32.236555+00:00"
-    },
-    {
-      "arxiv_id": "2607.20255",
-      "title": "The Ethics of Autonomous AI Agents for Offensive Security",
-      "score": 6.0,
-      "sent_at": "2026-07-26T09:49:32.236560+00:00"
-    },
-    {
-      "arxiv_id": "2607.20062",
-      "title": "Solar Open 2 Technical Report",
-      "score": 6.0,
-      "sent_at": "2026-07-26T09:49:32.236564+00:00"
-    },
     {
       "arxiv_id": "2607.22529",
       "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
@@ -300,6 +270,36 @@
       "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
       "score": 9.0,
       "sent_at": "2026-08-04T10:24:58.635567+00:00"
+    },
+    {
+      "arxiv_id": "2607.28956",
+      "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+      "score": 9.0,
+      "sent_at": "2026-08-05T10:21:30.084374+00:00"
+    },
+    {
+      "arxiv_id": "2608.03974",
+      "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "score": 9.0,
+      "sent_at": "2026-08-05T10:21:30.084390+00:00"
+    },
+    {
+      "arxiv_id": "2608.02711",
+      "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
+      "score": 9.0,
+      "sent_at": "2026-08-05T10:21:30.084393+00:00"
+    },
+    {
+      "arxiv_id": "2608.02602",
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "score": 9.0,
+      "sent_at": "2026-08-05T10:21:30.084395+00:00"
+    },
+    {
+      "arxiv_id": "2608.03979",
+      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+      "score": 9.0,
+      "sent_at": "2026-08-05T10:21:30.084397+00:00"
     }
   ],
   "posts": []
