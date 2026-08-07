@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T07:25:28.776307+00:00",
+  "updated": "2026-08-07T08:43:52.544040+00:00",
   "papers": [
     {
       "arxiv_id": "2607.24653",
@@ -300,6 +300,36 @@
       "title": "The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads",
       "score": 9.0,
       "sent_at": "2026-08-06T10:23:11.135063+00:00"
+    },
+    {
+      "arxiv_id": "2608.05987",
+      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-08-07T08:43:52.397169+00:00"
+    },
+    {
+      "arxiv_id": "2608.05248",
+      "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
+      "score": 9.0,
+      "sent_at": "2026-08-07T08:43:52.397186+00:00"
+    },
+    {
+      "arxiv_id": "2607.28609",
+      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "score": 9.0,
+      "sent_at": "2026-08-07T08:43:52.397191+00:00"
+    },
+    {
+      "arxiv_id": "2608.06197",
+      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-08-07T08:43:52.397196+00:00"
+    },
+    {
+      "arxiv_id": "2608.06060",
+      "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
+      "score": 9.0,
+      "sent_at": "2026-08-07T08:43:52.397200+00:00"
     }
   ],
   "posts": []
