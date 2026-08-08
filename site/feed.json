@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T07:02:50.585056+00:00",
+  "updated": "2026-08-08T08:25:03.014661+00:00",
   "papers": [
     {
       "arxiv_id": "2607.25895",
@@ -300,6 +300,36 @@
       "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
       "score": 9.0,
       "sent_at": "2026-08-07T08:43:52.397200+00:00"
+    },
+    {
+      "arxiv_id": "2608.01481",
+      "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
+      "score": 9.0,
+      "sent_at": "2026-08-08T08:25:02.872103+00:00"
+    },
+    {
+      "arxiv_id": "2608.05747",
+      "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
+      "score": 9.0,
+      "sent_at": "2026-08-08T08:25:02.872122+00:00"
+    },
+    {
+      "arxiv_id": "2608.05631",
+      "title": "ChronoVision: Temporal Reasoning via Latent State Reconstruction",
+      "score": 9.0,
+      "sent_at": "2026-08-08T08:25:02.872127+00:00"
+    },
+    {
+      "arxiv_id": "2608.06301",
+      "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+      "score": 9.0,
+      "sent_at": "2026-08-08T08:25:02.872131+00:00"
+    },
+    {
+      "arxiv_id": "2608.06020",
+      "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
+      "score": 9.0,
+      "sent_at": "2026-08-08T08:25:02.872136+00:00"
     }
   ],
   "posts": []
