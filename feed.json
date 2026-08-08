@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-08T08:25:03.014661+00:00",
+  "updated": "2026-08-08T13:00:35.146447+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.25895",
-      "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
-      "score": 9.0,
-      "sent_at": "2026-07-29T10:25:31.224105+00:00"
-    },
-    {
-      "arxiv_id": "2607.24223",
-      "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
-      "score": 9.0,
-      "sent_at": "2026-07-29T10:25:31.224141+00:00"
-    },
-    {
-      "arxiv_id": "2607.25565",
-      "title": "ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition",
-      "score": 9.0,
-      "sent_at": "2026-07-29T10:25:31.224145+00:00"
-    },
-    {
-      "arxiv_id": "2607.24368",
-      "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
-      "score": 9.0,
-      "sent_at": "2026-07-29T10:25:31.224147+00:00"
-    },
-    {
-      "arxiv_id": "2607.24904",
-      "title": "Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model",
-      "score": 9.0,
-      "sent_at": "2026-07-29T10:25:31.224149+00:00"
-    },
     {
       "arxiv_id": "2607.27205",
       "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
