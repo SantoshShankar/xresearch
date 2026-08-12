@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-12T08:58:55.586270+00:00",
+  "updated": "2026-08-12T13:23:06.288407+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.28242",
-      "title": "Agentic Metaverse Services: A New As-a-Service Paradigm",
-      "score": 6.0,
-      "sent_at": "2026-08-02T09:46:49.000822+00:00"
-    },
-    {
-      "arxiv_id": "2607.28176",
-      "title": "Integrating AI into Requirements Quality Learning in Software Engineering Education: A TPACK-Guided Empirical Study",
-      "score": 6.0,
-      "sent_at": "2026-08-02T09:46:49.000840+00:00"
-    },
-    {
-      "arxiv_id": "2607.28048",
-      "title": "SKILL-KD: Contrastive Skill Distillation for LLM Agents",
-      "score": 6.0,
-      "sent_at": "2026-08-02T09:46:49.000845+00:00"
-    },
-    {
-      "arxiv_id": "2607.27636",
-      "title": "HALO: Heterogeneous Admission through Localized Obligations for Safe Agentic Execution",
-      "score": 6.0,
-      "sent_at": "2026-08-02T09:46:49.000849+00:00"
-    },
-    {
-      "arxiv_id": "2607.27518",
-      "title": "Automated Transcript Analysis for Detecting Flaws in Agentic Benchmarks",
-      "score": 6.0,
-      "sent_at": "2026-08-02T09:46:49.000854+00:00"
-    },
     {
       "arxiv_id": "2607.23802",
       "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
