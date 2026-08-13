@@ -899,6 +899,36 @@
       "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
       "score": 9.0,
       "sent_at": "2026-08-12T08:58:55.433058+00:00"
+    },
+    {
+      "arxiv_id": "2608.11274",
+      "title": "Agent Safety Should Be a Runtime Contract",
+      "score": 10.0,
+      "sent_at": "2026-08-13T08:59:55.982721+00:00"
+    },
+    {
+      "arxiv_id": "2608.00677",
+      "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
+      "score": 9.0,
+      "sent_at": "2026-08-13T08:59:55.982738+00:00"
+    },
+    {
+      "arxiv_id": "2608.12307",
+      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+      "score": 9.0,
+      "sent_at": "2026-08-13T08:59:55.982742+00:00"
+    },
+    {
+      "arxiv_id": "2608.11924",
+      "title": "Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill",
+      "score": 9.0,
+      "sent_at": "2026-08-13T08:59:55.982745+00:00"
+    },
+    {
+      "arxiv_id": "2608.08160",
+      "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+      "score": 9.0,
+      "sent_at": "2026-08-13T08:59:55.982749+00:00"
     }
   ],
   "posts": []
