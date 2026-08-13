@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-13T08:59:56.147114+00:00",
+  "updated": "2026-08-13T13:25:01.280590+00:00",
   "papers": [
-    {
-      "arxiv_id": "2607.23802",
-      "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
-      "score": 9.0,
-      "sent_at": "2026-08-03T11:10:18.755812+00:00"
-    },
-    {
-      "arxiv_id": "2607.23782",
-      "title": "N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
-      "score": 9.0,
-      "sent_at": "2026-08-03T11:10:18.755830+00:00"
-    },
-    {
-      "arxiv_id": "2607.28675",
-      "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
-      "score": 9.0,
-      "sent_at": "2026-08-03T11:10:18.755835+00:00"
-    },
-    {
-      "arxiv_id": "2607.28617",
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "score": 9.0,
-      "sent_at": "2026-08-03T11:10:18.755838+00:00"
-    },
-    {
-      "arxiv_id": "2607.28415",
-      "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
-      "score": 9.0,
-      "sent_at": "2026-08-03T11:10:18.755841+00:00"
-    },
     {
       "arxiv_id": "2608.02023",
       "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
