@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:40:44.931165+00:00",
+  "updated": "2026-08-14T08:55:36.258473+00:00",
   "papers": [
     {
       "arxiv_id": "2608.02023",
@@ -300,6 +300,36 @@
       "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
       "score": 9.0,
       "sent_at": "2026-08-13T08:59:55.982749+00:00"
+    },
+    {
+      "arxiv_id": "2608.13489",
+      "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation",
+      "score": 9.0,
+      "sent_at": "2026-08-14T08:55:36.041555+00:00"
+    },
+    {
+      "arxiv_id": "2608.13546",
+      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+      "score": 9.0,
+      "sent_at": "2026-08-14T08:55:36.041572+00:00"
+    },
+    {
+      "arxiv_id": "2608.06867",
+      "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+      "score": 9.0,
+      "sent_at": "2026-08-14T08:55:36.041576+00:00"
+    },
+    {
+      "arxiv_id": "2608.13505",
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+      "score": 9.0,
+      "sent_at": "2026-08-14T08:55:36.041580+00:00"
+    },
+    {
+      "arxiv_id": "2608.07545",
+      "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
+      "score": 9.0,
+      "sent_at": "2026-08-14T08:55:36.041583+00:00"
     }
   ],
   "posts": []
