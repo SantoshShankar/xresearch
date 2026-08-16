@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-16T08:14:06.661221+00:00",
+  "updated": "2026-08-16T12:50:32.534144+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.04530",
-      "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory",
-      "score": 10.0,
-      "sent_at": "2026-08-06T10:23:11.135032+00:00"
-    },
-    {
-      "arxiv_id": "2608.04505",
-      "title": "K-EXAONE 2.0 Technical Report",
-      "score": 10.0,
-      "sent_at": "2026-08-06T10:23:11.135050+00:00"
-    },
-    {
-      "arxiv_id": "2608.04436",
-      "title": "ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation",
-      "score": 9.0,
-      "sent_at": "2026-08-06T10:23:11.135055+00:00"
-    },
-    {
-      "arxiv_id": "2608.05102",
-      "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
-      "score": 9.0,
-      "sent_at": "2026-08-06T10:23:11.135059+00:00"
-    },
-    {
-      "arxiv_id": "2608.04570",
-      "title": "The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads",
-      "score": 9.0,
-      "sent_at": "2026-08-06T10:23:11.135063+00:00"
-    },
     {
       "arxiv_id": "2608.05987",
       "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
