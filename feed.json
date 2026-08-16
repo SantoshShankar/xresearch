@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:49:58.470911+00:00",
+  "updated": "2026-08-16T08:14:06.661221+00:00",
   "papers": [
     {
       "arxiv_id": "2608.04530",
@@ -300,6 +300,36 @@
       "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
       "score": 9.0,
       "sent_at": "2026-08-15T08:13:10.911982+00:00"
+    },
+    {
+      "arxiv_id": "2608.13472",
+      "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+      "score": 6.0,
+      "sent_at": "2026-08-16T08:14:06.541371+00:00"
+    },
+    {
+      "arxiv_id": "2608.13095",
+      "title": "Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes",
+      "score": 6.0,
+      "sent_at": "2026-08-16T08:14:06.541385+00:00"
+    },
+    {
+      "arxiv_id": "2608.13029",
+      "title": "Static analysis-guided agentic AI translation enables Rust as a full stack bioinformatics language",
+      "score": 6.0,
+      "sent_at": "2026-08-16T08:14:06.541388+00:00"
+    },
+    {
+      "arxiv_id": "2608.12590",
+      "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+      "score": 6.0,
+      "sent_at": "2026-08-16T08:14:06.541391+00:00"
+    },
+    {
+      "arxiv_id": "2608.12104",
+      "title": "No One to Blame: A Framework of Constitutive AI Unaccountability",
+      "score": 6.0,
+      "sent_at": "2026-08-16T08:14:06.541393+00:00"
     }
   ],
   "posts": []
