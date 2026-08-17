@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T07:06:29.096697+00:00",
+  "updated": "2026-08-17T08:28:45.703306+00:00",
   "papers": [
     {
       "arxiv_id": "2608.05987",
@@ -300,6 +300,36 @@
       "title": "No One to Blame: A Framework of Constitutive AI Unaccountability",
       "score": 6.0,
       "sent_at": "2026-08-16T08:14:06.541393+00:00"
+    },
+    {
+      "arxiv_id": "2608.13667",
+      "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
+      "score": 10.0,
+      "sent_at": "2026-08-17T08:28:45.576134+00:00"
+    },
+    {
+      "arxiv_id": "2608.14391",
+      "title": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
+      "score": 9.0,
+      "sent_at": "2026-08-17T08:28:45.576152+00:00"
+    },
+    {
+      "arxiv_id": "2608.14290",
+      "title": "Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-08-17T08:28:45.576155+00:00"
+    },
+    {
+      "arxiv_id": "2608.13417",
+      "title": "Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development",
+      "score": 9.0,
+      "sent_at": "2026-08-17T08:28:45.576157+00:00"
+    },
+    {
+      "arxiv_id": "2608.13606",
+      "title": "MobileMem: Learning from a Year of Mobile Experiences",
+      "score": 9.0,
+      "sent_at": "2026-08-17T08:28:45.576159+00:00"
     }
   ],
   "posts": []
