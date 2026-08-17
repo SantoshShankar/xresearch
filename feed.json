@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-17T08:28:45.703306+00:00",
+  "updated": "2026-08-17T12:55:10.376586+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.05987",
-      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-      "score": 9.0,
-      "sent_at": "2026-08-07T08:43:52.397169+00:00"
-    },
-    {
-      "arxiv_id": "2608.05248",
-      "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
-      "score": 9.0,
-      "sent_at": "2026-08-07T08:43:52.397186+00:00"
-    },
-    {
-      "arxiv_id": "2607.28609",
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
-      "score": 9.0,
-      "sent_at": "2026-08-07T08:43:52.397191+00:00"
-    },
-    {
-      "arxiv_id": "2608.06197",
-      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-      "score": 9.0,
-      "sent_at": "2026-08-07T08:43:52.397196+00:00"
-    },
-    {
-      "arxiv_id": "2608.06060",
-      "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
-      "score": 9.0,
-      "sent_at": "2026-08-07T08:43:52.397200+00:00"
-    },
     {
       "arxiv_id": "2608.01481",
       "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
