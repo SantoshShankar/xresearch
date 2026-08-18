@@ -899,6 +899,36 @@
       "title": "MobileMem: Learning from a Year of Mobile Experiences",
       "score": 9.0,
       "sent_at": "2026-08-17T08:28:45.576159+00:00"
+    },
+    {
+      "arxiv_id": "2608.15304",
+      "title": "Understanding Cognition-Induced Risks in Agentic AI Systems",
+      "score": 10.0,
+      "sent_at": "2026-08-18T08:21:06.222210+00:00"
+    },
+    {
+      "arxiv_id": "2608.16033",
+      "title": "R^3-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets",
+      "score": 10.0,
+      "sent_at": "2026-08-18T08:21:06.222228+00:00"
+    },
+    {
+      "arxiv_id": "2608.15265",
+      "title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
+      "score": 9.0,
+      "sent_at": "2026-08-18T08:21:06.222234+00:00"
+    },
+    {
+      "arxiv_id": "2608.16859",
+      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "score": 9.0,
+      "sent_at": "2026-08-18T08:21:06.222238+00:00"
+    },
+    {
+      "arxiv_id": "2608.16798",
+      "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "score": 9.0,
+      "sent_at": "2026-08-18T08:21:06.222243+00:00"
     }
   ],
   "posts": []
