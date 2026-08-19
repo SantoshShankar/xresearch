@@ -899,6 +899,36 @@
       "title": "ClawGym II: Exploring Black-Box RL on Agent Harness",
       "score": 9.0,
       "sent_at": "2026-08-18T08:21:06.222243+00:00"
+    },
+    {
+      "arxiv_id": "2608.17800",
+      "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
+      "score": 10.0,
+      "sent_at": "2026-08-19T08:21:02.445207+00:00"
+    },
+    {
+      "arxiv_id": "2608.16002",
+      "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
+      "score": 10.0,
+      "sent_at": "2026-08-19T08:21:02.445227+00:00"
+    },
+    {
+      "arxiv_id": "2608.17271",
+      "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
+      "score": 9.0,
+      "sent_at": "2026-08-19T08:21:02.445231+00:00"
+    },
+    {
+      "arxiv_id": "2608.16157",
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "score": 9.0,
+      "sent_at": "2026-08-19T08:21:02.445235+00:00"
+    },
+    {
+      "arxiv_id": "2608.17512",
+      "title": "Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation",
+      "score": 9.0,
+      "sent_at": "2026-08-19T08:21:02.445237+00:00"
     }
   ],
   "posts": []
