@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-19T08:21:02.645231+00:00",
+  "updated": "2026-08-19T12:57:38.047588+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.06346",
-      "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
-      "score": 6.0,
-      "sent_at": "2026-08-09T08:27:42.669781+00:00"
-    },
-    {
-      "arxiv_id": "2608.06329",
-      "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
-      "score": 6.0,
-      "sent_at": "2026-08-09T08:27:42.669797+00:00"
-    },
-    {
-      "arxiv_id": "2608.06294",
-      "title": "QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction",
-      "score": 6.0,
-      "sent_at": "2026-08-09T08:27:42.669801+00:00"
-    },
-    {
-      "arxiv_id": "2608.06144",
-      "title": "FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows",
-      "score": 6.0,
-      "sent_at": "2026-08-09T08:27:42.669805+00:00"
-    },
-    {
-      "arxiv_id": "2608.06112",
-      "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
-      "score": 6.0,
-      "sent_at": "2026-08-09T08:27:42.669809+00:00"
-    },
     {
       "arxiv_id": "2608.03571",
       "title": "Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning",
