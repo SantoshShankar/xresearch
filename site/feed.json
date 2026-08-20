@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-20T08:22:17.046150+00:00",
+  "updated": "2026-08-20T13:00:17.855046+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.03571",
-      "title": "Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning",
-      "score": 9.0,
-      "sent_at": "2026-08-10T09:04:15.744765+00:00"
-    },
-    {
-      "arxiv_id": "2608.03573",
-      "title": "SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs",
-      "score": 9.0,
-      "sent_at": "2026-08-10T09:04:15.744784+00:00"
-    },
-    {
-      "arxiv_id": "2608.07468",
-      "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
-      "score": 9.0,
-      "sent_at": "2026-08-10T09:04:15.744789+00:00"
-    },
-    {
-      "arxiv_id": "2608.05703",
-      "title": "StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding",
-      "score": 9.0,
-      "sent_at": "2026-08-10T09:04:15.744794+00:00"
-    },
-    {
-      "arxiv_id": "2608.07051",
-      "title": "YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family",
-      "score": 9.0,
-      "sent_at": "2026-08-10T09:04:15.744799+00:00"
-    },
     {
       "arxiv_id": "2608.09802",
       "title": "SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring",
