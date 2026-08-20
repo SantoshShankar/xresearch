@@ -899,6 +899,36 @@
       "title": "Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation",
       "score": 9.0,
       "sent_at": "2026-08-19T08:21:02.445237+00:00"
+    },
+    {
+      "arxiv_id": "2608.19197",
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "score": 10.0,
+      "sent_at": "2026-08-20T08:22:16.892863+00:00"
+    },
+    {
+      "arxiv_id": "2608.16590",
+      "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-08-20T08:22:16.892882+00:00"
+    },
+    {
+      "arxiv_id": "2608.17253",
+      "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+      "score": 9.0,
+      "sent_at": "2026-08-20T08:22:16.892885+00:00"
+    },
+    {
+      "arxiv_id": "2608.17426",
+      "title": "SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-08-20T08:22:16.892887+00:00"
+    },
+    {
+      "arxiv_id": "2608.18565",
+      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+      "score": 9.0,
+      "sent_at": "2026-08-20T08:22:16.892889+00:00"
     }
   ],
   "posts": []
