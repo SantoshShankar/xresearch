@@ -899,6 +899,36 @@
       "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
       "score": 9.0,
       "sent_at": "2026-08-20T08:22:16.892889+00:00"
+    },
+    {
+      "arxiv_id": "2608.18852",
+      "title": "SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents",
+      "score": 10.0,
+      "sent_at": "2026-08-21T08:24:15.164937+00:00"
+    },
+    {
+      "arxiv_id": "2608.19880",
+      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "score": 9.0,
+      "sent_at": "2026-08-21T08:24:15.164957+00:00"
+    },
+    {
+      "arxiv_id": "2608.18580",
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "score": 9.0,
+      "sent_at": "2026-08-21T08:24:15.164961+00:00"
+    },
+    {
+      "arxiv_id": "2608.20335",
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "score": 9.0,
+      "sent_at": "2026-08-21T08:24:15.164964+00:00"
+    },
+    {
+      "arxiv_id": "2608.19799",
+      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+      "score": 9.0,
+      "sent_at": "2026-08-21T08:24:15.164967+00:00"
     }
   ],
   "posts": []
