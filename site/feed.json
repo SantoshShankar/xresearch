@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:49:55.352903+00:00",
+  "updated": "2026-08-22T08:15:00.094123+00:00",
   "papers": [
     {
       "arxiv_id": "2608.10915",
@@ -300,6 +300,36 @@
       "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
       "score": 9.0,
       "sent_at": "2026-08-21T08:24:15.164967+00:00"
+    },
+    {
+      "arxiv_id": "2608.20336",
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "score": 9.0,
+      "sent_at": "2026-08-22T08:14:59.967222+00:00"
+    },
+    {
+      "arxiv_id": "2608.20202",
+      "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "score": 9.0,
+      "sent_at": "2026-08-22T08:14:59.967239+00:00"
+    },
+    {
+      "arxiv_id": "2608.13120",
+      "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+      "score": 9.0,
+      "sent_at": "2026-08-22T08:14:59.967242+00:00"
+    },
+    {
+      "arxiv_id": "2608.14022",
+      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+      "score": 9.0,
+      "sent_at": "2026-08-22T08:14:59.967243+00:00"
+    },
+    {
+      "arxiv_id": "2608.19854",
+      "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+      "score": 9.0,
+      "sent_at": "2026-08-22T08:14:59.967245+00:00"
     }
   ],
   "posts": []
