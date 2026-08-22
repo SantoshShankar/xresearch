@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-22T08:15:00.094123+00:00",
+  "updated": "2026-08-22T12:50:21.163585+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.10915",
-      "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
-      "score": 9.0,
-      "sent_at": "2026-08-12T08:58:55.432999+00:00"
-    },
-    {
-      "arxiv_id": "2608.10299",
-      "title": "Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design",
-      "score": 9.0,
-      "sent_at": "2026-08-12T08:58:55.433015+00:00"
-    },
-    {
-      "arxiv_id": "2608.10744",
-      "title": "Beyond Pixels: From Video Priors to 4D Worlds",
-      "score": 9.0,
-      "sent_at": "2026-08-12T08:58:55.433019+00:00"
-    },
-    {
-      "arxiv_id": "2607.27749",
-      "title": "Articulated Object Reconstruction from Rest-State Observation",
-      "score": 9.0,
-      "sent_at": "2026-08-12T08:58:55.433053+00:00"
-    },
-    {
-      "arxiv_id": "2608.11205",
-      "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
-      "score": 9.0,
-      "sent_at": "2026-08-12T08:58:55.433058+00:00"
-    },
     {
       "arxiv_id": "2608.11274",
       "title": "Agent Safety Should Be a Runtime Contract",
