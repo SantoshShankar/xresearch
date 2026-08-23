@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:51:16.732944+00:00",
+  "updated": "2026-08-23T08:15:26.593034+00:00",
   "papers": [
     {
       "arxiv_id": "2608.11274",
@@ -300,6 +300,36 @@
       "title": "Repo0: Design-Driven Zero-to-All Code Generation",
       "score": 9.0,
       "sent_at": "2026-08-22T08:14:59.967245+00:00"
+    },
+    {
+      "arxiv_id": "2608.20041",
+      "title": "A three-dimensional typology of agency for advanced AI systems",
+      "score": 6.0,
+      "sent_at": "2026-08-23T08:15:26.453598+00:00"
+    },
+    {
+      "arxiv_id": "2608.19741",
+      "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
+      "score": 6.0,
+      "sent_at": "2026-08-23T08:15:26.453614+00:00"
+    },
+    {
+      "arxiv_id": "2608.19557",
+      "title": "When Do LLM Agents Help? Deadline-Aware Mixed-Criticality Task Scheduling at the Autonomous-Vehicle Edge",
+      "score": 6.0,
+      "sent_at": "2026-08-23T08:15:26.453618+00:00"
+    },
+    {
+      "arxiv_id": "2608.19487",
+      "title": "Accelerated Genetic Programming Hyper-Heuristics for Simulation-Based Scheduling via Agentic AI",
+      "score": 6.0,
+      "sent_at": "2026-08-23T08:15:26.453621+00:00"
+    },
+    {
+      "arxiv_id": "2608.19002",
+      "title": "A Theory of Post-hoc Debate Judgement",
+      "score": 6.0,
+      "sent_at": "2026-08-23T08:15:26.453625+00:00"
     }
   ],
   "posts": []
