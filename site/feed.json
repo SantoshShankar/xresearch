@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-25T06:57:21.804794+00:00",
+  "updated": "2026-08-25T08:30:26.295633+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.08975",
-      "title": "How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review",
-      "score": 9.0,
-      "sent_at": "2026-08-15T08:13:10.911952+00:00"
-    },
-    {
-      "arxiv_id": "2608.13552",
-      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-      "score": 9.0,
-      "sent_at": "2026-08-15T08:13:10.911970+00:00"
-    },
-    {
-      "arxiv_id": "2608.13560",
-      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-      "score": 9.0,
-      "sent_at": "2026-08-15T08:13:10.911975+00:00"
-    },
-    {
-      "arxiv_id": "2608.12743",
-      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-08-15T08:13:10.911978+00:00"
-    },
-    {
-      "arxiv_id": "2608.12149",
-      "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
-      "score": 9.0,
-      "sent_at": "2026-08-15T08:13:10.911982+00:00"
-    },
     {
       "arxiv_id": "2608.13472",
       "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
@@ -300,6 +270,36 @@
       "title": "Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models",
       "score": 9.0,
       "sent_at": "2026-08-24T08:33:42.114672+00:00"
+    },
+    {
+      "arxiv_id": "2608.23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "score": 9.0,
+      "sent_at": "2026-08-25T08:30:26.145788+00:00"
+    },
+    {
+      "arxiv_id": "2608.23189",
+      "title": "EchoWM: Open and Enterable Omnimodal World Models",
+      "score": 9.0,
+      "sent_at": "2026-08-25T08:30:26.145805+00:00"
+    },
+    {
+      "arxiv_id": "2608.16812",
+      "title": "Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision",
+      "score": 9.0,
+      "sent_at": "2026-08-25T08:30:26.145808+00:00"
+    },
+    {
+      "arxiv_id": "2608.23035",
+      "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+      "score": 9.0,
+      "sent_at": "2026-08-25T08:30:26.145811+00:00"
+    },
+    {
+      "arxiv_id": "2608.20958",
+      "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
+      "score": 9.0,
+      "sent_at": "2026-08-25T08:30:26.145813+00:00"
     }
   ],
   "posts": []
