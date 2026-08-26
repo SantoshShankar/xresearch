@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-26T06:58:20.020760+00:00",
+  "updated": "2026-08-26T08:28:13.707446+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.13472",
-      "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
-      "score": 6.0,
-      "sent_at": "2026-08-16T08:14:06.541371+00:00"
-    },
-    {
-      "arxiv_id": "2608.13095",
-      "title": "Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes",
-      "score": 6.0,
-      "sent_at": "2026-08-16T08:14:06.541385+00:00"
-    },
-    {
-      "arxiv_id": "2608.13029",
-      "title": "Static analysis-guided agentic AI translation enables Rust as a full stack bioinformatics language",
-      "score": 6.0,
-      "sent_at": "2026-08-16T08:14:06.541388+00:00"
-    },
-    {
-      "arxiv_id": "2608.12590",
-      "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
-      "score": 6.0,
-      "sent_at": "2026-08-16T08:14:06.541391+00:00"
-    },
-    {
-      "arxiv_id": "2608.12104",
-      "title": "No One to Blame: A Framework of Constitutive AI Unaccountability",
-      "score": 6.0,
-      "sent_at": "2026-08-16T08:14:06.541393+00:00"
-    },
     {
       "arxiv_id": "2608.13667",
       "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
@@ -300,6 +270,36 @@
       "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
       "score": 9.0,
       "sent_at": "2026-08-25T08:30:26.145813+00:00"
+    },
+    {
+      "arxiv_id": "2608.23200",
+      "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
+      "score": 10.0,
+      "sent_at": "2026-08-26T08:28:13.530464+00:00"
+    },
+    {
+      "arxiv_id": "2608.20492",
+      "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530480+00:00"
+    },
+    {
+      "arxiv_id": "2608.24053",
+      "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530484+00:00"
+    },
+    {
+      "arxiv_id": "2608.23041",
+      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530488+00:00"
+    },
+    {
+      "arxiv_id": "2608.24646",
+      "title": "On-Policy Self-Distillation in Diffusion Models",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530491+00:00"
     }
   ],
   "posts": []

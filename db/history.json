@@ -899,6 +899,36 @@
       "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
       "score": 9.0,
       "sent_at": "2026-08-25T08:30:26.145813+00:00"
+    },
+    {
+      "arxiv_id": "2608.23200",
+      "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
+      "score": 10.0,
+      "sent_at": "2026-08-26T08:28:13.530464+00:00"
+    },
+    {
+      "arxiv_id": "2608.20492",
+      "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530480+00:00"
+    },
+    {
+      "arxiv_id": "2608.24053",
+      "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530484+00:00"
+    },
+    {
+      "arxiv_id": "2608.23041",
+      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530488+00:00"
+    },
+    {
+      "arxiv_id": "2608.24646",
+      "title": "On-Policy Self-Distillation in Diffusion Models",
+      "score": 9.0,
+      "sent_at": "2026-08-26T08:28:13.530491+00:00"
     }
   ],
   "posts": []
