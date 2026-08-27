@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2607.24653",
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-07-28T10:20:02.901723+00:00"
-    },
-    {
-      "arxiv_id": "2607.23588",
-      "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
-      "score": 9.0,
-      "sent_at": "2026-07-28T10:20:02.901741+00:00"
-    },
-    {
-      "arxiv_id": "2607.24280",
-      "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
-      "score": 9.0,
-      "sent_at": "2026-07-28T10:20:02.901745+00:00"
-    },
-    {
-      "arxiv_id": "2607.21655",
-      "title": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
-      "score": 9.0,
-      "sent_at": "2026-07-28T10:20:02.901749+00:00"
-    },
-    {
-      "arxiv_id": "2607.22798",
-      "title": "StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents",
-      "score": 9.0,
-      "sent_at": "2026-07-28T10:20:02.901753+00:00"
-    },
-    {
       "arxiv_id": "2607.25895",
       "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "On-Policy Self-Distillation in Diffusion Models",
       "score": 9.0,
       "sent_at": "2026-08-26T08:28:13.530491+00:00"
+    },
+    {
+      "arxiv_id": "2608.26005",
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336853+00:00"
+    },
+    {
+      "arxiv_id": "2608.19583",
+      "title": "VGI-BENCH: Probing Visual Intelligence in Video Generation Models",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336873+00:00"
+    },
+    {
+      "arxiv_id": "2608.24979",
+      "title": "FrontierChallenge: Evaluating Scientific Workflow Completion",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336877+00:00"
+    },
+    {
+      "arxiv_id": "2608.24479",
+      "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336880+00:00"
+    },
+    {
+      "arxiv_id": "2608.25593",
+      "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336884+00:00"
     }
   ],
   "posts": []

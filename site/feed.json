@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T08:43:50.454861+00:00",
+  "updated": "2026-08-27T18:27:40.514606+00:00",
   "papers": [
     {
       "arxiv_id": "2608.15304",
@@ -270,6 +270,36 @@
       "title": "On-Policy Self-Distillation in Diffusion Models",
       "score": 9.0,
       "sent_at": "2026-08-26T08:28:13.530491+00:00"
+    },
+    {
+      "arxiv_id": "2608.26005",
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336853+00:00"
+    },
+    {
+      "arxiv_id": "2608.19583",
+      "title": "VGI-BENCH: Probing Visual Intelligence in Video Generation Models",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336873+00:00"
+    },
+    {
+      "arxiv_id": "2608.24979",
+      "title": "FrontierChallenge: Evaluating Scientific Workflow Completion",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336877+00:00"
+    },
+    {
+      "arxiv_id": "2608.24479",
+      "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336880+00:00"
+    },
+    {
+      "arxiv_id": "2608.25593",
+      "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
+      "score": 9.0,
+      "sent_at": "2026-08-27T18:27:40.336884+00:00"
     }
   ],
   "posts": []
