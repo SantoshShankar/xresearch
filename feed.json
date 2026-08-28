@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T10:56:15.106536+00:00",
+  "updated": "2026-08-28T19:41:24.495137+00:00",
   "papers": [
     {
       "arxiv_id": "2608.17800",
@@ -270,6 +270,36 @@
       "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
       "score": 9.0,
       "sent_at": "2026-08-27T18:27:40.336884+00:00"
+    },
+    {
+      "arxiv_id": "2608.25518",
+      "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
+      "score": 9.0,
+      "sent_at": "2026-08-28T19:41:24.309019+00:00"
+    },
+    {
+      "arxiv_id": "2608.27345",
+      "title": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
+      "score": 9.0,
+      "sent_at": "2026-08-28T19:41:24.309037+00:00"
+    },
+    {
+      "arxiv_id": "2608.27456",
+      "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+      "score": 9.0,
+      "sent_at": "2026-08-28T19:41:24.309041+00:00"
+    },
+    {
+      "arxiv_id": "2608.27448",
+      "title": "TTPO: Test-Time Policy Optimization",
+      "score": 9.0,
+      "sent_at": "2026-08-28T19:41:24.309044+00:00"
+    },
+    {
+      "arxiv_id": "2608.26872",
+      "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
+      "score": 9.0,
+      "sent_at": "2026-08-28T19:41:24.309049+00:00"
     }
   ],
   "posts": []
