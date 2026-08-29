@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2607.27205",
-      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-      "score": 9.0,
-      "sent_at": "2026-07-30T10:13:02.342759+00:00"
-    },
-    {
-      "arxiv_id": "2607.25659",
-      "title": "CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization",
-      "score": 9.0,
-      "sent_at": "2026-07-30T10:13:02.342778+00:00"
-    },
-    {
-      "arxiv_id": "2607.27180",
-      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
-      "score": 9.0,
-      "sent_at": "2026-07-30T10:13:02.342783+00:00"
-    },
-    {
-      "arxiv_id": "2607.25675",
-      "title": "DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space",
-      "score": 9.0,
-      "sent_at": "2026-07-30T10:13:02.342788+00:00"
-    },
-    {
-      "arxiv_id": "2607.25294",
-      "title": "CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition",
-      "score": 9.0,
-      "sent_at": "2026-07-30T10:13:02.342793+00:00"
-    },
-    {
       "arxiv_id": "2607.28624",
       "title": "PhiZero: A World Model Built Around Physical Language",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
       "score": 9.0,
       "sent_at": "2026-08-28T19:41:24.309049+00:00"
+    },
+    {
+      "arxiv_id": "2608.27260",
+      "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105365+00:00"
+    },
+    {
+      "arxiv_id": "2608.15763",
+      "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105383+00:00"
+    },
+    {
+      "arxiv_id": "2608.26200",
+      "title": "GameWAM: A World Action Model for Video Games",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105388+00:00"
+    },
+    {
+      "arxiv_id": "2608.26530",
+      "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105393+00:00"
+    },
+    {
+      "arxiv_id": "2608.26103",
+      "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105396+00:00"
     }
   ],
   "posts": []

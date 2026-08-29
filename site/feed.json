@@ -1,36 +1,6 @@
 {
-  "updated": "2026-08-29T06:42:29.478446+00:00",
+  "updated": "2026-08-29T13:26:09.282032+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.17800",
-      "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
-      "score": 10.0,
-      "sent_at": "2026-08-19T08:21:02.445207+00:00"
-    },
-    {
-      "arxiv_id": "2608.16002",
-      "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
-      "score": 10.0,
-      "sent_at": "2026-08-19T08:21:02.445227+00:00"
-    },
-    {
-      "arxiv_id": "2608.17271",
-      "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
-      "score": 9.0,
-      "sent_at": "2026-08-19T08:21:02.445231+00:00"
-    },
-    {
-      "arxiv_id": "2608.16157",
-      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
-      "score": 9.0,
-      "sent_at": "2026-08-19T08:21:02.445235+00:00"
-    },
-    {
-      "arxiv_id": "2608.17512",
-      "title": "Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation",
-      "score": 9.0,
-      "sent_at": "2026-08-19T08:21:02.445237+00:00"
-    },
     {
       "arxiv_id": "2608.19197",
       "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
@@ -300,6 +270,36 @@
       "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
       "score": 9.0,
       "sent_at": "2026-08-28T19:41:24.309049+00:00"
+    },
+    {
+      "arxiv_id": "2608.27260",
+      "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105365+00:00"
+    },
+    {
+      "arxiv_id": "2608.15763",
+      "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105383+00:00"
+    },
+    {
+      "arxiv_id": "2608.26200",
+      "title": "GameWAM: A World Action Model for Video Games",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105388+00:00"
+    },
+    {
+      "arxiv_id": "2608.26530",
+      "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105393+00:00"
+    },
+    {
+      "arxiv_id": "2608.26103",
+      "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+      "score": 9.0,
+      "sent_at": "2026-08-29T13:26:09.105396+00:00"
     }
   ],
   "posts": []
