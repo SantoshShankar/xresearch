@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2607.28624",
-      "title": "PhiZero: A World Model Built Around Physical Language",
-      "score": 9.0,
-      "sent_at": "2026-07-31T10:25:32.950801+00:00"
-    },
-    {
-      "arxiv_id": "2607.28227",
-      "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
-      "score": 9.0,
-      "sent_at": "2026-07-31T10:25:32.950821+00:00"
-    },
-    {
-      "arxiv_id": "2607.28568",
-      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
-      "score": 9.0,
-      "sent_at": "2026-07-31T10:25:32.950827+00:00"
-    },
-    {
-      "arxiv_id": "2607.26760",
-      "title": "Metis: Memory Foundation Model",
-      "score": 9.0,
-      "sent_at": "2026-07-31T10:25:32.950832+00:00"
-    },
-    {
-      "arxiv_id": "2607.28618",
-      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-      "score": 9.0,
-      "sent_at": "2026-07-31T10:25:32.950835+00:00"
-    },
-    {
       "arxiv_id": "2607.27380",
       "title": "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System",
       "score": 9.0,
