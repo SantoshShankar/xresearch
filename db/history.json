@@ -869,6 +869,36 @@
       "title": "Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI",
       "score": 6.0,
       "sent_at": "2026-08-30T13:22:51.616126+00:00"
+    },
+    {
+      "arxiv_id": "2608.28281",
+      "title": "LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering",
+      "score": 9.0,
+      "sent_at": "2026-08-31T15:34:50.191820+00:00"
+    },
+    {
+      "arxiv_id": "2608.18524",
+      "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents",
+      "score": 9.0,
+      "sent_at": "2026-08-31T15:34:50.191841+00:00"
+    },
+    {
+      "arxiv_id": "2608.27550",
+      "title": "Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models",
+      "score": 9.0,
+      "sent_at": "2026-08-31T15:34:50.191845+00:00"
+    },
+    {
+      "arxiv_id": "2608.28122",
+      "title": "Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities",
+      "score": 9.0,
+      "sent_at": "2026-08-31T15:34:50.191846+00:00"
+    },
+    {
+      "arxiv_id": "2608.27549",
+      "title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-08-31T15:34:50.191850+00:00"
     }
   ],
   "posts": []
