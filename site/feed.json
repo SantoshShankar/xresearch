@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T11:27:50.033242+00:00",
+  "updated": "2026-09-01T12:50:37.812400+00:00",
   "papers": [
     {
       "arxiv_id": "2608.20041",
@@ -270,6 +270,36 @@
       "title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning",
       "score": 9.0,
       "sent_at": "2026-08-31T15:34:50.191850+00:00"
+    },
+    {
+      "arxiv_id": "2608.30396",
+      "title": "Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation",
+      "score": 10.0,
+      "sent_at": "2026-09-01T12:50:37.679424+00:00"
+    },
+    {
+      "arxiv_id": "2608.31106",
+      "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+      "score": 9.0,
+      "sent_at": "2026-09-01T12:50:37.679446+00:00"
+    },
+    {
+      "arxiv_id": "2608.31046",
+      "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+      "score": 9.0,
+      "sent_at": "2026-09-01T12:50:37.679449+00:00"
+    },
+    {
+      "arxiv_id": "2608.29335",
+      "title": "GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling",
+      "score": 9.0,
+      "sent_at": "2026-09-01T12:50:37.679451+00:00"
+    },
+    {
+      "arxiv_id": "2608.30821",
+      "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+      "score": 9.0,
+      "sent_at": "2026-09-01T12:50:37.679455+00:00"
     }
   ],
   "posts": []
