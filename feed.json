@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-03T03:59:52.849040+00:00",
+  "updated": "2026-09-03T10:59:59.055095+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.20061",
-      "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
-      "score": 9.0,
-      "sent_at": "2026-08-24T08:33:42.114642+00:00"
-    },
-    {
-      "arxiv_id": "2608.21360",
-      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
-      "score": 9.0,
-      "sent_at": "2026-08-24T08:33:42.114663+00:00"
-    },
-    {
-      "arxiv_id": "2608.21156",
-      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-08-24T08:33:42.114666+00:00"
-    },
-    {
-      "arxiv_id": "2608.20910",
-      "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
-      "score": 9.0,
-      "sent_at": "2026-08-24T08:33:42.114669+00:00"
-    },
-    {
-      "arxiv_id": "2608.16647",
-      "title": "Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models",
-      "score": 9.0,
-      "sent_at": "2026-08-24T08:33:42.114672+00:00"
-    },
     {
       "arxiv_id": "2608.23283",
       "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
