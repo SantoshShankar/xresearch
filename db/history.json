@@ -869,6 +869,36 @@
       "title": "UI-Venus-2 Technical Report",
       "score": 9.0,
       "sent_at": "2026-09-02T12:20:15.356058+00:00"
+    },
+    {
+      "arxiv_id": "2609.02783",
+      "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+      "score": 10.0,
+      "sent_at": "2026-09-03T12:18:17.432277+00:00"
+    },
+    {
+      "arxiv_id": "2608.31100",
+      "title": "S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
+      "score": 10.0,
+      "sent_at": "2026-09-03T12:18:17.432293+00:00"
+    },
+    {
+      "arxiv_id": "2609.02749",
+      "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+      "score": 9.0,
+      "sent_at": "2026-09-03T12:18:17.432296+00:00"
+    },
+    {
+      "arxiv_id": "2609.02886",
+      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+      "score": 9.0,
+      "sent_at": "2026-09-03T12:18:17.432298+00:00"
+    },
+    {
+      "arxiv_id": "2609.00638",
+      "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-09-03T12:18:17.432302+00:00"
     }
   ],
   "posts": []
