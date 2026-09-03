@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2608.02023",
-      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
-      "score": 9.0,
-      "sent_at": "2026-08-04T10:24:58.635539+00:00"
-    },
-    {
-      "arxiv_id": "2608.01964",
-      "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
-      "score": 9.0,
-      "sent_at": "2026-08-04T10:24:58.635558+00:00"
-    },
-    {
-      "arxiv_id": "2608.01678",
-      "title": "Progressive Agent Skill Generation via Reinforcement Learning",
-      "score": 9.0,
-      "sent_at": "2026-08-04T10:24:58.635561+00:00"
-    },
-    {
-      "arxiv_id": "2607.28590",
-      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-08-04T10:24:58.635564+00:00"
-    },
-    {
-      "arxiv_id": "2608.02603",
-      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
-      "score": 9.0,
-      "sent_at": "2026-08-04T10:24:58.635567+00:00"
-    },
-    {
       "arxiv_id": "2607.28956",
       "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
       "score": 9.0,
