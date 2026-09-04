@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2607.28956",
-      "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
-      "score": 9.0,
-      "sent_at": "2026-08-05T10:21:30.084374+00:00"
-    },
-    {
-      "arxiv_id": "2608.03974",
-      "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "score": 9.0,
-      "sent_at": "2026-08-05T10:21:30.084390+00:00"
-    },
-    {
-      "arxiv_id": "2608.02711",
-      "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
-      "score": 9.0,
-      "sent_at": "2026-08-05T10:21:30.084393+00:00"
-    },
-    {
-      "arxiv_id": "2608.02602",
-      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
-      "score": 9.0,
-      "sent_at": "2026-08-05T10:21:30.084395+00:00"
-    },
-    {
-      "arxiv_id": "2608.03979",
-      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
-      "score": 9.0,
-      "sent_at": "2026-08-05T10:21:30.084397+00:00"
-    },
-    {
       "arxiv_id": "2608.04530",
       "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory",
       "score": 10.0,
