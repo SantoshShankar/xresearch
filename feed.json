@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-04T04:01:39.371218+00:00",
+  "updated": "2026-09-04T11:00:36.317456+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.23283",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "score": 9.0,
-      "sent_at": "2026-08-25T08:30:26.145788+00:00"
-    },
-    {
-      "arxiv_id": "2608.23189",
-      "title": "EchoWM: Open and Enterable Omnimodal World Models",
-      "score": 9.0,
-      "sent_at": "2026-08-25T08:30:26.145805+00:00"
-    },
-    {
-      "arxiv_id": "2608.16812",
-      "title": "Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision",
-      "score": 9.0,
-      "sent_at": "2026-08-25T08:30:26.145808+00:00"
-    },
-    {
-      "arxiv_id": "2608.23035",
-      "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
-      "score": 9.0,
-      "sent_at": "2026-08-25T08:30:26.145811+00:00"
-    },
-    {
-      "arxiv_id": "2608.20958",
-      "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
-      "score": 9.0,
-      "sent_at": "2026-08-25T08:30:26.145813+00:00"
-    },
     {
       "arxiv_id": "2608.23200",
       "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
