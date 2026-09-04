@@ -869,6 +869,36 @@
       "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
       "score": 9.0,
       "sent_at": "2026-09-03T12:18:17.432302+00:00"
+    },
+    {
+      "arxiv_id": "2609.04148",
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "score": 9.0,
+      "sent_at": "2026-09-04T12:19:01.380460+00:00"
+    },
+    {
+      "arxiv_id": "2609.03796",
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "score": 9.0,
+      "sent_at": "2026-09-04T12:19:01.380473+00:00"
+    },
+    {
+      "arxiv_id": "2609.01507",
+      "title": "LatentPress: Context Compression Beyond Text and Vision",
+      "score": 9.0,
+      "sent_at": "2026-09-04T12:19:01.380476+00:00"
+    },
+    {
+      "arxiv_id": "2609.03430",
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-09-04T12:19:01.380478+00:00"
+    },
+    {
+      "arxiv_id": "2609.04098",
+      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
+      "score": 9.0,
+      "sent_at": "2026-09-04T12:19:01.380482+00:00"
     }
   ],
   "posts": []
