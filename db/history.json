@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2608.04530",
-      "title": "FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory",
-      "score": 10.0,
-      "sent_at": "2026-08-06T10:23:11.135032+00:00"
-    },
-    {
-      "arxiv_id": "2608.04505",
-      "title": "K-EXAONE 2.0 Technical Report",
-      "score": 10.0,
-      "sent_at": "2026-08-06T10:23:11.135050+00:00"
-    },
-    {
-      "arxiv_id": "2608.04436",
-      "title": "ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation",
-      "score": 9.0,
-      "sent_at": "2026-08-06T10:23:11.135055+00:00"
-    },
-    {
-      "arxiv_id": "2608.05102",
-      "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
-      "score": 9.0,
-      "sent_at": "2026-08-06T10:23:11.135059+00:00"
-    },
-    {
-      "arxiv_id": "2608.04570",
-      "title": "The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads",
-      "score": 9.0,
-      "sent_at": "2026-08-06T10:23:11.135063+00:00"
-    },
-    {
       "arxiv_id": "2608.05987",
       "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
       "score": 9.0,
       "sent_at": "2026-09-04T12:19:01.380482+00:00"
+    },
+    {
+      "arxiv_id": "2609.04199",
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "score": 9.0,
+      "sent_at": "2026-09-05T11:26:32.943057+00:00"
+    },
+    {
+      "arxiv_id": "2608.26730",
+      "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "score": 9.0,
+      "sent_at": "2026-09-05T11:26:32.943079+00:00"
+    },
+    {
+      "arxiv_id": "2609.04172",
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "score": 9.0,
+      "sent_at": "2026-09-05T11:26:32.943083+00:00"
+    },
+    {
+      "arxiv_id": "2609.04196",
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "score": 9.0,
+      "sent_at": "2026-09-05T11:26:32.943085+00:00"
+    },
+    {
+      "arxiv_id": "2609.04201",
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "score": 9.0,
+      "sent_at": "2026-09-05T11:26:32.943087+00:00"
     }
   ],
   "posts": []
