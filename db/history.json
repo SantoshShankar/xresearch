@@ -869,6 +869,36 @@
       "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
       "score": 9.0,
       "sent_at": "2026-09-05T11:26:32.943087+00:00"
+    },
+    {
+      "arxiv_id": "2609.04170",
+      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "score": 6.0,
+      "sent_at": "2026-09-06T11:47:42.430370+00:00"
+    },
+    {
+      "arxiv_id": "2609.04063",
+      "title": "Spurious Advantage Hidden in GRPO",
+      "score": 6.0,
+      "sent_at": "2026-09-06T11:47:42.430386+00:00"
+    },
+    {
+      "arxiv_id": "2609.04017",
+      "title": "A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits",
+      "score": 6.0,
+      "sent_at": "2026-09-06T11:47:42.430391+00:00"
+    },
+    {
+      "arxiv_id": "2609.03920",
+      "title": "Value-Preserving Architectures for Agentic AI Systems",
+      "score": 6.0,
+      "sent_at": "2026-09-06T11:47:42.430394+00:00"
+    },
+    {
+      "arxiv_id": "2609.03230",
+      "title": "Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses",
+      "score": 6.0,
+      "sent_at": "2026-09-06T11:47:42.430398+00:00"
     }
   ],
   "posts": []
