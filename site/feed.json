@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T12:09:34.100791+00:00",
+  "updated": "2026-09-07T13:44:22.010968+00:00",
   "papers": [
     {
       "arxiv_id": "2608.25518",
@@ -300,6 +300,36 @@
       "title": "Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses",
       "score": 6.0,
       "sent_at": "2026-09-06T11:47:42.430398+00:00"
+    },
+    {
+      "arxiv_id": "2609.02750",
+      "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+      "score": 9.0,
+      "sent_at": "2026-09-07T13:44:21.857005+00:00"
+    },
+    {
+      "arxiv_id": "2609.04304",
+      "title": "Iris: Climbing to the Search Frontier",
+      "score": 9.0,
+      "sent_at": "2026-09-07T13:44:21.857022+00:00"
+    },
+    {
+      "arxiv_id": "2609.04250",
+      "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
+      "score": 9.0,
+      "sent_at": "2026-09-07T13:44:21.857025+00:00"
+    },
+    {
+      "arxiv_id": "2609.05416",
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "score": 9.0,
+      "sent_at": "2026-09-07T13:44:21.857028+00:00"
+    },
+    {
+      "arxiv_id": "2609.03586",
+      "title": "The Attention Triangle in Audio-Video Models",
+      "score": 9.0,
+      "sent_at": "2026-09-07T13:44:21.857032+00:00"
     }
   ],
   "posts": []
