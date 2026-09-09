@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-09T12:31:55.117846+00:00",
+  "updated": "2026-09-09T16:22:48.299218+00:00",
   "papers": [
-    {
-      "arxiv_id": "2608.27266",
-      "title": "Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616096+00:00"
-    },
-    {
-      "arxiv_id": "2608.27238",
-      "title": "Assessing Company Contributions to Societal Resilience: Extending the Societal Capacity Assessment Framework to Agentic AI",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616113+00:00"
-    },
-    {
-      "arxiv_id": "2608.27148",
-      "title": "AgentDV: Closed-Loop Agentic AI for Hardware Design Verification",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616117+00:00"
-    },
-    {
-      "arxiv_id": "2608.26696",
-      "title": "Five Primitives for Governing Autonomous AI Agents at Runtime",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616121+00:00"
-    },
-    {
-      "arxiv_id": "2608.26442",
-      "title": "Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616126+00:00"
-    },
     {
       "arxiv_id": "2608.28281",
       "title": "LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering",
