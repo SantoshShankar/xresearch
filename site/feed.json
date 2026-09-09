@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T11:05:27.538183+00:00",
+  "updated": "2026-09-09T12:31:55.117846+00:00",
   "papers": [
     {
       "arxiv_id": "2608.27266",
@@ -300,6 +300,36 @@
       "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
       "score": 9.0,
       "sent_at": "2026-09-08T12:20:14.226430+00:00"
+    },
+    {
+      "arxiv_id": "2609.08183",
+      "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+      "score": 9.0,
+      "sent_at": "2026-09-09T12:31:54.932441+00:00"
+    },
+    {
+      "arxiv_id": "2609.08936",
+      "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+      "score": 9.0,
+      "sent_at": "2026-09-09T12:31:54.932459+00:00"
+    },
+    {
+      "arxiv_id": "2609.08977",
+      "title": "Omni Interaction Agent Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-09-09T12:31:54.932463+00:00"
+    },
+    {
+      "arxiv_id": "2609.08798",
+      "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
+      "score": 9.0,
+      "sent_at": "2026-09-09T12:31:54.932467+00:00"
+    },
+    {
+      "arxiv_id": "2609.06055",
+      "title": "DriveZero: End-to-End Driving Beyond Human Demonstrations",
+      "score": 9.0,
+      "sent_at": "2026-09-09T12:31:54.932472+00:00"
     }
   ],
   "posts": []
