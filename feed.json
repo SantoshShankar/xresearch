@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T11:01:26.346716+00:00",
+  "updated": "2026-09-10T12:25:42.757051+00:00",
   "papers": [
     {
       "arxiv_id": "2608.28281",
@@ -300,6 +300,36 @@
       "title": "DriveZero: End-to-End Driving Beyond Human Demonstrations",
       "score": 9.0,
       "sent_at": "2026-09-09T12:31:54.932472+00:00"
+    },
+    {
+      "arxiv_id": "2609.10522",
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "score": 9.0,
+      "sent_at": "2026-09-10T12:25:42.565047+00:00"
+    },
+    {
+      "arxiv_id": "2609.10540",
+      "title": "Programmable World Model",
+      "score": 9.0,
+      "sent_at": "2026-09-10T12:25:42.565064+00:00"
+    },
+    {
+      "arxiv_id": "2609.08572",
+      "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
+      "score": 9.0,
+      "sent_at": "2026-09-10T12:25:42.565068+00:00"
+    },
+    {
+      "arxiv_id": "2609.05405",
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "score": 9.0,
+      "sent_at": "2026-09-10T12:25:42.565072+00:00"
+    },
+    {
+      "arxiv_id": "2609.08149",
+      "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-10T12:25:42.565078+00:00"
     }
   ],
   "posts": []
