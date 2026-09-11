@@ -869,6 +869,36 @@
       "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
       "score": 9.0,
       "sent_at": "2026-09-10T12:25:42.565078+00:00"
+    },
+    {
+      "arxiv_id": "2609.10715",
+      "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+      "score": 9.0,
+      "sent_at": "2026-09-11T12:24:07.016934+00:00"
+    },
+    {
+      "arxiv_id": "2609.11929",
+      "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-09-11T12:24:07.016952+00:00"
+    },
+    {
+      "arxiv_id": "2609.07064",
+      "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
+      "score": 9.0,
+      "sent_at": "2026-09-11T12:24:07.016957+00:00"
+    },
+    {
+      "arxiv_id": "2609.05903",
+      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-11T12:24:07.016960+00:00"
+    },
+    {
+      "arxiv_id": "2609.11317",
+      "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
+      "score": 9.0,
+      "sent_at": "2026-09-11T12:24:07.016965+00:00"
     }
   ],
   "posts": []
