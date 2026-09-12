@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-12T11:45:39.961113+00:00",
+  "updated": "2026-09-12T15:22:20.705011+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.00621",
-      "title": "Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
-      "score": 10.0,
-      "sent_at": "2026-09-02T12:20:15.356027+00:00"
-    },
-    {
-      "arxiv_id": "2609.01591",
-      "title": "StudentSim: Training LLM-based Student Simulators",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356049+00:00"
-    },
-    {
-      "arxiv_id": "2609.00111",
-      "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356052+00:00"
-    },
-    {
-      "arxiv_id": "2609.01343",
-      "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356055+00:00"
-    },
-    {
-      "arxiv_id": "2609.00028",
-      "title": "UI-Venus-2 Technical Report",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356058+00:00"
-    },
     {
       "arxiv_id": "2609.02783",
       "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
