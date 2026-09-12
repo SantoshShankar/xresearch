@@ -869,6 +869,36 @@
       "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
       "score": 9.0,
       "sent_at": "2026-09-11T12:24:07.016965+00:00"
+    },
+    {
+      "arxiv_id": "2609.11412",
+      "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+      "score": 9.0,
+      "sent_at": "2026-09-12T11:45:39.788023+00:00"
+    },
+    {
+      "arxiv_id": "2609.11561",
+      "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+      "score": 9.0,
+      "sent_at": "2026-09-12T11:45:39.788039+00:00"
+    },
+    {
+      "arxiv_id": "2609.10712",
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "score": 9.0,
+      "sent_at": "2026-09-12T11:45:39.788044+00:00"
+    },
+    {
+      "arxiv_id": "2609.11486",
+      "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
+      "score": 9.0,
+      "sent_at": "2026-09-12T11:45:39.788047+00:00"
+    },
+    {
+      "arxiv_id": "2609.11499",
+      "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+      "score": 9.0,
+      "sent_at": "2026-09-12T11:45:39.788053+00:00"
     }
   ],
   "posts": []
