@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T11:30:58.246735+00:00",
+  "updated": "2026-09-15T12:57:51.153195+00:00",
   "papers": [
     {
       "arxiv_id": "2609.04170",
@@ -240,6 +240,36 @@
       "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
       "score": 9.0,
       "sent_at": "2026-09-14T14:33:10.606276+00:00"
+    },
+    {
+      "arxiv_id": "2609.13356",
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "score": 9.0,
+      "sent_at": "2026-09-15T12:57:50.725029+00:00"
+    },
+    {
+      "arxiv_id": "2609.15818",
+      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+      "score": 9.0,
+      "sent_at": "2026-09-15T12:57:50.725047+00:00"
+    },
+    {
+      "arxiv_id": "2609.14858",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "score": 9.0,
+      "sent_at": "2026-09-15T12:57:50.725050+00:00"
+    },
+    {
+      "arxiv_id": "2609.11638",
+      "title": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-09-15T12:57:50.725052+00:00"
+    },
+    {
+      "arxiv_id": "2609.14973",
+      "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+      "score": 9.0,
+      "sent_at": "2026-09-15T12:57:50.725055+00:00"
     }
   ],
   "posts": []
