@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-16T11:16:35.814411+00:00",
+  "updated": "2026-09-16T12:53:44.032551+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.04170",
-      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
-      "score": 6.0,
-      "sent_at": "2026-09-06T11:47:42.430370+00:00"
-    },
-    {
-      "arxiv_id": "2609.04063",
-      "title": "Spurious Advantage Hidden in GRPO",
-      "score": 6.0,
-      "sent_at": "2026-09-06T11:47:42.430386+00:00"
-    },
-    {
-      "arxiv_id": "2609.04017",
-      "title": "A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits",
-      "score": 6.0,
-      "sent_at": "2026-09-06T11:47:42.430391+00:00"
-    },
-    {
-      "arxiv_id": "2609.03920",
-      "title": "Value-Preserving Architectures for Agentic AI Systems",
-      "score": 6.0,
-      "sent_at": "2026-09-06T11:47:42.430394+00:00"
-    },
-    {
-      "arxiv_id": "2609.03230",
-      "title": "Two Truths and A Lie? Benchmarking Off-the-Shelf LLMs for Requirements Quality Assessment: Performance, False Alarms, and Misses",
-      "score": 6.0,
-      "sent_at": "2026-09-06T11:47:42.430398+00:00"
-    },
     {
       "arxiv_id": "2609.02750",
       "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
@@ -270,6 +240,36 @@
       "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
       "score": 9.0,
       "sent_at": "2026-09-15T12:57:50.725055+00:00"
+    },
+    {
+      "arxiv_id": "2609.15029",
+      "title": "Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks",
+      "score": 10.0,
+      "sent_at": "2026-09-16T12:53:43.847479+00:00"
+    },
+    {
+      "arxiv_id": "2609.06986",
+      "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
+      "score": 9.0,
+      "sent_at": "2026-09-16T12:53:43.847499+00:00"
+    },
+    {
+      "arxiv_id": "2609.16679",
+      "title": "AI for Games in the Foundation Model Era",
+      "score": 9.0,
+      "sent_at": "2026-09-16T12:53:43.847502+00:00"
+    },
+    {
+      "arxiv_id": "2609.14005",
+      "title": "StepAudio 3 Realtime Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-09-16T12:53:43.847505+00:00"
+    },
+    {
+      "arxiv_id": "2609.16034",
+      "title": "StepAudio 3 Music Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-09-16T12:53:43.847508+00:00"
     }
   ],
   "posts": []
