@@ -839,6 +839,36 @@
       "title": "StepAudio 3 Music Technical Report",
       "score": 9.0,
       "sent_at": "2026-09-16T12:53:43.847508+00:00"
+    },
+    {
+      "arxiv_id": "2609.19134",
+      "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+      "score": 9.0,
+      "sent_at": "2026-09-17T12:50:38.584040+00:00"
+    },
+    {
+      "arxiv_id": "2609.17488",
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-09-17T12:50:38.584057+00:00"
+    },
+    {
+      "arxiv_id": "2609.18708",
+      "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+      "score": 9.0,
+      "sent_at": "2026-09-17T12:50:38.584060+00:00"
+    },
+    {
+      "arxiv_id": "2609.17708",
+      "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-17T12:50:38.584061+00:00"
+    },
+    {
+      "arxiv_id": "2609.18805",
+      "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
+      "score": 9.0,
+      "sent_at": "2026-09-17T12:50:38.584063+00:00"
     }
   ],
   "posts": []
