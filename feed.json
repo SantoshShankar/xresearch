@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-18T10:58:46.998147+00:00",
+  "updated": "2026-09-18T12:25:01.027410+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.04010",
-      "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
-      "score": 9.0,
-      "sent_at": "2026-09-08T12:20:14.226397+00:00"
-    },
-    {
-      "arxiv_id": "2609.03241",
-      "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
-      "score": 9.0,
-      "sent_at": "2026-09-08T12:20:14.226419+00:00"
-    },
-    {
-      "arxiv_id": "2609.03756",
-      "title": "ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation",
-      "score": 9.0,
-      "sent_at": "2026-09-08T12:20:14.226424+00:00"
-    },
-    {
-      "arxiv_id": "2609.01281",
-      "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
-      "score": 9.0,
-      "sent_at": "2026-09-08T12:20:14.226426+00:00"
-    },
-    {
-      "arxiv_id": "2608.25936",
-      "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
-      "score": 9.0,
-      "sent_at": "2026-09-08T12:20:14.226430+00:00"
-    },
     {
       "arxiv_id": "2609.08183",
       "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
@@ -270,6 +240,36 @@
       "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
       "score": 9.0,
       "sent_at": "2026-09-17T12:50:38.584063+00:00"
+    },
+    {
+      "arxiv_id": "2609.19969",
+      "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+      "score": 11.0,
+      "sent_at": "2026-09-18T12:25:00.864248+00:00"
+    },
+    {
+      "arxiv_id": "2609.20519",
+      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "score": 9.0,
+      "sent_at": "2026-09-18T12:25:00.864264+00:00"
+    },
+    {
+      "arxiv_id": "2609.20511",
+      "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-09-18T12:25:00.864268+00:00"
+    },
+    {
+      "arxiv_id": "2609.20804",
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-18T12:25:00.864272+00:00"
+    },
+    {
+      "arxiv_id": "2609.20800",
+      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "score": 9.0,
+      "sent_at": "2026-09-18T12:25:00.864275+00:00"
     }
   ],
   "posts": []
