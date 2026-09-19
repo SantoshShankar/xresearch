@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:41:55.717670+00:00",
+  "updated": "2026-09-19T12:06:30.286674+00:00",
   "papers": [
     {
       "arxiv_id": "2609.08183",
@@ -270,6 +270,36 @@
       "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
       "score": 9.0,
       "sent_at": "2026-09-18T12:25:00.864275+00:00"
+    },
+    {
+      "arxiv_id": "2609.18323",
+      "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+      "score": 9.0,
+      "sent_at": "2026-09-19T12:06:30.158406+00:00"
+    },
+    {
+      "arxiv_id": "2609.17496",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "score": 9.0,
+      "sent_at": "2026-09-19T12:06:30.158422+00:00"
+    },
+    {
+      "arxiv_id": "2609.16900",
+      "title": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
+      "score": 9.0,
+      "sent_at": "2026-09-19T12:06:30.158425+00:00"
+    },
+    {
+      "arxiv_id": "2609.20784",
+      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-09-19T12:06:30.158428+00:00"
+    },
+    {
+      "arxiv_id": "2609.17653",
+      "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-19T12:06:30.158431+00:00"
     }
   ],
   "posts": []
