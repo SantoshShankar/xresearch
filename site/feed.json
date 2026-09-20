@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-20T11:04:15.678475+00:00",
+  "updated": "2026-09-20T12:42:07.564197+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.10522",
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-      "score": 9.0,
-      "sent_at": "2026-09-10T12:25:42.565047+00:00"
-    },
-    {
-      "arxiv_id": "2609.10540",
-      "title": "Programmable World Model",
-      "score": 9.0,
-      "sent_at": "2026-09-10T12:25:42.565064+00:00"
-    },
-    {
-      "arxiv_id": "2609.08572",
-      "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
-      "score": 9.0,
-      "sent_at": "2026-09-10T12:25:42.565068+00:00"
-    },
-    {
-      "arxiv_id": "2609.05405",
-      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-      "score": 9.0,
-      "sent_at": "2026-09-10T12:25:42.565072+00:00"
-    },
-    {
-      "arxiv_id": "2609.08149",
-      "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
-      "score": 9.0,
-      "sent_at": "2026-09-10T12:25:42.565078+00:00"
-    },
     {
       "arxiv_id": "2609.10715",
       "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
@@ -270,6 +240,36 @@
       "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
       "score": 9.0,
       "sent_at": "2026-09-19T12:06:30.158431+00:00"
+    },
+    {
+      "arxiv_id": "2609.20152",
+      "title": "MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents",
+      "score": 6.0,
+      "sent_at": "2026-09-20T12:42:07.428811+00:00"
+    },
+    {
+      "arxiv_id": "2609.20080",
+      "title": "A Proposal for an Agentic AI Architecture to Support Multi-Domain Decision-Making in the Brazilian Armed Forces",
+      "score": 6.0,
+      "sent_at": "2026-09-20T12:42:07.428830+00:00"
+    },
+    {
+      "arxiv_id": "2609.19961",
+      "title": "Neuro-Symbolic Agentic AI for Networked Low-Altitude UAVs",
+      "score": 6.0,
+      "sent_at": "2026-09-20T12:42:07.428833+00:00"
+    },
+    {
+      "arxiv_id": "2609.19843",
+      "title": "A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents",
+      "score": 6.0,
+      "sent_at": "2026-09-20T12:42:07.428835+00:00"
+    },
+    {
+      "arxiv_id": "2609.19774",
+      "title": "Treadstone: A Social-Media-Inspired Platform for Multi-Agent Collaborative Data Analysis",
+      "score": 6.0,
+      "sent_at": "2026-09-20T12:42:07.428837+00:00"
     }
   ],
   "posts": []
