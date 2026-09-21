@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-21T04:27:31.595246+00:00",
+  "updated": "2026-09-21T12:32:10.152681+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.10715",
-      "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
-      "score": 9.0,
-      "sent_at": "2026-09-11T12:24:07.016934+00:00"
-    },
-    {
-      "arxiv_id": "2609.11929",
-      "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-09-11T12:24:07.016952+00:00"
-    },
-    {
-      "arxiv_id": "2609.07064",
-      "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
-      "score": 9.0,
-      "sent_at": "2026-09-11T12:24:07.016957+00:00"
-    },
-    {
-      "arxiv_id": "2609.05903",
-      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
-      "score": 9.0,
-      "sent_at": "2026-09-11T12:24:07.016960+00:00"
-    },
-    {
-      "arxiv_id": "2609.11317",
-      "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
-      "score": 9.0,
-      "sent_at": "2026-09-11T12:24:07.016965+00:00"
-    },
     {
       "arxiv_id": "2609.11412",
       "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
