@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-22T11:20:26.479932+00:00",
+  "updated": "2026-09-22T12:53:23.965599+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.11412",
-      "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
-      "score": 9.0,
-      "sent_at": "2026-09-12T11:45:39.788023+00:00"
-    },
-    {
-      "arxiv_id": "2609.11561",
-      "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
-      "score": 9.0,
-      "sent_at": "2026-09-12T11:45:39.788039+00:00"
-    },
-    {
-      "arxiv_id": "2609.10712",
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "score": 9.0,
-      "sent_at": "2026-09-12T11:45:39.788044+00:00"
-    },
-    {
-      "arxiv_id": "2609.11486",
-      "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
-      "score": 9.0,
-      "sent_at": "2026-09-12T11:45:39.788047+00:00"
-    },
-    {
-      "arxiv_id": "2609.11499",
-      "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
-      "score": 9.0,
-      "sent_at": "2026-09-12T11:45:39.788053+00:00"
-    },
     {
       "arxiv_id": "2609.06107",
       "title": "DataFlex-RL: An Evaluation Platform for RLVR Data Policies",
@@ -270,6 +240,36 @@
       "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
       "score": 9.0,
       "sent_at": "2026-09-21T14:37:31.297819+00:00"
+    },
+    {
+      "arxiv_id": "2609.24984",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "score": 9.0,
+      "sent_at": "2026-09-22T12:53:23.791955+00:00"
+    },
+    {
+      "arxiv_id": "2609.22966",
+      "title": "Transferring the Intelligence of VLMs to Robotic Control",
+      "score": 9.0,
+      "sent_at": "2026-09-22T12:53:23.791973+00:00"
+    },
+    {
+      "arxiv_id": "2609.25001",
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "score": 9.0,
+      "sent_at": "2026-09-22T12:53:23.791978+00:00"
+    },
+    {
+      "arxiv_id": "2609.24972",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "score": 9.0,
+      "sent_at": "2026-09-22T12:53:23.791982+00:00"
+    },
+    {
+      "arxiv_id": "2609.24220",
+      "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+      "score": 9.0,
+      "sent_at": "2026-09-22T12:53:23.791985+00:00"
     }
   ],
   "posts": []
