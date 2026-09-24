@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-24T12:57:42.043672+00:00",
+  "updated": "2026-09-24T16:56:18.740609+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.06107",
-      "title": "DataFlex-RL: An Evaluation Platform for RLVR Data Policies",
-      "score": 9.0,
-      "sent_at": "2026-09-14T14:33:10.606250+00:00"
-    },
-    {
-      "arxiv_id": "2609.08418",
-      "title": "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models",
-      "score": 9.0,
-      "sent_at": "2026-09-14T14:33:10.606268+00:00"
-    },
-    {
-      "arxiv_id": "2609.12641",
-      "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
-      "score": 9.0,
-      "sent_at": "2026-09-14T14:33:10.606271+00:00"
-    },
-    {
-      "arxiv_id": "2609.11115",
-      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-      "score": 9.0,
-      "sent_at": "2026-09-14T14:33:10.606273+00:00"
-    },
-    {
-      "arxiv_id": "2609.13141",
-      "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
-      "score": 9.0,
-      "sent_at": "2026-09-14T14:33:10.606276+00:00"
-    },
     {
       "arxiv_id": "2609.13356",
       "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
