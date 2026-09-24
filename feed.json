@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T11:29:50.049050+00:00",
+  "updated": "2026-09-24T12:57:42.043672+00:00",
   "papers": [
     {
       "arxiv_id": "2609.06107",
@@ -300,6 +300,36 @@
       "title": "Bellman Policy Optimization",
       "score": 9.0,
       "sent_at": "2026-09-23T13:05:07.013893+00:00"
+    },
+    {
+      "arxiv_id": "2609.24308",
+      "title": "HappyWorld-Bench",
+      "score": 9.0,
+      "sent_at": "2026-09-24T12:57:41.876755+00:00"
+    },
+    {
+      "arxiv_id": "2609.28466",
+      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-09-24T12:57:41.876772+00:00"
+    },
+    {
+      "arxiv_id": "2609.23038",
+      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+      "score": 9.0,
+      "sent_at": "2026-09-24T12:57:41.876775+00:00"
+    },
+    {
+      "arxiv_id": "2609.26780",
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "score": 9.0,
+      "sent_at": "2026-09-24T12:57:41.876778+00:00"
+    },
+    {
+      "arxiv_id": "2609.22947",
+      "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
+      "score": 9.0,
+      "sent_at": "2026-09-24T12:57:41.876780+00:00"
     }
   ],
   "posts": []
