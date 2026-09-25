@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-25T11:35:33.708584+00:00",
+  "updated": "2026-09-25T13:04:30.440488+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.13356",
-      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "score": 9.0,
-      "sent_at": "2026-09-15T12:57:50.725029+00:00"
-    },
-    {
-      "arxiv_id": "2609.15818",
-      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
-      "score": 9.0,
-      "sent_at": "2026-09-15T12:57:50.725047+00:00"
-    },
-    {
-      "arxiv_id": "2609.14858",
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "score": 9.0,
-      "sent_at": "2026-09-15T12:57:50.725050+00:00"
-    },
-    {
-      "arxiv_id": "2609.11638",
-      "title": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-09-15T12:57:50.725052+00:00"
-    },
-    {
-      "arxiv_id": "2609.14973",
-      "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
-      "score": 9.0,
-      "sent_at": "2026-09-15T12:57:50.725055+00:00"
-    },
     {
       "arxiv_id": "2609.15029",
       "title": "Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks",
@@ -300,6 +270,36 @@
       "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
       "score": 9.0,
       "sent_at": "2026-09-24T12:57:41.876780+00:00"
+    },
+    {
+      "arxiv_id": "2609.29892",
+      "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+      "score": 10.0,
+      "sent_at": "2026-09-25T13:04:30.211878+00:00"
+    },
+    {
+      "arxiv_id": "2609.28654",
+      "title": "Training Object Permanence in World Models",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211896+00:00"
+    },
+    {
+      "arxiv_id": "2609.23407",
+      "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211899+00:00"
+    },
+    {
+      "arxiv_id": "2609.28416",
+      "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211901+00:00"
+    },
+    {
+      "arxiv_id": "2609.29362",
+      "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211904+00:00"
     }
   ],
   "posts": []

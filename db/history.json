@@ -839,6 +839,36 @@
       "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
       "score": 9.0,
       "sent_at": "2026-09-24T12:57:41.876780+00:00"
+    },
+    {
+      "arxiv_id": "2609.29892",
+      "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+      "score": 10.0,
+      "sent_at": "2026-09-25T13:04:30.211878+00:00"
+    },
+    {
+      "arxiv_id": "2609.28654",
+      "title": "Training Object Permanence in World Models",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211896+00:00"
+    },
+    {
+      "arxiv_id": "2609.23407",
+      "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211899+00:00"
+    },
+    {
+      "arxiv_id": "2609.28416",
+      "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211901+00:00"
+    },
+    {
+      "arxiv_id": "2609.29362",
+      "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+      "score": 9.0,
+      "sent_at": "2026-09-25T13:04:30.211904+00:00"
     }
   ],
   "posts": []
