@@ -869,6 +869,36 @@
       "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
       "score": 9.0,
       "sent_at": "2026-09-25T13:04:30.211904+00:00"
+    },
+    {
+      "arxiv_id": "2609.29845",
+      "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+      "score": 9.0,
+      "sent_at": "2026-09-26T12:31:46.470721+00:00"
+    },
+    {
+      "arxiv_id": "2609.30221",
+      "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-09-26T12:31:46.470738+00:00"
+    },
+    {
+      "arxiv_id": "2609.29421",
+      "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+      "score": 9.0,
+      "sent_at": "2026-09-26T12:31:46.470743+00:00"
+    },
+    {
+      "arxiv_id": "2609.29444",
+      "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
+      "score": 9.0,
+      "sent_at": "2026-09-26T12:31:46.470746+00:00"
+    },
+    {
+      "arxiv_id": "2609.30233",
+      "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+      "score": 9.0,
+      "sent_at": "2026-09-26T12:31:46.470751+00:00"
     }
   ],
   "posts": []
