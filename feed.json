@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-26T12:31:46.633184+00:00",
+  "updated": "2026-09-26T16:10:42.999628+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.15029",
-      "title": "Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks",
-      "score": 10.0,
-      "sent_at": "2026-09-16T12:53:43.847479+00:00"
-    },
-    {
-      "arxiv_id": "2609.06986",
-      "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
-      "score": 9.0,
-      "sent_at": "2026-09-16T12:53:43.847499+00:00"
-    },
-    {
-      "arxiv_id": "2609.16679",
-      "title": "AI for Games in the Foundation Model Era",
-      "score": 9.0,
-      "sent_at": "2026-09-16T12:53:43.847502+00:00"
-    },
-    {
-      "arxiv_id": "2609.14005",
-      "title": "StepAudio 3 Realtime Technical Report",
-      "score": 9.0,
-      "sent_at": "2026-09-16T12:53:43.847505+00:00"
-    },
-    {
-      "arxiv_id": "2609.16034",
-      "title": "StepAudio 3 Music Technical Report",
-      "score": 9.0,
-      "sent_at": "2026-09-16T12:53:43.847508+00:00"
-    },
     {
       "arxiv_id": "2609.19134",
       "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
