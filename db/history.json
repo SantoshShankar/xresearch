@@ -869,6 +869,36 @@
       "title": "Coding Agents for Generalized Task and Motion Planning Problems",
       "score": 9.0,
       "sent_at": "2026-09-26T12:31:46.470751+00:00"
+    },
+    {
+      "arxiv_id": "2609.30057",
+      "title": "KREX: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity",
+      "score": 6.0,
+      "sent_at": "2026-09-27T13:22:03.658316+00:00"
+    },
+    {
+      "arxiv_id": "2609.29958",
+      "title": "Multi-Dimensional Matching",
+      "score": 6.0,
+      "sent_at": "2026-09-27T13:22:03.658334+00:00"
+    },
+    {
+      "arxiv_id": "2609.28963",
+      "title": "Back to the Definition: Estimating Step-Level Advantages via Trajectory Graphs for Agentic Reinforcement Learning",
+      "score": 6.0,
+      "sent_at": "2026-09-27T13:22:03.658338+00:00"
+    },
+    {
+      "arxiv_id": "2609.28843",
+      "title": "Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications",
+      "score": 6.0,
+      "sent_at": "2026-09-27T13:22:03.658342+00:00"
+    },
+    {
+      "arxiv_id": "2609.28182",
+      "title": "Finite-Sample Probabilistic Safety Certification for AI-Based Grid-Edge Coordination",
+      "score": 6.0,
+      "sent_at": "2026-09-27T13:22:03.658348+00:00"
     }
   ],
   "posts": []
