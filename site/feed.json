@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-28T04:53:31.814657+00:00",
+  "updated": "2026-09-28T13:31:08.939965+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.19969",
-      "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
-      "score": 11.0,
-      "sent_at": "2026-09-18T12:25:00.864248+00:00"
-    },
-    {
-      "arxiv_id": "2609.20519",
-      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-      "score": 9.0,
-      "sent_at": "2026-09-18T12:25:00.864264+00:00"
-    },
-    {
-      "arxiv_id": "2609.20511",
-      "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-09-18T12:25:00.864268+00:00"
-    },
-    {
-      "arxiv_id": "2609.20804",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "score": 9.0,
-      "sent_at": "2026-09-18T12:25:00.864272+00:00"
-    },
-    {
-      "arxiv_id": "2609.20800",
-      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
-      "score": 9.0,
-      "sent_at": "2026-09-18T12:25:00.864275+00:00"
-    },
     {
       "arxiv_id": "2609.18323",
       "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
