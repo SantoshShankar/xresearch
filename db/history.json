@@ -839,6 +839,36 @@
       "title": "Finite-Sample Probabilistic Safety Certification for AI-Based Grid-Edge Coordination",
       "score": 6.0,
       "sent_at": "2026-09-27T13:22:03.658348+00:00"
+    },
+    {
+      "arxiv_id": "2609.31590",
+      "title": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs",
+      "score": 10.0,
+      "sent_at": "2026-09-28T16:09:02.187228+00:00"
+    },
+    {
+      "arxiv_id": "2609.31620",
+      "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+      "score": 9.0,
+      "sent_at": "2026-09-28T16:09:02.187244+00:00"
+    },
+    {
+      "arxiv_id": "2609.18703",
+      "title": "RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation",
+      "score": 9.0,
+      "sent_at": "2026-09-28T16:09:02.187249+00:00"
+    },
+    {
+      "arxiv_id": "2609.31093",
+      "title": "Block Sparse Attention with Log-Linear Complexity",
+      "score": 9.0,
+      "sent_at": "2026-09-28T16:09:02.187252+00:00"
+    },
+    {
+      "arxiv_id": "2609.31394",
+      "title": "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+      "score": 9.0,
+      "sent_at": "2026-09-28T16:09:02.187256+00:00"
     }
   ],
   "posts": []
