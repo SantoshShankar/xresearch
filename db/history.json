@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2608.27266",
-      "title": "Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616096+00:00"
-    },
-    {
-      "arxiv_id": "2608.27238",
-      "title": "Assessing Company Contributions to Societal Resilience: Extending the Societal Capacity Assessment Framework to Agentic AI",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616113+00:00"
-    },
-    {
-      "arxiv_id": "2608.27148",
-      "title": "AgentDV: Closed-Loop Agentic AI for Hardware Design Verification",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616117+00:00"
-    },
-    {
-      "arxiv_id": "2608.26696",
-      "title": "Five Primitives for Governing Autonomous AI Agents at Runtime",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616121+00:00"
-    },
-    {
-      "arxiv_id": "2608.26442",
-      "title": "Don't Overthink, Don't Underthink: Toward Adaptive Reasoning in Agentic AI",
-      "score": 6.0,
-      "sent_at": "2026-08-30T13:22:51.616126+00:00"
-    },
-    {
       "arxiv_id": "2608.28281",
       "title": "LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering",
       "score": 9.0,
@@ -869,6 +839,36 @@
       "title": "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
       "score": 9.0,
       "sent_at": "2026-09-28T16:09:02.187256+00:00"
+    },
+    {
+      "arxiv_id": "2609.35347",
+      "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-09-29T14:24:38.463504+00:00"
+    },
+    {
+      "arxiv_id": "2609.33757",
+      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
+      "score": 9.0,
+      "sent_at": "2026-09-29T14:24:38.463524+00:00"
+    },
+    {
+      "arxiv_id": "2609.29233",
+      "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
+      "score": 9.0,
+      "sent_at": "2026-09-29T14:24:38.463530+00:00"
+    },
+    {
+      "arxiv_id": "2609.35432",
+      "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-09-29T14:24:38.463534+00:00"
+    },
+    {
+      "arxiv_id": "2609.31948",
+      "title": "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue",
+      "score": 9.0,
+      "sent_at": "2026-09-29T14:24:38.463541+00:00"
     }
   ],
   "posts": []
