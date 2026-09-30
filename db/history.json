@@ -869,6 +869,36 @@
       "title": "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue",
       "score": 9.0,
       "sent_at": "2026-09-29T14:24:38.463541+00:00"
+    },
+    {
+      "arxiv_id": "2609.33439",
+      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-09-30T14:19:52.818957+00:00"
+    },
+    {
+      "arxiv_id": "2609.34309",
+      "title": "MaLiang-Harness: A Programmable Path to Image and Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-09-30T14:19:52.818975+00:00"
+    },
+    {
+      "arxiv_id": "2609.36012",
+      "title": "In-Context Learning for Robots: Methods and Applications",
+      "score": 9.0,
+      "sent_at": "2026-09-30T14:19:52.818979+00:00"
+    },
+    {
+      "arxiv_id": "2609.31847",
+      "title": "Omni-IO Skills: Harnessing Your Agent Omni-Native",
+      "score": 9.0,
+      "sent_at": "2026-09-30T14:19:52.818984+00:00"
+    },
+    {
+      "arxiv_id": "2609.32607",
+      "title": "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models",
+      "score": 9.0,
+      "sent_at": "2026-09-30T14:19:52.818989+00:00"
     }
   ],
   "posts": []
