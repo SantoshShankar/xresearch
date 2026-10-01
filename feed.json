@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-01T12:53:51.986646+00:00",
+  "updated": "2026-10-01T14:52:57.615274+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.21749",
-      "title": "GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills",
-      "score": 10.0,
-      "sent_at": "2026-09-21T14:37:31.297795+00:00"
-    },
-    {
-      "arxiv_id": "2609.22076",
-      "title": "APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport",
-      "score": 10.0,
-      "sent_at": "2026-09-21T14:37:31.297811+00:00"
-    },
-    {
-      "arxiv_id": "2609.05571",
-      "title": "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-09-21T14:37:31.297815+00:00"
-    },
-    {
-      "arxiv_id": "2609.22068",
-      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-      "score": 9.0,
-      "sent_at": "2026-09-21T14:37:31.297817+00:00"
-    },
-    {
-      "arxiv_id": "2609.15779",
-      "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
-      "score": 9.0,
-      "sent_at": "2026-09-21T14:37:31.297819+00:00"
-    },
     {
       "arxiv_id": "2609.24984",
       "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
@@ -300,6 +270,36 @@
       "title": "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models",
       "score": 9.0,
       "sent_at": "2026-09-30T14:19:52.818989+00:00"
+    },
+    {
+      "arxiv_id": "2609.36484",
+      "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-10-01T14:52:57.378435+00:00"
+    },
+    {
+      "arxiv_id": "2609.38721",
+      "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+      "score": 9.0,
+      "sent_at": "2026-10-01T14:52:57.378452+00:00"
+    },
+    {
+      "arxiv_id": "2609.39102",
+      "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-01T14:52:57.378455+00:00"
+    },
+    {
+      "arxiv_id": "2609.38288",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "score": 9.0,
+      "sent_at": "2026-10-01T14:52:57.378458+00:00"
+    },
+    {
+      "arxiv_id": "2609.39982",
+      "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-01T14:52:57.378460+00:00"
     }
   ],
   "posts": []
