@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-02T12:16:36.322611+00:00",
+  "updated": "2026-10-02T14:13:59.981606+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.24984",
-      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-      "score": 9.0,
-      "sent_at": "2026-09-22T12:53:23.791955+00:00"
-    },
-    {
-      "arxiv_id": "2609.22966",
-      "title": "Transferring the Intelligence of VLMs to Robotic Control",
-      "score": 9.0,
-      "sent_at": "2026-09-22T12:53:23.791973+00:00"
-    },
-    {
-      "arxiv_id": "2609.25001",
-      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
-      "score": 9.0,
-      "sent_at": "2026-09-22T12:53:23.791978+00:00"
-    },
-    {
-      "arxiv_id": "2609.24972",
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-      "score": 9.0,
-      "sent_at": "2026-09-22T12:53:23.791982+00:00"
-    },
-    {
-      "arxiv_id": "2609.24220",
-      "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
-      "score": 9.0,
-      "sent_at": "2026-09-22T12:53:23.791985+00:00"
-    },
     {
       "arxiv_id": "2609.25804",
       "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
@@ -300,6 +270,36 @@
       "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
       "score": 9.0,
       "sent_at": "2026-10-01T14:52:57.378460+00:00"
+    },
+    {
+      "arxiv_id": "2610.01509",
+      "title": "Sharpening Tax in Post-Training",
+      "score": 10.0,
+      "sent_at": "2026-10-02T14:13:59.778414+00:00"
+    },
+    {
+      "arxiv_id": "2610.02181",
+      "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+      "score": 10.0,
+      "sent_at": "2026-10-02T14:13:59.778431+00:00"
+    },
+    {
+      "arxiv_id": "2609.37200",
+      "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
+      "score": 9.0,
+      "sent_at": "2026-10-02T14:13:59.778435+00:00"
+    },
+    {
+      "arxiv_id": "2610.01762",
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "score": 9.0,
+      "sent_at": "2026-10-02T14:13:59.778439+00:00"
+    },
+    {
+      "arxiv_id": "2610.01415",
+      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+      "score": 9.0,
+      "sent_at": "2026-10-02T14:13:59.778443+00:00"
     }
   ],
   "posts": []
