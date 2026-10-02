@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2609.00621",
-      "title": "Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs",
-      "score": 10.0,
-      "sent_at": "2026-09-02T12:20:15.356027+00:00"
-    },
-    {
-      "arxiv_id": "2609.01591",
-      "title": "StudentSim: Training LLM-based Student Simulators",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356049+00:00"
-    },
-    {
-      "arxiv_id": "2609.00111",
-      "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356052+00:00"
-    },
-    {
-      "arxiv_id": "2609.01343",
-      "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356055+00:00"
-    },
-    {
-      "arxiv_id": "2609.00028",
-      "title": "UI-Venus-2 Technical Report",
-      "score": 9.0,
-      "sent_at": "2026-09-02T12:20:15.356058+00:00"
-    },
-    {
       "arxiv_id": "2609.02783",
       "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
       "score": 10.0,
@@ -869,6 +839,36 @@
       "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
       "score": 9.0,
       "sent_at": "2026-10-01T14:52:57.378460+00:00"
+    },
+    {
+      "arxiv_id": "2610.01509",
+      "title": "Sharpening Tax in Post-Training",
+      "score": 10.0,
+      "sent_at": "2026-10-02T14:13:59.778414+00:00"
+    },
+    {
+      "arxiv_id": "2610.02181",
+      "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+      "score": 10.0,
+      "sent_at": "2026-10-02T14:13:59.778431+00:00"
+    },
+    {
+      "arxiv_id": "2609.37200",
+      "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
+      "score": 9.0,
+      "sent_at": "2026-10-02T14:13:59.778435+00:00"
+    },
+    {
+      "arxiv_id": "2610.01762",
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "score": 9.0,
+      "sent_at": "2026-10-02T14:13:59.778439+00:00"
+    },
+    {
+      "arxiv_id": "2610.01415",
+      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+      "score": 9.0,
+      "sent_at": "2026-10-02T14:13:59.778443+00:00"
     }
   ],
   "posts": []
