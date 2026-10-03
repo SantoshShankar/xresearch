@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T11:27:02.062329+00:00",
+  "updated": "2026-10-03T12:48:32.347384+00:00",
   "papers": [
     {
       "arxiv_id": "2609.25804",
@@ -300,6 +300,36 @@
       "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
       "score": 9.0,
       "sent_at": "2026-10-02T14:13:59.778443+00:00"
+    },
+    {
+      "arxiv_id": "2609.35259",
+      "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100481+00:00"
+    },
+    {
+      "arxiv_id": "2610.02193",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100503+00:00"
+    },
+    {
+      "arxiv_id": "2609.35690",
+      "title": "Agent Priors-guided Policy Learning",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100508+00:00"
+    },
+    {
+      "arxiv_id": "2609.39027",
+      "title": "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100512+00:00"
+    },
+    {
+      "arxiv_id": "2610.02162",
+      "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100517+00:00"
     }
   ],
   "posts": []
