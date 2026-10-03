@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2609.02783",
-      "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
-      "score": 10.0,
-      "sent_at": "2026-09-03T12:18:17.432277+00:00"
-    },
-    {
-      "arxiv_id": "2608.31100",
-      "title": "S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?",
-      "score": 10.0,
-      "sent_at": "2026-09-03T12:18:17.432293+00:00"
-    },
-    {
-      "arxiv_id": "2609.02749",
-      "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
-      "score": 9.0,
-      "sent_at": "2026-09-03T12:18:17.432296+00:00"
-    },
-    {
-      "arxiv_id": "2609.02886",
-      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
-      "score": 9.0,
-      "sent_at": "2026-09-03T12:18:17.432298+00:00"
-    },
-    {
-      "arxiv_id": "2609.00638",
-      "title": "It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning",
-      "score": 9.0,
-      "sent_at": "2026-09-03T12:18:17.432302+00:00"
-    },
-    {
       "arxiv_id": "2609.04148",
       "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
       "score": 9.0,
@@ -869,6 +839,36 @@
       "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
       "score": 9.0,
       "sent_at": "2026-10-02T14:13:59.778443+00:00"
+    },
+    {
+      "arxiv_id": "2609.35259",
+      "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100481+00:00"
+    },
+    {
+      "arxiv_id": "2610.02193",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100503+00:00"
+    },
+    {
+      "arxiv_id": "2609.35690",
+      "title": "Agent Priors-guided Policy Learning",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100508+00:00"
+    },
+    {
+      "arxiv_id": "2609.39027",
+      "title": "A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100512+00:00"
+    },
+    {
+      "arxiv_id": "2610.02162",
+      "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+      "score": 9.0,
+      "sent_at": "2026-10-03T12:48:32.100517+00:00"
     }
   ],
   "posts": []
