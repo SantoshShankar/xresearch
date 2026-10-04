@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-04T12:08:26.821159+00:00",
+  "updated": "2026-10-04T13:31:22.290829+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.24308",
-      "title": "HappyWorld-Bench",
-      "score": 9.0,
-      "sent_at": "2026-09-24T12:57:41.876755+00:00"
-    },
-    {
-      "arxiv_id": "2609.28466",
-      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-09-24T12:57:41.876772+00:00"
-    },
-    {
-      "arxiv_id": "2609.23038",
-      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
-      "score": 9.0,
-      "sent_at": "2026-09-24T12:57:41.876775+00:00"
-    },
-    {
-      "arxiv_id": "2609.26780",
-      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
-      "score": 9.0,
-      "sent_at": "2026-09-24T12:57:41.876778+00:00"
-    },
-    {
-      "arxiv_id": "2609.22947",
-      "title": "RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling",
-      "score": 9.0,
-      "sent_at": "2026-09-24T12:57:41.876780+00:00"
-    },
     {
       "arxiv_id": "2609.29892",
       "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
@@ -300,6 +270,36 @@
       "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
       "score": 9.0,
       "sent_at": "2026-10-03T12:48:32.100517+00:00"
+    },
+    {
+      "arxiv_id": "2610.01887",
+      "title": "TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design",
+      "score": 6.0,
+      "sent_at": "2026-10-04T13:31:22.024422+00:00"
+    },
+    {
+      "arxiv_id": "2610.01437",
+      "title": "Agentic Wireless Digital Twin Construction and Calibration Using Real-World Measurements",
+      "score": 6.0,
+      "sent_at": "2026-10-04T13:31:22.024438+00:00"
+    },
+    {
+      "arxiv_id": "2610.00980",
+      "title": "Can AI Scientists Coordinate at Runtime?",
+      "score": 6.0,
+      "sent_at": "2026-10-04T13:31:22.024441+00:00"
+    },
+    {
+      "arxiv_id": "2610.00954",
+      "title": "Beyond Leaderboards: Tokenomics of Agentic Small Language Model Ensembles",
+      "score": 6.0,
+      "sent_at": "2026-10-04T13:31:22.024443+00:00"
+    },
+    {
+      "arxiv_id": "2610.00613",
+      "title": "Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents",
+      "score": 6.0,
+      "sent_at": "2026-10-04T13:31:22.024447+00:00"
     }
   ],
   "posts": []
