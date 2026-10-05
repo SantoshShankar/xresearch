@@ -839,6 +839,36 @@
       "title": "Spatial Strategies, Not Actions: Vector-Quantized Geodesics as Tools for LLM-Driven Agents",
       "score": 6.0,
       "sent_at": "2026-10-04T13:31:22.024447+00:00"
+    },
+    {
+      "arxiv_id": "2609.38879",
+      "title": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+      "score": 9.0,
+      "sent_at": "2026-10-05T16:30:36.097894+00:00"
+    },
+    {
+      "arxiv_id": "2609.38839",
+      "title": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-10-05T16:30:36.097931+00:00"
+    },
+    {
+      "arxiv_id": "2609.38078",
+      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "score": 9.0,
+      "sent_at": "2026-10-05T16:30:36.097934+00:00"
+    },
+    {
+      "arxiv_id": "2610.02826",
+      "title": "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite",
+      "score": 9.0,
+      "sent_at": "2026-10-05T16:30:36.097937+00:00"
+    },
+    {
+      "arxiv_id": "2610.02508",
+      "title": "World Action Modeling with Progressive Visual Planning",
+      "score": 9.0,
+      "sent_at": "2026-10-05T16:30:36.097939+00:00"
     }
   ],
   "posts": []
