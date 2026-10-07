@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2609.02750",
-      "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
-      "score": 9.0,
-      "sent_at": "2026-09-07T13:44:21.857005+00:00"
-    },
-    {
-      "arxiv_id": "2609.04304",
-      "title": "Iris: Climbing to the Search Frontier",
-      "score": 9.0,
-      "sent_at": "2026-09-07T13:44:21.857022+00:00"
-    },
-    {
-      "arxiv_id": "2609.04250",
-      "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
-      "score": 9.0,
-      "sent_at": "2026-09-07T13:44:21.857025+00:00"
-    },
-    {
-      "arxiv_id": "2609.05416",
-      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-      "score": 9.0,
-      "sent_at": "2026-09-07T13:44:21.857028+00:00"
-    },
-    {
-      "arxiv_id": "2609.03586",
-      "title": "The Attention Triangle in Audio-Video Models",
-      "score": 9.0,
-      "sent_at": "2026-09-07T13:44:21.857032+00:00"
-    },
-    {
       "arxiv_id": "2609.04010",
       "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
       "score": 9.0,
@@ -869,6 +839,36 @@
       "title": "Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym",
       "score": 9.0,
       "sent_at": "2026-10-06T14:33:00.482129+00:00"
+    },
+    {
+      "arxiv_id": "2610.05140",
+      "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
+      "score": 10.0,
+      "sent_at": "2026-10-07T14:49:43.522358+00:00"
+    },
+    {
+      "arxiv_id": "2610.08448",
+      "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
+      "score": 9.0,
+      "sent_at": "2026-10-07T14:49:43.522377+00:00"
+    },
+    {
+      "arxiv_id": "2610.03543",
+      "title": "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-10-07T14:49:43.522380+00:00"
+    },
+    {
+      "arxiv_id": "2610.07767",
+      "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
+      "score": 9.0,
+      "sent_at": "2026-10-07T14:49:43.522382+00:00"
+    },
+    {
+      "arxiv_id": "2610.05030",
+      "title": "EVISKILL: Grounding Skill Evolution in Replayable Evidence",
+      "score": 9.0,
+      "sent_at": "2026-10-07T14:49:43.522385+00:00"
     }
   ],
   "posts": []
