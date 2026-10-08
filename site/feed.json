@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T13:11:28.920902+00:00",
+  "updated": "2026-10-08T15:00:26.908373+00:00",
   "papers": [
     {
       "arxiv_id": "2609.31590",
@@ -300,6 +300,36 @@
       "title": "EVISKILL: Grounding Skill Evolution in Replayable Evidence",
       "score": 9.0,
       "sent_at": "2026-10-07T14:49:43.522385+00:00"
+    },
+    {
+      "arxiv_id": "2610.09832",
+      "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
+      "score": 10.0,
+      "sent_at": "2026-10-08T15:00:26.717128+00:00"
+    },
+    {
+      "arxiv_id": "2609.38169",
+      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "score": 9.0,
+      "sent_at": "2026-10-08T15:00:26.717146+00:00"
+    },
+    {
+      "arxiv_id": "2610.10528",
+      "title": "Long-WAM: Scaling the Context of World-Action Models",
+      "score": 9.0,
+      "sent_at": "2026-10-08T15:00:26.717150+00:00"
+    },
+    {
+      "arxiv_id": "2610.08699",
+      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+      "score": 9.0,
+      "sent_at": "2026-10-08T15:00:26.717154+00:00"
+    },
+    {
+      "arxiv_id": "2610.08621",
+      "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+      "score": 9.0,
+      "sent_at": "2026-10-08T15:00:26.717157+00:00"
     }
   ],
   "posts": []
