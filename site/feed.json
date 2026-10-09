@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-09T12:58:08.865082+00:00",
+  "updated": "2026-10-09T14:45:01.605002+00:00",
   "papers": [
-    {
-      "arxiv_id": "2609.35347",
-      "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463504+00:00"
-    },
-    {
-      "arxiv_id": "2609.33757",
-      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463524+00:00"
-    },
-    {
-      "arxiv_id": "2609.29233",
-      "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463530+00:00"
-    },
-    {
-      "arxiv_id": "2609.35432",
-      "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463534+00:00"
-    },
-    {
-      "arxiv_id": "2609.31948",
-      "title": "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463541+00:00"
-    },
     {
       "arxiv_id": "2609.33439",
       "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
@@ -300,6 +270,36 @@
       "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
       "score": 9.0,
       "sent_at": "2026-10-08T15:00:26.717157+00:00"
+    },
+    {
+      "arxiv_id": "2610.11287",
+      "title": "REMORY: Learning Residual Memory for Context Compaction",
+      "score": 10.0,
+      "sent_at": "2026-10-09T14:45:01.283977+00:00"
+    },
+    {
+      "arxiv_id": "2610.12374",
+      "title": "AgentGarten: Code Worlds for Evolving Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-09T14:45:01.283996+00:00"
+    },
+    {
+      "arxiv_id": "2610.08215",
+      "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+      "score": 9.0,
+      "sent_at": "2026-10-09T14:45:01.284000+00:00"
+    },
+    {
+      "arxiv_id": "2610.12242",
+      "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+      "score": 9.0,
+      "sent_at": "2026-10-09T14:45:01.284003+00:00"
+    },
+    {
+      "arxiv_id": "2610.06100",
+      "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
+      "score": 9.0,
+      "sent_at": "2026-10-09T14:45:01.284006+00:00"
     }
   ],
   "posts": []
