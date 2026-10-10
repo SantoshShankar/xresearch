@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T12:15:50.117254+00:00",
+  "updated": "2026-10-10T14:02:01.539396+00:00",
   "papers": [
     {
       "arxiv_id": "2609.33439",
@@ -300,6 +300,36 @@
       "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
       "score": 9.0,
       "sent_at": "2026-10-09T14:45:01.284006+00:00"
+    },
+    {
+      "arxiv_id": "2610.11959",
+      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+      "score": 9.0,
+      "sent_at": "2026-10-10T14:02:01.318350+00:00"
+    },
+    {
+      "arxiv_id": "2610.12126",
+      "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
+      "score": 9.0,
+      "sent_at": "2026-10-10T14:02:01.318367+00:00"
+    },
+    {
+      "arxiv_id": "2610.12299",
+      "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+      "score": 9.0,
+      "sent_at": "2026-10-10T14:02:01.318371+00:00"
+    },
+    {
+      "arxiv_id": "2609.38173",
+      "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
+      "score": 9.0,
+      "sent_at": "2026-10-10T14:02:01.318375+00:00"
+    },
+    {
+      "arxiv_id": "2610.12421",
+      "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+      "score": 9.0,
+      "sent_at": "2026-10-10T14:02:01.318380+00:00"
     }
   ],
   "posts": []
