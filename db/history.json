@@ -839,6 +839,36 @@
       "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
       "score": 9.0,
       "sent_at": "2026-10-10T14:02:01.318380+00:00"
+    },
+    {
+      "arxiv_id": "2610.12061",
+      "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+      "score": 6.0,
+      "sent_at": "2026-10-11T14:26:58.893132+00:00"
+    },
+    {
+      "arxiv_id": "2610.11542",
+      "title": "Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper",
+      "score": 6.0,
+      "sent_at": "2026-10-11T14:26:58.893148+00:00"
+    },
+    {
+      "arxiv_id": "2610.11200",
+      "title": "Information Divergence and Endogenous Evolution of Asymmetric Information",
+      "score": 6.0,
+      "sent_at": "2026-10-11T14:26:58.893152+00:00"
+    },
+    {
+      "arxiv_id": "2610.10962",
+      "title": "iAm.md: Robot Skill Self-Assessment through Agentic Introspection for Unknown Open-Vocabulary Domains",
+      "score": 6.0,
+      "sent_at": "2026-10-11T14:26:58.893156+00:00"
+    },
+    {
+      "arxiv_id": "2610.10942",
+      "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+      "score": 6.0,
+      "sent_at": "2026-10-11T14:26:58.893159+00:00"
     }
   ],
   "posts": []
