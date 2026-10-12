@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T15:03:23.802044+00:00",
+  "updated": "2026-10-12T17:04:39.410304+00:00",
   "papers": [
     {
       "arxiv_id": "2609.35259",
@@ -270,6 +270,36 @@
       "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
       "score": 6.0,
       "sent_at": "2026-10-11T14:26:58.893159+00:00"
+    },
+    {
+      "arxiv_id": "2610.12572",
+      "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models",
+      "score": 9.0,
+      "sent_at": "2026-10-12T17:04:39.054943+00:00"
+    },
+    {
+      "arxiv_id": "2610.13527",
+      "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+      "score": 9.0,
+      "sent_at": "2026-10-12T17:04:39.054962+00:00"
+    },
+    {
+      "arxiv_id": "2610.12772",
+      "title": "Reflex: Visually Grounded Reactive Humanoid Control",
+      "score": 9.0,
+      "sent_at": "2026-10-12T17:04:39.054966+00:00"
+    },
+    {
+      "arxiv_id": "2610.12611",
+      "title": "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments",
+      "score": 9.0,
+      "sent_at": "2026-10-12T17:04:39.054970+00:00"
+    },
+    {
+      "arxiv_id": "2610.13021",
+      "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-12T17:04:39.054973+00:00"
     }
   ],
   "posts": []
