@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-12T05:29:01.907695+00:00",
+  "updated": "2026-10-12T15:03:23.802044+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.01509",
-      "title": "Sharpening Tax in Post-Training",
-      "score": 10.0,
-      "sent_at": "2026-10-02T14:13:59.778414+00:00"
-    },
-    {
-      "arxiv_id": "2610.02181",
-      "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
-      "score": 10.0,
-      "sent_at": "2026-10-02T14:13:59.778431+00:00"
-    },
-    {
-      "arxiv_id": "2609.37200",
-      "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
-      "score": 9.0,
-      "sent_at": "2026-10-02T14:13:59.778435+00:00"
-    },
-    {
-      "arxiv_id": "2610.01762",
-      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
-      "score": 9.0,
-      "sent_at": "2026-10-02T14:13:59.778439+00:00"
-    },
-    {
-      "arxiv_id": "2610.01415",
-      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
-      "score": 9.0,
-      "sent_at": "2026-10-02T14:13:59.778443+00:00"
-    },
     {
       "arxiv_id": "2609.35259",
       "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
