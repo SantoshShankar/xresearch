@@ -869,6 +869,36 @@
       "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
       "score": 9.0,
       "sent_at": "2026-10-12T17:04:39.054973+00:00"
+    },
+    {
+      "arxiv_id": "2610.13361",
+      "title": "AgentSWE: Can Coding Agents Build the Agent You Actually Want?",
+      "score": 9.0,
+      "sent_at": "2026-10-13T15:21:41.947881+00:00"
+    },
+    {
+      "arxiv_id": "2609.39601",
+      "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+      "score": 9.0,
+      "sent_at": "2026-10-13T15:21:41.947899+00:00"
+    },
+    {
+      "arxiv_id": "2610.11765",
+      "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+      "score": 9.0,
+      "sent_at": "2026-10-13T15:21:41.947902+00:00"
+    },
+    {
+      "arxiv_id": "2610.13166",
+      "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-10-13T15:21:41.947903+00:00"
+    },
+    {
+      "arxiv_id": "2610.09326",
+      "title": "VIS-Ground: Video Interactive Storytelling with Contextual Grounding",
+      "score": 9.0,
+      "sent_at": "2026-10-13T15:21:41.947906+00:00"
     }
   ],
   "posts": []
