@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-16T12:47:22.010659+00:00",
+  "updated": "2026-10-16T16:26:32.938176+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.05608",
-      "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482100+00:00"
-    },
-    {
-      "arxiv_id": "2610.04198",
-      "title": "ALoDLM: Adaptively Looped Diffusion Language Models",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482120+00:00"
-    },
-    {
-      "arxiv_id": "2610.05162",
-      "title": "Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482123+00:00"
-    },
-    {
-      "arxiv_id": "2610.03120",
-      "title": "In-Distribution Forcing for Long Video Generation at Test Time",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482125+00:00"
-    },
-    {
-      "arxiv_id": "2609.37267",
-      "title": "Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482129+00:00"
-    },
     {
       "arxiv_id": "2610.05140",
       "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
