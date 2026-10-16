@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T11:07:54.651264+00:00",
+  "updated": "2026-10-16T12:47:22.010659+00:00",
   "papers": [
     {
       "arxiv_id": "2610.05608",
@@ -300,6 +300,36 @@
       "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
       "score": 9.0,
       "sent_at": "2026-10-15T12:54:58.460624+00:00"
+    },
+    {
+      "arxiv_id": "2610.22350",
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "score": 10.0,
+      "sent_at": "2026-10-16T12:47:21.733881+00:00"
+    },
+    {
+      "arxiv_id": "2610.19397",
+      "title": "SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning",
+      "score": 10.0,
+      "sent_at": "2026-10-16T12:47:21.733898+00:00"
+    },
+    {
+      "arxiv_id": "2610.18829",
+      "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+      "score": 9.0,
+      "sent_at": "2026-10-16T12:47:21.733904+00:00"
+    },
+    {
+      "arxiv_id": "2610.21601",
+      "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
+      "score": 9.0,
+      "sent_at": "2026-10-16T12:47:21.733907+00:00"
+    },
+    {
+      "arxiv_id": "2610.18813",
+      "title": "Self-Evolving Agent Harness",
+      "score": 9.0,
+      "sent_at": "2026-10-16T12:47:21.733911+00:00"
     }
   ],
   "posts": []
