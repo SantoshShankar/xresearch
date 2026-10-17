@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-17T11:48:06.528165+00:00",
+  "updated": "2026-10-17T15:20:50.943296+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.05140",
-      "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
-      "score": 10.0,
-      "sent_at": "2026-10-07T14:49:43.522358+00:00"
-    },
-    {
-      "arxiv_id": "2610.08448",
-      "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522377+00:00"
-    },
-    {
-      "arxiv_id": "2610.03543",
-      "title": "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522380+00:00"
-    },
-    {
-      "arxiv_id": "2610.07767",
-      "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522382+00:00"
-    },
-    {
-      "arxiv_id": "2610.05030",
-      "title": "EVISKILL: Grounding Skill Evolution in Replayable Evidence",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522385+00:00"
-    },
     {
       "arxiv_id": "2610.09832",
       "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
