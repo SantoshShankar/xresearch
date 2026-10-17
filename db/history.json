@@ -899,6 +899,36 @@
       "title": "Self-Evolving Agent Harness",
       "score": 9.0,
       "sent_at": "2026-10-16T12:47:21.733911+00:00"
+    },
+    {
+      "arxiv_id": "2610.22276",
+      "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
+      "score": 9.0,
+      "sent_at": "2026-10-17T11:48:06.327193+00:00"
+    },
+    {
+      "arxiv_id": "2610.22200",
+      "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+      "score": 9.0,
+      "sent_at": "2026-10-17T11:48:06.327231+00:00"
+    },
+    {
+      "arxiv_id": "2610.17665",
+      "title": "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment",
+      "score": 9.0,
+      "sent_at": "2026-10-17T11:48:06.327235+00:00"
+    },
+    {
+      "arxiv_id": "2610.14993",
+      "title": "Learning Where to Split: Dynamic Band Splitting for Audio Source Separation",
+      "score": 9.0,
+      "sent_at": "2026-10-17T11:48:06.327237+00:00"
+    },
+    {
+      "arxiv_id": "2610.20341",
+      "title": "InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views",
+      "score": 9.0,
+      "sent_at": "2026-10-17T11:48:06.327239+00:00"
     }
   ],
   "posts": []
