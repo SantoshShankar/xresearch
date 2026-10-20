@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-20T13:09:24.368291+00:00",
+  "updated": "2026-10-20T16:41:22.411072+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.11959",
-      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
-      "score": 9.0,
-      "sent_at": "2026-10-10T14:02:01.318350+00:00"
-    },
-    {
-      "arxiv_id": "2610.12126",
-      "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
-      "score": 9.0,
-      "sent_at": "2026-10-10T14:02:01.318367+00:00"
-    },
-    {
-      "arxiv_id": "2610.12299",
-      "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
-      "score": 9.0,
-      "sent_at": "2026-10-10T14:02:01.318371+00:00"
-    },
-    {
-      "arxiv_id": "2609.38173",
-      "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
-      "score": 9.0,
-      "sent_at": "2026-10-10T14:02:01.318375+00:00"
-    },
-    {
-      "arxiv_id": "2610.12421",
-      "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
-      "score": 9.0,
-      "sent_at": "2026-10-10T14:02:01.318380+00:00"
-    },
     {
       "arxiv_id": "2610.12061",
       "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
