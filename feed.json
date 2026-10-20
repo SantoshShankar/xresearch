@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:16:53.609429+00:00",
+  "updated": "2026-10-20T13:09:24.368291+00:00",
   "papers": [
     {
       "arxiv_id": "2610.11959",
@@ -300,6 +300,36 @@
       "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
       "score": 9.0,
       "sent_at": "2026-10-19T15:04:17.453684+00:00"
+    },
+    {
+      "arxiv_id": "2610.26802",
+      "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
+      "score": 9.0,
+      "sent_at": "2026-10-20T13:09:24.097519+00:00"
+    },
+    {
+      "arxiv_id": "2610.25736",
+      "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
+      "score": 9.0,
+      "sent_at": "2026-10-20T13:09:24.097534+00:00"
+    },
+    {
+      "arxiv_id": "2610.26825",
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "score": 9.0,
+      "sent_at": "2026-10-20T13:09:24.097543+00:00"
+    },
+    {
+      "arxiv_id": "2610.26549",
+      "title": "Holi-World: Building Holistic World Intelligence from Human-Ego Experience",
+      "score": 9.0,
+      "sent_at": "2026-10-20T13:09:24.097547+00:00"
+    },
+    {
+      "arxiv_id": "2610.25690",
+      "title": "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation",
+      "score": 9.0,
+      "sent_at": "2026-10-20T13:09:24.097551+00:00"
     }
   ],
   "posts": []
