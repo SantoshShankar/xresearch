@@ -899,6 +899,36 @@
       "title": "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation",
       "score": 9.0,
       "sent_at": "2026-10-20T13:09:24.097551+00:00"
+    },
+    {
+      "arxiv_id": "2610.28354",
+      "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
+      "score": 10.0,
+      "sent_at": "2026-10-21T13:17:04.900344+00:00"
+    },
+    {
+      "arxiv_id": "2610.27999",
+      "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
+      "score": 9.0,
+      "sent_at": "2026-10-21T13:17:04.900387+00:00"
+    },
+    {
+      "arxiv_id": "2610.27628",
+      "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
+      "score": 9.0,
+      "sent_at": "2026-10-21T13:17:04.900392+00:00"
+    },
+    {
+      "arxiv_id": "2610.26203",
+      "title": "Focused Omni-Modal GUI Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-21T13:17:04.900397+00:00"
+    },
+    {
+      "arxiv_id": "2610.26855",
+      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+      "score": 9.0,
+      "sent_at": "2026-10-21T13:17:04.900401+00:00"
     }
   ],
   "posts": []
