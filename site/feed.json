@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-24T12:17:52.543079+00:00",
+  "updated": "2026-10-24T15:43:21.897375+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.17953",
-      "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
-      "score": 10.0,
-      "sent_at": "2026-10-14T13:09:17.799739+00:00"
-    },
-    {
-      "arxiv_id": "2610.18067",
-      "title": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
-      "score": 10.0,
-      "sent_at": "2026-10-14T13:09:17.799757+00:00"
-    },
-    {
-      "arxiv_id": "2610.18773",
-      "title": "Jeva: System One Models from First Principles",
-      "score": 9.0,
-      "sent_at": "2026-10-14T13:09:17.799763+00:00"
-    },
-    {
-      "arxiv_id": "2610.18356",
-      "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-      "score": 9.0,
-      "sent_at": "2026-10-14T13:09:17.799767+00:00"
-    },
-    {
-      "arxiv_id": "2610.18615",
-      "title": "VideoJev: System One Model for Video Understanding and Interaction",
-      "score": 9.0,
-      "sent_at": "2026-10-14T13:09:17.799771+00:00"
-    },
     {
       "arxiv_id": "2610.18861",
       "title": "Hybrid Reasoning Agents",
