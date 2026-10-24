@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T10:41:15.378373+00:00",
+  "updated": "2026-10-24T12:17:52.543079+00:00",
   "papers": [
     {
       "arxiv_id": "2610.17953",
@@ -300,6 +300,36 @@
       "title": "Editing Images into Reusable Layers via Compositional Edit-Prior Distillation",
       "score": 9.0,
       "sent_at": "2026-10-23T12:54:48.289477+00:00"
+    },
+    {
+      "arxiv_id": "2610.30949",
+      "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+      "score": 9.0,
+      "sent_at": "2026-10-24T12:17:52.166337+00:00"
+    },
+    {
+      "arxiv_id": "2610.29677",
+      "title": "Toward Recursive Self-Improvement in Physical AI",
+      "score": 9.0,
+      "sent_at": "2026-10-24T12:17:52.166360+00:00"
+    },
+    {
+      "arxiv_id": "2610.25100",
+      "title": "Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models",
+      "score": 9.0,
+      "sent_at": "2026-10-24T12:17:52.166366+00:00"
+    },
+    {
+      "arxiv_id": "2610.23987",
+      "title": "What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models",
+      "score": 9.0,
+      "sent_at": "2026-10-24T12:17:52.166370+00:00"
+    },
+    {
+      "arxiv_id": "2610.27851",
+      "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
+      "score": 9.0,
+      "sent_at": "2026-10-24T12:17:52.166374+00:00"
     }
   ],
   "posts": []
