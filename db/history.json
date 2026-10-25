@@ -899,6 +899,36 @@
       "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
       "score": 9.0,
       "sent_at": "2026-10-24T12:17:52.166374+00:00"
+    },
+    {
+      "arxiv_id": "2610.31355",
+      "title": "Muffin - A Shared Memory Buffer for Asynchronous AI Agents",
+      "score": 6.0,
+      "sent_at": "2026-10-25T12:48:59.802847+00:00"
+    },
+    {
+      "arxiv_id": "2610.31280",
+      "title": "Beyond Accuracy: Disentangling Decomposition from Typed-State Quality Assurance in Multi-Agent LLM Pipelines",
+      "score": 6.0,
+      "sent_at": "2026-10-25T12:48:59.802867+00:00"
+    },
+    {
+      "arxiv_id": "2610.31165",
+      "title": "Network topology shapes consensus and vulnerability in LLM populations",
+      "score": 6.0,
+      "sent_at": "2026-10-25T12:48:59.802870+00:00"
+    },
+    {
+      "arxiv_id": "2610.31105",
+      "title": "Who Is the Influencer? Consensus Dynamics in Multi-Agent Systems",
+      "score": 6.0,
+      "sent_at": "2026-10-25T12:48:59.802873+00:00"
+    },
+    {
+      "arxiv_id": "2610.30945",
+      "title": "Metacognitive Scaffolds Create Productive Friction for AI-Assisted Knowledge Work",
+      "score": 6.0,
+      "sent_at": "2026-10-25T12:48:59.802875+00:00"
     }
   ],
   "posts": []
