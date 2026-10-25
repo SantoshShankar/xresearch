@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-25T12:49:00.100047+00:00",
+  "updated": "2026-10-25T15:54:42.785054+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.18861",
-      "title": "Hybrid Reasoning Agents",
-      "score": 10.0,
-      "sent_at": "2026-10-15T12:54:58.460593+00:00"
-    },
-    {
-      "arxiv_id": "2610.20571",
-      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-15T12:54:58.460611+00:00"
-    },
-    {
-      "arxiv_id": "2610.13521",
-      "title": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-10-15T12:54:58.460616+00:00"
-    },
-    {
-      "arxiv_id": "2610.20584",
-      "title": "Player-1: Learning to Play from Synthetic Experience",
-      "score": 9.0,
-      "sent_at": "2026-10-15T12:54:58.460620+00:00"
-    },
-    {
-      "arxiv_id": "2610.20344",
-      "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
-      "score": 9.0,
-      "sent_at": "2026-10-15T12:54:58.460624+00:00"
-    },
     {
       "arxiv_id": "2610.22350",
       "title": "FDE-Gym: The Last Mile of AI Delivery",
