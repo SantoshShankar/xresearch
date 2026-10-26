@@ -869,6 +869,36 @@
       "title": "Metacognitive Scaffolds Create Productive Friction for AI-Assisted Knowledge Work",
       "score": 6.0,
       "sent_at": "2026-10-25T12:48:59.802875+00:00"
+    },
+    {
+      "arxiv_id": "2610.31668",
+      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050491+00:00"
+    },
+    {
+      "arxiv_id": "2610.30932",
+      "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050511+00:00"
+    },
+    {
+      "arxiv_id": "2610.31162",
+      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050514+00:00"
+    },
+    {
+      "arxiv_id": "2610.32965",
+      "title": "RynnUnify: Towards Unified Embodied Brain",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050516+00:00"
+    },
+    {
+      "arxiv_id": "2610.32253",
+      "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050519+00:00"
     }
   ],
   "posts": []

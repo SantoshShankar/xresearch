@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-26T12:39:45.428660+00:00",
+  "updated": "2026-10-26T14:37:36.380930+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.22350",
-      "title": "FDE-Gym: The Last Mile of AI Delivery",
-      "score": 10.0,
-      "sent_at": "2026-10-16T12:47:21.733881+00:00"
-    },
-    {
-      "arxiv_id": "2610.19397",
-      "title": "SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning",
-      "score": 10.0,
-      "sent_at": "2026-10-16T12:47:21.733898+00:00"
-    },
-    {
-      "arxiv_id": "2610.18829",
-      "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
-      "score": 9.0,
-      "sent_at": "2026-10-16T12:47:21.733904+00:00"
-    },
-    {
-      "arxiv_id": "2610.21601",
-      "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-10-16T12:47:21.733907+00:00"
-    },
-    {
-      "arxiv_id": "2610.18813",
-      "title": "Self-Evolving Agent Harness",
-      "score": 9.0,
-      "sent_at": "2026-10-16T12:47:21.733911+00:00"
-    },
     {
       "arxiv_id": "2610.22276",
       "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
@@ -300,6 +270,36 @@
       "title": "Metacognitive Scaffolds Create Productive Friction for AI-Assisted Knowledge Work",
       "score": 6.0,
       "sent_at": "2026-10-25T12:48:59.802875+00:00"
+    },
+    {
+      "arxiv_id": "2610.31668",
+      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050491+00:00"
+    },
+    {
+      "arxiv_id": "2610.30932",
+      "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050511+00:00"
+    },
+    {
+      "arxiv_id": "2610.31162",
+      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050514+00:00"
+    },
+    {
+      "arxiv_id": "2610.32965",
+      "title": "RynnUnify: Towards Unified Embodied Brain",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050516+00:00"
+    },
+    {
+      "arxiv_id": "2610.32253",
+      "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+      "score": 9.0,
+      "sent_at": "2026-10-26T14:37:36.050519+00:00"
     }
   ],
   "posts": []
