@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2609.30057",
-      "title": "KREX: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity",
-      "score": 6.0,
-      "sent_at": "2026-09-27T13:22:03.658316+00:00"
-    },
-    {
-      "arxiv_id": "2609.29958",
-      "title": "Multi-Dimensional Matching",
-      "score": 6.0,
-      "sent_at": "2026-09-27T13:22:03.658334+00:00"
-    },
-    {
-      "arxiv_id": "2609.28963",
-      "title": "Back to the Definition: Estimating Step-Level Advantages via Trajectory Graphs for Agentic Reinforcement Learning",
-      "score": 6.0,
-      "sent_at": "2026-09-27T13:22:03.658338+00:00"
-    },
-    {
-      "arxiv_id": "2609.28843",
-      "title": "Blockchain-Enabled Artificial Intelligence and AI Agents for Secure Data Sharing and Cybersecurity Applications",
-      "score": 6.0,
-      "sent_at": "2026-09-27T13:22:03.658342+00:00"
-    },
-    {
-      "arxiv_id": "2609.28182",
-      "title": "Finite-Sample Probabilistic Safety Certification for AI-Based Grid-Edge Coordination",
-      "score": 6.0,
-      "sent_at": "2026-09-27T13:22:03.658348+00:00"
-    },
-    {
       "arxiv_id": "2609.31590",
       "title": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs",
       "score": 10.0,
@@ -899,6 +869,36 @@
       "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
       "score": 9.0,
       "sent_at": "2026-10-26T14:37:36.050519+00:00"
+    },
+    {
+      "arxiv_id": "2610.34238",
+      "title": "Δτ-Bench: Pushing Agents Toward a Moving Capability",
+      "score": 10.0,
+      "sent_at": "2026-10-27T13:41:35.798869+00:00"
+    },
+    {
+      "arxiv_id": "2610.33568",
+      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-27T13:41:35.798885+00:00"
+    },
+    {
+      "arxiv_id": "2610.34662",
+      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+      "score": 9.0,
+      "sent_at": "2026-10-27T13:41:35.798889+00:00"
+    },
+    {
+      "arxiv_id": "2610.34467",
+      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+      "score": 9.0,
+      "sent_at": "2026-10-27T13:41:35.798893+00:00"
+    },
+    {
+      "arxiv_id": "2610.32285",
+      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+      "score": 9.0,
+      "sent_at": "2026-10-27T13:41:35.798896+00:00"
     }
   ],
   "posts": []
