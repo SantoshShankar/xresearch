@@ -899,6 +899,36 @@
       "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
       "score": 9.0,
       "sent_at": "2026-10-27T13:41:35.798896+00:00"
+    },
+    {
+      "arxiv_id": "2610.36077",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-28T14:36:30.454608+00:00"
+    },
+    {
+      "arxiv_id": "2610.34283",
+      "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-10-28T14:36:30.454625+00:00"
+    },
+    {
+      "arxiv_id": "2610.37381",
+      "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+      "score": 9.0,
+      "sent_at": "2026-10-28T14:36:30.454629+00:00"
+    },
+    {
+      "arxiv_id": "2610.36729",
+      "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+      "score": 9.0,
+      "sent_at": "2026-10-28T14:36:30.454632+00:00"
+    },
+    {
+      "arxiv_id": "2610.24520",
+      "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory",
+      "score": 9.0,
+      "sent_at": "2026-10-28T14:36:30.454635+00:00"
     }
   ],
   "posts": []
