@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-28T05:07:44.648214+00:00",
+  "updated": "2026-10-28T12:32:26.189698+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.22269",
-      "title": "X-RIC: An Agentic RAN-Intelligent Controller Benchmark for Enhancing Reinforcement Learning",
-      "score": 6.0,
-      "sent_at": "2026-10-18T12:13:30.781237+00:00"
-    },
-    {
-      "arxiv_id": "2610.22016",
-      "title": "Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches",
-      "score": 6.0,
-      "sent_at": "2026-10-18T12:13:30.781253+00:00"
-    },
-    {
-      "arxiv_id": "2610.21948",
-      "title": "Following Delegation Traces to Study Human Oversight in Interaction with Multimodal AI",
-      "score": 6.0,
-      "sent_at": "2026-10-18T12:13:30.781257+00:00"
-    },
-    {
-      "arxiv_id": "2610.21411",
-      "title": "Jev-LiteMAS: Separating Decisions from Generation in Multi-Agent Workflows",
-      "score": 6.0,
-      "sent_at": "2026-10-18T12:13:30.781261+00:00"
-    },
-    {
-      "arxiv_id": "2610.21113",
-      "title": "SSR: Structural Signal Retriever for Scalable Agent Discovery in LLM-Orchestrated Multi-Agent Systems",
-      "score": 6.0,
-      "sent_at": "2026-10-18T12:13:30.781265+00:00"
-    },
     {
       "arxiv_id": "2610.20424",
       "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
