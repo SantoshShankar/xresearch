@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2609.35347",
-      "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463504+00:00"
-    },
-    {
-      "arxiv_id": "2609.33757",
-      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463524+00:00"
-    },
-    {
-      "arxiv_id": "2609.29233",
-      "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463530+00:00"
-    },
-    {
-      "arxiv_id": "2609.35432",
-      "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463534+00:00"
-    },
-    {
-      "arxiv_id": "2609.31948",
-      "title": "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue",
-      "score": 9.0,
-      "sent_at": "2026-09-29T14:24:38.463541+00:00"
-    },
-    {
       "arxiv_id": "2609.33439",
       "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory",
       "score": 9.0,
       "sent_at": "2026-10-28T14:36:30.454635+00:00"
+    },
+    {
+      "arxiv_id": "2610.35201",
+      "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969788+00:00"
+    },
+    {
+      "arxiv_id": "2610.32749",
+      "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969800+00:00"
+    },
+    {
+      "arxiv_id": "2610.35684",
+      "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969802+00:00"
+    },
+    {
+      "arxiv_id": "2610.31670",
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969803+00:00"
+    },
+    {
+      "arxiv_id": "2610.22507",
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969804+00:00"
     }
   ],
   "posts": []

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:42:59.135821+00:00",
+  "updated": "2026-10-29T14:42:52.150774+00:00",
   "papers": [
     {
       "arxiv_id": "2610.20424",
@@ -300,6 +300,36 @@
       "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory",
       "score": 9.0,
       "sent_at": "2026-10-28T14:36:30.454635+00:00"
+    },
+    {
+      "arxiv_id": "2610.35201",
+      "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969788+00:00"
+    },
+    {
+      "arxiv_id": "2610.32749",
+      "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969800+00:00"
+    },
+    {
+      "arxiv_id": "2610.35684",
+      "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969802+00:00"
+    },
+    {
+      "arxiv_id": "2610.31670",
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969803+00:00"
+    },
+    {
+      "arxiv_id": "2610.22507",
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
+      "score": 9.0,
+      "sent_at": "2026-10-29T14:42:51.969804+00:00"
     }
   ],
   "posts": []
