@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-29T14:42:52.150774+00:00",
+  "updated": "2026-10-29T22:38:40.195087+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.20424",
-      "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
-      "score": 10.0,
-      "sent_at": "2026-10-19T15:04:17.453653+00:00"
-    },
-    {
-      "arxiv_id": "2610.23787",
-      "title": "DLite: History-free Speculative Decoding for Agentic AI",
-      "score": 10.0,
-      "sent_at": "2026-10-19T15:04:17.453672+00:00"
-    },
-    {
-      "arxiv_id": "2610.22471",
-      "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
-      "score": 9.0,
-      "sent_at": "2026-10-19T15:04:17.453676+00:00"
-    },
-    {
-      "arxiv_id": "2610.21783",
-      "title": "Learning to Think and Explore in 3D World",
-      "score": 9.0,
-      "sent_at": "2026-10-19T15:04:17.453680+00:00"
-    },
-    {
-      "arxiv_id": "2610.19159",
-      "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
-      "score": 9.0,
-      "sent_at": "2026-10-19T15:04:17.453684+00:00"
-    },
     {
       "arxiv_id": "2610.26802",
       "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
