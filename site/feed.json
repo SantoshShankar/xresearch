@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-30T12:34:37.928939+00:00",
+  "updated": "2026-10-30T14:39:06.849217+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.26802",
-      "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
-      "score": 9.0,
-      "sent_at": "2026-10-20T13:09:24.097519+00:00"
-    },
-    {
-      "arxiv_id": "2610.25736",
-      "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
-      "score": 9.0,
-      "sent_at": "2026-10-20T13:09:24.097534+00:00"
-    },
-    {
-      "arxiv_id": "2610.26825",
-      "title": "MemT-1.0: Towards Memory-Native Evolution",
-      "score": 9.0,
-      "sent_at": "2026-10-20T13:09:24.097543+00:00"
-    },
-    {
-      "arxiv_id": "2610.26549",
-      "title": "Holi-World: Building Holistic World Intelligence from Human-Ego Experience",
-      "score": 9.0,
-      "sent_at": "2026-10-20T13:09:24.097547+00:00"
-    },
-    {
-      "arxiv_id": "2610.25690",
-      "title": "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation",
-      "score": 9.0,
-      "sent_at": "2026-10-20T13:09:24.097551+00:00"
-    },
     {
       "arxiv_id": "2610.28354",
       "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
@@ -300,6 +270,36 @@
       "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
       "score": 9.0,
       "sent_at": "2026-10-29T14:42:51.969804+00:00"
+    },
+    {
+      "arxiv_id": "2610.39633",
+      "title": "Intrinsic Distribution Matching",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602616+00:00"
+    },
+    {
+      "arxiv_id": "2610.38568",
+      "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602629+00:00"
+    },
+    {
+      "arxiv_id": "2610.29927",
+      "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602632+00:00"
+    },
+    {
+      "arxiv_id": "2610.36671",
+      "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602634+00:00"
+    },
+    {
+      "arxiv_id": "2610.40614",
+      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602636+00:00"
     }
   ],
   "posts": []

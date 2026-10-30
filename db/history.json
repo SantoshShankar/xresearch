@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2609.33439",
-      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-09-30T14:19:52.818957+00:00"
-    },
-    {
-      "arxiv_id": "2609.34309",
-      "title": "MaLiang-Harness: A Programmable Path to Image and Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-09-30T14:19:52.818975+00:00"
-    },
-    {
-      "arxiv_id": "2609.36012",
-      "title": "In-Context Learning for Robots: Methods and Applications",
-      "score": 9.0,
-      "sent_at": "2026-09-30T14:19:52.818979+00:00"
-    },
-    {
-      "arxiv_id": "2609.31847",
-      "title": "Omni-IO Skills: Harnessing Your Agent Omni-Native",
-      "score": 9.0,
-      "sent_at": "2026-09-30T14:19:52.818984+00:00"
-    },
-    {
-      "arxiv_id": "2609.32607",
-      "title": "VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models",
-      "score": 9.0,
-      "sent_at": "2026-09-30T14:19:52.818989+00:00"
-    },
-    {
       "arxiv_id": "2609.36484",
       "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
       "score": 9.0,
       "sent_at": "2026-10-29T14:42:51.969804+00:00"
+    },
+    {
+      "arxiv_id": "2610.39633",
+      "title": "Intrinsic Distribution Matching",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602616+00:00"
+    },
+    {
+      "arxiv_id": "2610.38568",
+      "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602629+00:00"
+    },
+    {
+      "arxiv_id": "2610.29927",
+      "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602632+00:00"
+    },
+    {
+      "arxiv_id": "2610.36671",
+      "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602634+00:00"
+    },
+    {
+      "arxiv_id": "2610.40614",
+      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+      "score": 9.0,
+      "sent_at": "2026-10-30T14:39:06.602636+00:00"
     }
   ],
   "posts": []
