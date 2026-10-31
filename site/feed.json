@@ -1,36 +1,6 @@
 {
-  "updated": "2026-10-31T12:00:32.637422+00:00",
+  "updated": "2026-10-31T13:57:22.188778+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.28354",
-      "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
-      "score": 10.0,
-      "sent_at": "2026-10-21T13:17:04.900344+00:00"
-    },
-    {
-      "arxiv_id": "2610.27999",
-      "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
-      "score": 9.0,
-      "sent_at": "2026-10-21T13:17:04.900387+00:00"
-    },
-    {
-      "arxiv_id": "2610.27628",
-      "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
-      "score": 9.0,
-      "sent_at": "2026-10-21T13:17:04.900392+00:00"
-    },
-    {
-      "arxiv_id": "2610.26203",
-      "title": "Focused Omni-Modal GUI Agents",
-      "score": 9.0,
-      "sent_at": "2026-10-21T13:17:04.900397+00:00"
-    },
-    {
-      "arxiv_id": "2610.26855",
-      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-      "score": 9.0,
-      "sent_at": "2026-10-21T13:17:04.900401+00:00"
-    },
     {
       "arxiv_id": "2610.28402",
       "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
@@ -300,6 +270,36 @@
       "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
       "score": 9.0,
       "sent_at": "2026-10-30T14:39:06.602636+00:00"
+    },
+    {
+      "arxiv_id": "2610.39301",
+      "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976932+00:00"
+    },
+    {
+      "arxiv_id": "2610.39302",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976947+00:00"
+    },
+    {
+      "arxiv_id": "2610.40647",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976950+00:00"
+    },
+    {
+      "arxiv_id": "2610.37161",
+      "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976952+00:00"
+    },
+    {
+      "arxiv_id": "2610.32411",
+      "title": "A Broader Look into MLLM's Retrieval Heads",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976953+00:00"
     }
   ],
   "posts": []

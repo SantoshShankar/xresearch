@@ -899,6 +899,36 @@
       "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
       "score": 9.0,
       "sent_at": "2026-10-30T14:39:06.602636+00:00"
+    },
+    {
+      "arxiv_id": "2610.39301",
+      "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976932+00:00"
+    },
+    {
+      "arxiv_id": "2610.39302",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976947+00:00"
+    },
+    {
+      "arxiv_id": "2610.40647",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976950+00:00"
+    },
+    {
+      "arxiv_id": "2610.37161",
+      "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976952+00:00"
+    },
+    {
+      "arxiv_id": "2610.32411",
+      "title": "A Broader Look into MLLM's Retrieval Heads",
+      "score": 9.0,
+      "sent_at": "2026-10-31T13:57:21.976953+00:00"
     }
   ],
   "posts": []
