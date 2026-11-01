@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.01509",
-      "title": "Sharpening Tax in Post-Training",
-      "score": 10.0,
-      "sent_at": "2026-10-02T14:13:59.778414+00:00"
-    },
-    {
-      "arxiv_id": "2610.02181",
-      "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
-      "score": 10.0,
-      "sent_at": "2026-10-02T14:13:59.778431+00:00"
-    },
-    {
-      "arxiv_id": "2609.37200",
-      "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
-      "score": 9.0,
-      "sent_at": "2026-10-02T14:13:59.778435+00:00"
-    },
-    {
-      "arxiv_id": "2610.01762",
-      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
-      "score": 9.0,
-      "sent_at": "2026-10-02T14:13:59.778439+00:00"
-    },
-    {
-      "arxiv_id": "2610.01415",
-      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
-      "score": 9.0,
-      "sent_at": "2026-10-02T14:13:59.778443+00:00"
-    },
-    {
       "arxiv_id": "2609.35259",
       "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "A Broader Look into MLLM's Retrieval Heads",
       "score": 9.0,
       "sent_at": "2026-10-31T13:57:21.976953+00:00"
+    },
+    {
+      "arxiv_id": "2610.39680",
+      "title": "Federated Agentic AI for Interference-Aware Adaptive Spectrum Coordination",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533882+00:00"
+    },
+    {
+      "arxiv_id": "2610.39621",
+      "title": "The Real Cost of Context: Predicting Compute Time and Energy Consumption in LLM Prefill and Decode Phases",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533900+00:00"
+    },
+    {
+      "arxiv_id": "2610.39532",
+      "title": "Judging Before Propagation: Task-Graph Contextual Integrity for Multi-Agent Privacy",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533906+00:00"
+    },
+    {
+      "arxiv_id": "2610.39395",
+      "title": "OPERA: OPamp Design by an Expert-Taught Reasoning Agent, from Specifications to Layout",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533910+00:00"
+    },
+    {
+      "arxiv_id": "2610.39230",
+      "title": "Beyond LLM Wrappers: Context Engineering and the Three-Engine Architecture for Reliable Financial AI",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533915+00:00"
     }
   ],
   "posts": []

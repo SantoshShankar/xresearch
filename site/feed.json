@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-01T13:01:09.345095+00:00",
+  "updated": "2026-11-01T14:34:35.770208+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.28402",
-      "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579877+00:00"
-    },
-    {
-      "arxiv_id": "2610.26659",
-      "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579894+00:00"
-    },
-    {
-      "arxiv_id": "2610.29997",
-      "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579898+00:00"
-    },
-    {
-      "arxiv_id": "2610.29989",
-      "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579901+00:00"
-    },
-    {
-      "arxiv_id": "2610.28577",
-      "title": "Cache Engineering for Agents",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579904+00:00"
-    },
     {
       "arxiv_id": "2610.30340",
       "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles",
@@ -300,6 +270,36 @@
       "title": "A Broader Look into MLLM's Retrieval Heads",
       "score": 9.0,
       "sent_at": "2026-10-31T13:57:21.976953+00:00"
+    },
+    {
+      "arxiv_id": "2610.39680",
+      "title": "Federated Agentic AI for Interference-Aware Adaptive Spectrum Coordination",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533882+00:00"
+    },
+    {
+      "arxiv_id": "2610.39621",
+      "title": "The Real Cost of Context: Predicting Compute Time and Energy Consumption in LLM Prefill and Decode Phases",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533900+00:00"
+    },
+    {
+      "arxiv_id": "2610.39532",
+      "title": "Judging Before Propagation: Task-Graph Contextual Integrity for Multi-Agent Privacy",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533906+00:00"
+    },
+    {
+      "arxiv_id": "2610.39395",
+      "title": "OPERA: OPamp Design by an Expert-Taught Reasoning Agent, from Specifications to Layout",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533910+00:00"
+    },
+    {
+      "arxiv_id": "2610.39230",
+      "title": "Beyond LLM Wrappers: Context Engineering and the Three-Engine Architecture for Reliable Financial AI",
+      "score": 6.0,
+      "sent_at": "2026-11-01T14:34:35.533915+00:00"
     }
   ],
   "posts": []
