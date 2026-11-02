@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:23:11.109823+00:00",
+  "updated": "2026-11-02T17:30:00.128856+00:00",
   "papers": [
     {
       "arxiv_id": "2610.30949",
@@ -270,6 +270,36 @@
       "title": "Beyond LLM Wrappers: Context Engineering and the Three-Engine Architecture for Reliable Financial AI",
       "score": 6.0,
       "sent_at": "2026-11-01T14:34:35.533915+00:00"
+    },
+    {
+      "arxiv_id": "2610.36545",
+      "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-02T17:29:59.929268+00:00"
+    },
+    {
+      "arxiv_id": "2610.22740",
+      "title": "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
+      "score": 9.0,
+      "sent_at": "2026-11-02T17:29:59.929285+00:00"
+    },
+    {
+      "arxiv_id": "2610.39497",
+      "title": "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?",
+      "score": 9.0,
+      "sent_at": "2026-11-02T17:29:59.929288+00:00"
+    },
+    {
+      "arxiv_id": "2610.42053",
+      "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
+      "score": 9.0,
+      "sent_at": "2026-11-02T17:29:59.929290+00:00"
+    },
+    {
+      "arxiv_id": "2610.40738",
+      "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+      "score": 9.0,
+      "sent_at": "2026-11-02T17:29:59.929294+00:00"
     }
   ],
   "posts": []
