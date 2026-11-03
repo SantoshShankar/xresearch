@@ -869,6 +869,36 @@
       "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
       "score": 9.0,
       "sent_at": "2026-11-02T17:29:59.929294+00:00"
+    },
+    {
+      "arxiv_id": "2611.00859",
+      "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-03T15:32:09.443555+00:00"
+    },
+    {
+      "arxiv_id": "2611.03178",
+      "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+      "score": 9.0,
+      "sent_at": "2026-11-03T15:32:09.443572+00:00"
+    },
+    {
+      "arxiv_id": "2611.03126",
+      "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+      "score": 9.0,
+      "sent_at": "2026-11-03T15:32:09.443575+00:00"
+    },
+    {
+      "arxiv_id": "2611.01860",
+      "title": "Advances in Agentic Computer Graphics",
+      "score": 9.0,
+      "sent_at": "2026-11-03T15:32:09.443576+00:00"
+    },
+    {
+      "arxiv_id": "2610.40191",
+      "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+      "score": 9.0,
+      "sent_at": "2026-11-03T15:32:09.443578+00:00"
     }
   ],
   "posts": []
