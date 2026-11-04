@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T14:10:55.623256+00:00",
+  "updated": "2026-11-04T15:49:52.383836+00:00",
   "papers": [
     {
       "arxiv_id": "2610.31668",
@@ -270,6 +270,36 @@
       "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
       "score": 9.0,
       "sent_at": "2026-11-03T15:32:09.443578+00:00"
+    },
+    {
+      "arxiv_id": "2611.03233",
+      "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
+      "score": 10.0,
+      "sent_at": "2026-11-04T15:49:52.173597+00:00"
+    },
+    {
+      "arxiv_id": "2611.03998",
+      "title": "Dory1.0-4B: A Looped Normalized-GPT",
+      "score": 10.0,
+      "sent_at": "2026-11-04T15:49:52.173613+00:00"
+    },
+    {
+      "arxiv_id": "2611.05275",
+      "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+      "score": 9.0,
+      "sent_at": "2026-11-04T15:49:52.173616+00:00"
+    },
+    {
+      "arxiv_id": "2611.04814",
+      "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+      "score": 9.0,
+      "sent_at": "2026-11-04T15:49:52.173619+00:00"
+    },
+    {
+      "arxiv_id": "2611.00617",
+      "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+      "score": 9.0,
+      "sent_at": "2026-11-04T15:49:52.173621+00:00"
     }
   ],
   "posts": []
