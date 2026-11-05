@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.05608",
-      "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482100+00:00"
-    },
-    {
-      "arxiv_id": "2610.04198",
-      "title": "ALoDLM: Adaptively Looped Diffusion Language Models",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482120+00:00"
-    },
-    {
-      "arxiv_id": "2610.05162",
-      "title": "Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482123+00:00"
-    },
-    {
-      "arxiv_id": "2610.03120",
-      "title": "In-Distribution Forcing for Long Video Generation at Test Time",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482125+00:00"
-    },
-    {
-      "arxiv_id": "2609.37267",
-      "title": "Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym",
-      "score": 9.0,
-      "sent_at": "2026-10-06T14:33:00.482129+00:00"
-    },
-    {
       "arxiv_id": "2610.05140",
       "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
       "score": 10.0,
@@ -899,6 +869,36 @@
       "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
       "score": 9.0,
       "sent_at": "2026-11-04T15:49:52.173621+00:00"
+    },
+    {
+      "arxiv_id": "2611.06918",
+      "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "score": 9.0,
+      "sent_at": "2026-11-05T15:51:55.761374+00:00"
+    },
+    {
+      "arxiv_id": "2611.06728",
+      "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+      "score": 9.0,
+      "sent_at": "2026-11-05T15:51:55.761393+00:00"
+    },
+    {
+      "arxiv_id": "2610.37257",
+      "title": "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling",
+      "score": 9.0,
+      "sent_at": "2026-11-05T15:51:55.761397+00:00"
+    },
+    {
+      "arxiv_id": "2611.06910",
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "score": 9.0,
+      "sent_at": "2026-11-05T15:51:55.761401+00:00"
+    },
+    {
+      "arxiv_id": "2611.06483",
+      "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+      "score": 9.0,
+      "sent_at": "2026-11-05T15:51:55.761405+00:00"
     }
   ],
   "posts": []
