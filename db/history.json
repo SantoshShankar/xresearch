@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.05140",
-      "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
-      "score": 10.0,
-      "sent_at": "2026-10-07T14:49:43.522358+00:00"
-    },
-    {
-      "arxiv_id": "2610.08448",
-      "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522377+00:00"
-    },
-    {
-      "arxiv_id": "2610.03543",
-      "title": "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522380+00:00"
-    },
-    {
-      "arxiv_id": "2610.07767",
-      "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522382+00:00"
-    },
-    {
-      "arxiv_id": "2610.05030",
-      "title": "EVISKILL: Grounding Skill Evolution in Replayable Evidence",
-      "score": 9.0,
-      "sent_at": "2026-10-07T14:49:43.522385+00:00"
-    },
-    {
       "arxiv_id": "2610.09832",
       "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
       "score": 10.0,
@@ -899,6 +869,36 @@
       "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
       "score": 9.0,
       "sent_at": "2026-11-05T15:51:55.761405+00:00"
+    },
+    {
+      "arxiv_id": "2611.08449",
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520516+00:00"
+    },
+    {
+      "arxiv_id": "2611.04277",
+      "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520534+00:00"
+    },
+    {
+      "arxiv_id": "2611.00883",
+      "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520537+00:00"
+    },
+    {
+      "arxiv_id": "2611.07392",
+      "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520540+00:00"
+    },
+    {
+      "arxiv_id": "2611.06741",
+      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520544+00:00"
     }
   ],
   "posts": []
