@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-06T06:02:35.925797+00:00",
+  "updated": "2026-11-06T15:26:50.763504+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.34238",
-      "title": "Δτ-Bench: Pushing Agents Toward a Moving Capability",
-      "score": 10.0,
-      "sent_at": "2026-10-27T13:41:35.798869+00:00"
-    },
-    {
-      "arxiv_id": "2610.33568",
-      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798885+00:00"
-    },
-    {
-      "arxiv_id": "2610.34662",
-      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798889+00:00"
-    },
-    {
-      "arxiv_id": "2610.34467",
-      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798893+00:00"
-    },
-    {
-      "arxiv_id": "2610.32285",
-      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798896+00:00"
-    },
     {
       "arxiv_id": "2610.36077",
       "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
@@ -300,6 +270,36 @@
       "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
       "score": 9.0,
       "sent_at": "2026-11-05T15:51:55.761405+00:00"
+    },
+    {
+      "arxiv_id": "2611.08449",
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520516+00:00"
+    },
+    {
+      "arxiv_id": "2611.04277",
+      "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520534+00:00"
+    },
+    {
+      "arxiv_id": "2611.00883",
+      "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520537+00:00"
+    },
+    {
+      "arxiv_id": "2611.07392",
+      "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520540+00:00"
+    },
+    {
+      "arxiv_id": "2611.06741",
+      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
+      "score": 9.0,
+      "sent_at": "2026-11-06T15:26:50.520544+00:00"
     }
   ],
   "posts": []
