@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:46:50.935541+00:00",
+  "updated": "2026-11-07T14:27:40.603477+00:00",
   "papers": [
     {
       "arxiv_id": "2610.36077",
@@ -300,6 +300,36 @@
       "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
       "score": 9.0,
       "sent_at": "2026-11-06T15:26:50.520544+00:00"
+    },
+    {
+      "arxiv_id": "2611.08373",
+      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+      "score": 9.0,
+      "sent_at": "2026-11-07T14:27:40.381378+00:00"
+    },
+    {
+      "arxiv_id": "2611.03743",
+      "title": "EvoMemState: Evolving Memory State for Personal Agents",
+      "score": 9.0,
+      "sent_at": "2026-11-07T14:27:40.381398+00:00"
+    },
+    {
+      "arxiv_id": "2611.07854",
+      "title": "Towards Foundation Decision Models: Drex",
+      "score": 9.0,
+      "sent_at": "2026-11-07T14:27:40.381403+00:00"
+    },
+    {
+      "arxiv_id": "2611.04894",
+      "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
+      "score": 9.0,
+      "sent_at": "2026-11-07T14:27:40.381407+00:00"
+    },
+    {
+      "arxiv_id": "2611.06817",
+      "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+      "score": 9.0,
+      "sent_at": "2026-11-07T14:27:40.381411+00:00"
     }
   ],
   "posts": []
