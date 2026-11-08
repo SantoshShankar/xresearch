@@ -899,6 +899,36 @@
       "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
       "score": 9.0,
       "sent_at": "2026-11-07T14:27:40.381411+00:00"
+    },
+    {
+      "arxiv_id": "2611.08417",
+      "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+      "score": 6.0,
+      "sent_at": "2026-11-08T14:36:56.041761+00:00"
+    },
+    {
+      "arxiv_id": "2611.07667",
+      "title": "Who Should Know What? Empirical Information Design for Multi-Agent LLM Economies",
+      "score": 6.0,
+      "sent_at": "2026-11-08T14:36:56.041778+00:00"
+    },
+    {
+      "arxiv_id": "2611.07238",
+      "title": "How Do AI Agents Waste Your Money?",
+      "score": 6.0,
+      "sent_at": "2026-11-08T14:36:56.041781+00:00"
+    },
+    {
+      "arxiv_id": "2611.06989",
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "score": 6.0,
+      "sent_at": "2026-11-08T14:36:56.041783+00:00"
+    },
+    {
+      "arxiv_id": "2611.06554",
+      "title": "RAGAM-AI: A Hybrid Reinforcement Learning based Agentic approach powered by Generative AI for Edge Resource Management",
+      "score": 6.0,
+      "sent_at": "2026-11-08T14:36:56.041786+00:00"
     }
   ],
   "posts": []
