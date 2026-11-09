@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T15:50:04.460829+00:00",
+  "updated": "2026-11-09T17:53:47.962796+00:00",
   "papers": [
     {
       "arxiv_id": "2610.39301",
@@ -270,6 +270,36 @@
       "title": "RAGAM-AI: A Hybrid Reinforcement Learning based Agentic approach powered by Generative AI for Edge Resource Management",
       "score": 6.0,
       "sent_at": "2026-11-08T14:36:56.041786+00:00"
+    },
+    {
+      "arxiv_id": "2611.09382",
+      "title": "Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+      "score": 10.0,
+      "sent_at": "2026-11-09T17:53:47.707310+00:00"
+    },
+    {
+      "arxiv_id": "2611.08264",
+      "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+      "score": 9.0,
+      "sent_at": "2026-11-09T17:53:47.707328+00:00"
+    },
+    {
+      "arxiv_id": "2611.03953",
+      "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+      "score": 9.0,
+      "sent_at": "2026-11-09T17:53:47.707332+00:00"
+    },
+    {
+      "arxiv_id": "2611.06856",
+      "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+      "score": 9.0,
+      "sent_at": "2026-11-09T17:53:47.707336+00:00"
+    },
+    {
+      "arxiv_id": "2611.07624",
+      "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
+      "score": 9.0,
+      "sent_at": "2026-11-09T17:53:47.707340+00:00"
     }
   ],
   "posts": []
