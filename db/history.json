@@ -869,6 +869,36 @@
       "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
       "score": 9.0,
       "sent_at": "2026-11-09T17:53:47.707340+00:00"
+    },
+    {
+      "arxiv_id": "2611.12806",
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "score": 9.0,
+      "sent_at": "2026-11-10T15:52:53.275965+00:00"
+    },
+    {
+      "arxiv_id": "2611.10771",
+      "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-11-10T15:52:53.275983+00:00"
+    },
+    {
+      "arxiv_id": "2611.12762",
+      "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+      "score": 9.0,
+      "sent_at": "2026-11-10T15:52:53.275986+00:00"
+    },
+    {
+      "arxiv_id": "2611.12886",
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-11-10T15:52:53.275988+00:00"
+    },
+    {
+      "arxiv_id": "2610.42148",
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "score": 9.0,
+      "sent_at": "2026-11-10T15:52:53.275991+00:00"
     }
   ],
   "posts": []
