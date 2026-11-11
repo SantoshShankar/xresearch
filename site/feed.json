@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-11T13:56:03.606637+00:00",
+  "updated": "2026-11-11T15:40:26.840450+00:00",
   "papers": [
-    {
-      "arxiv_id": "2610.39680",
-      "title": "Federated Agentic AI for Interference-Aware Adaptive Spectrum Coordination",
-      "score": 6.0,
-      "sent_at": "2026-11-01T14:34:35.533882+00:00"
-    },
-    {
-      "arxiv_id": "2610.39621",
-      "title": "The Real Cost of Context: Predicting Compute Time and Energy Consumption in LLM Prefill and Decode Phases",
-      "score": 6.0,
-      "sent_at": "2026-11-01T14:34:35.533900+00:00"
-    },
-    {
-      "arxiv_id": "2610.39532",
-      "title": "Judging Before Propagation: Task-Graph Contextual Integrity for Multi-Agent Privacy",
-      "score": 6.0,
-      "sent_at": "2026-11-01T14:34:35.533906+00:00"
-    },
-    {
-      "arxiv_id": "2610.39395",
-      "title": "OPERA: OPamp Design by an Expert-Taught Reasoning Agent, from Specifications to Layout",
-      "score": 6.0,
-      "sent_at": "2026-11-01T14:34:35.533910+00:00"
-    },
-    {
-      "arxiv_id": "2610.39230",
-      "title": "Beyond LLM Wrappers: Context Engineering and the Three-Engine Architecture for Reliable Financial AI",
-      "score": 6.0,
-      "sent_at": "2026-11-01T14:34:35.533915+00:00"
-    },
     {
       "arxiv_id": "2610.36545",
       "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
@@ -300,6 +270,36 @@
       "title": "Flide: Accelerating Decision Inference with Exact State Forking",
       "score": 9.0,
       "sent_at": "2026-11-10T15:52:53.275991+00:00"
+    },
+    {
+      "arxiv_id": "2611.14320",
+      "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+      "score": 10.0,
+      "sent_at": "2026-11-11T15:40:26.495760+00:00"
+    },
+    {
+      "arxiv_id": "2611.14210",
+      "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495776+00:00"
+    },
+    {
+      "arxiv_id": "2611.12885",
+      "title": "World In-Context Learning for Agentic Robot Manipulation",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495781+00:00"
+    },
+    {
+      "arxiv_id": "2611.14033",
+      "title": "Few-Step Streaming Video Generation via Condition Shifting",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495786+00:00"
+    },
+    {
+      "arxiv_id": "2611.12426",
+      "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495789+00:00"
     }
   ],
   "posts": []

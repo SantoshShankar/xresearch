@@ -899,6 +899,36 @@
       "title": "Flide: Accelerating Decision Inference with Exact State Forking",
       "score": 9.0,
       "sent_at": "2026-11-10T15:52:53.275991+00:00"
+    },
+    {
+      "arxiv_id": "2611.14320",
+      "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+      "score": 10.0,
+      "sent_at": "2026-11-11T15:40:26.495760+00:00"
+    },
+    {
+      "arxiv_id": "2611.14210",
+      "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495776+00:00"
+    },
+    {
+      "arxiv_id": "2611.12885",
+      "title": "World In-Context Learning for Agentic Robot Manipulation",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495781+00:00"
+    },
+    {
+      "arxiv_id": "2611.14033",
+      "title": "Few-Step Streaming Video Generation via Condition Shifting",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495786+00:00"
+    },
+    {
+      "arxiv_id": "2611.12426",
+      "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
+      "score": 9.0,
+      "sent_at": "2026-11-11T15:40:26.495789+00:00"
     }
   ],
   "posts": []
