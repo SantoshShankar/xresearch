@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.13361",
-      "title": "AgentSWE: Can Coding Agents Build the Agent You Actually Want?",
-      "score": 9.0,
-      "sent_at": "2026-10-13T15:21:41.947881+00:00"
-    },
-    {
-      "arxiv_id": "2609.39601",
-      "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
-      "score": 9.0,
-      "sent_at": "2026-10-13T15:21:41.947899+00:00"
-    },
-    {
-      "arxiv_id": "2610.11765",
-      "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
-      "score": 9.0,
-      "sent_at": "2026-10-13T15:21:41.947902+00:00"
-    },
-    {
-      "arxiv_id": "2610.13166",
-      "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-10-13T15:21:41.947903+00:00"
-    },
-    {
-      "arxiv_id": "2610.09326",
-      "title": "VIS-Ground: Video Interactive Storytelling with Contextual Grounding",
-      "score": 9.0,
-      "sent_at": "2026-10-13T15:21:41.947906+00:00"
-    },
-    {
       "arxiv_id": "2610.17953",
       "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
       "score": 10.0,
@@ -899,6 +869,36 @@
       "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
       "score": 9.0,
       "sent_at": "2026-11-11T15:40:26.495789+00:00"
+    },
+    {
+      "arxiv_id": "2611.13410",
+      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+      "score": 10.0,
+      "sent_at": "2026-11-12T16:24:01.904125+00:00"
+    },
+    {
+      "arxiv_id": "2610.40394",
+      "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904143+00:00"
+    },
+    {
+      "arxiv_id": "2610.39671",
+      "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904149+00:00"
+    },
+    {
+      "arxiv_id": "2608.22237",
+      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904154+00:00"
+    },
+    {
+      "arxiv_id": "2611.10193",
+      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904159+00:00"
     }
   ],
   "posts": []
