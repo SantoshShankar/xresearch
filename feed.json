@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:57:06.278048+00:00",
+  "updated": "2026-11-12T16:24:02.128920+00:00",
   "papers": [
     {
       "arxiv_id": "2610.36545",
@@ -300,6 +300,36 @@
       "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
       "score": 9.0,
       "sent_at": "2026-11-11T15:40:26.495789+00:00"
+    },
+    {
+      "arxiv_id": "2611.13410",
+      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+      "score": 10.0,
+      "sent_at": "2026-11-12T16:24:01.904125+00:00"
+    },
+    {
+      "arxiv_id": "2610.40394",
+      "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904143+00:00"
+    },
+    {
+      "arxiv_id": "2610.39671",
+      "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904149+00:00"
+    },
+    {
+      "arxiv_id": "2608.22237",
+      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904154+00:00"
+    },
+    {
+      "arxiv_id": "2611.10193",
+      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
+      "score": 9.0,
+      "sent_at": "2026-11-12T16:24:01.904159+00:00"
     }
   ],
   "posts": []
