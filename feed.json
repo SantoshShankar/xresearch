@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-13T06:05:41.416406+00:00",
+  "updated": "2026-11-13T15:45:33.945043+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.00859",
-      "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-11-03T15:32:09.443555+00:00"
-    },
-    {
-      "arxiv_id": "2611.03178",
-      "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
-      "score": 9.0,
-      "sent_at": "2026-11-03T15:32:09.443572+00:00"
-    },
-    {
-      "arxiv_id": "2611.03126",
-      "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
-      "score": 9.0,
-      "sent_at": "2026-11-03T15:32:09.443575+00:00"
-    },
-    {
-      "arxiv_id": "2611.01860",
-      "title": "Advances in Agentic Computer Graphics",
-      "score": 9.0,
-      "sent_at": "2026-11-03T15:32:09.443576+00:00"
-    },
-    {
-      "arxiv_id": "2610.40191",
-      "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
-      "score": 9.0,
-      "sent_at": "2026-11-03T15:32:09.443578+00:00"
-    },
     {
       "arxiv_id": "2611.03233",
       "title": "Axion 1.0: Open Agent Foundation Models, Simplified",
@@ -300,6 +270,36 @@
       "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
       "score": 9.0,
       "sent_at": "2026-11-12T16:24:01.904159+00:00"
+    },
+    {
+      "arxiv_id": "2611.16409",
+      "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+      "score": 10.0,
+      "sent_at": "2026-11-13T15:45:33.587243+00:00"
+    },
+    {
+      "arxiv_id": "2611.15777",
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587262+00:00"
+    },
+    {
+      "arxiv_id": "2611.14815",
+      "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587265+00:00"
+    },
+    {
+      "arxiv_id": "2611.13004",
+      "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587267+00:00"
+    },
+    {
+      "arxiv_id": "2611.15131",
+      "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587269+00:00"
     }
   ],
   "posts": []
