@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.17953",
-      "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
-      "score": 10.0,
-      "sent_at": "2026-10-14T13:09:17.799739+00:00"
-    },
-    {
-      "arxiv_id": "2610.18067",
-      "title": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
-      "score": 10.0,
-      "sent_at": "2026-10-14T13:09:17.799757+00:00"
-    },
-    {
-      "arxiv_id": "2610.18773",
-      "title": "Jeva: System One Models from First Principles",
-      "score": 9.0,
-      "sent_at": "2026-10-14T13:09:17.799763+00:00"
-    },
-    {
-      "arxiv_id": "2610.18356",
-      "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-      "score": 9.0,
-      "sent_at": "2026-10-14T13:09:17.799767+00:00"
-    },
-    {
-      "arxiv_id": "2610.18615",
-      "title": "VideoJev: System One Model for Video Understanding and Interaction",
-      "score": 9.0,
-      "sent_at": "2026-10-14T13:09:17.799771+00:00"
-    },
-    {
       "arxiv_id": "2610.18861",
       "title": "Hybrid Reasoning Agents",
       "score": 10.0,
@@ -899,6 +869,36 @@
       "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
       "score": 9.0,
       "sent_at": "2026-11-12T16:24:01.904159+00:00"
+    },
+    {
+      "arxiv_id": "2611.16409",
+      "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
+      "score": 10.0,
+      "sent_at": "2026-11-13T15:45:33.587243+00:00"
+    },
+    {
+      "arxiv_id": "2611.15777",
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587262+00:00"
+    },
+    {
+      "arxiv_id": "2611.14815",
+      "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587265+00:00"
+    },
+    {
+      "arxiv_id": "2611.13004",
+      "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587267+00:00"
+    },
+    {
+      "arxiv_id": "2611.15131",
+      "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+      "score": 9.0,
+      "sent_at": "2026-11-13T15:45:33.587269+00:00"
     }
   ],
   "posts": []
