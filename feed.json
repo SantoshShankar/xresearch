@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T13:18:52.578303+00:00",
+  "updated": "2026-11-14T14:35:12.126121+00:00",
   "papers": [
     {
       "arxiv_id": "2611.03233",
@@ -300,6 +300,36 @@
       "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
       "score": 9.0,
       "sent_at": "2026-11-13T15:45:33.587269+00:00"
+    },
+    {
+      "arxiv_id": "2611.16748",
+      "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+      "score": 9.0,
+      "sent_at": "2026-11-14T14:35:11.897132+00:00"
+    },
+    {
+      "arxiv_id": "2611.15844",
+      "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+      "score": 9.0,
+      "sent_at": "2026-11-14T14:35:11.897149+00:00"
+    },
+    {
+      "arxiv_id": "2611.17167",
+      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+      "score": 9.0,
+      "sent_at": "2026-11-14T14:35:11.897151+00:00"
+    },
+    {
+      "arxiv_id": "2611.05984",
+      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+      "score": 9.0,
+      "sent_at": "2026-11-14T14:35:11.897153+00:00"
+    },
+    {
+      "arxiv_id": "2611.17060",
+      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+      "score": 9.0,
+      "sent_at": "2026-11-14T14:35:11.897156+00:00"
     }
   ],
   "posts": []
