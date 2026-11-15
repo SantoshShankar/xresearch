@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T13:46:39.035440+00:00",
+  "updated": "2026-11-15T15:02:59.813767+00:00",
   "papers": [
     {
       "arxiv_id": "2611.06918",
@@ -300,6 +300,36 @@
       "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
       "score": 9.0,
       "sent_at": "2026-11-14T14:35:11.897156+00:00"
+    },
+    {
+      "arxiv_id": "2611.17114",
+      "title": "Designing Institutions for Autonomous AI",
+      "score": 6.0,
+      "sent_at": "2026-11-15T15:02:59.587132+00:00"
+    },
+    {
+      "arxiv_id": "2611.16991",
+      "title": "AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design",
+      "score": 6.0,
+      "sent_at": "2026-11-15T15:02:59.587147+00:00"
+    },
+    {
+      "arxiv_id": "2611.16861",
+      "title": "Visual Cipher Bench: Benchmarking LLM Agents on Long-Horizon Visual Reasoning",
+      "score": 6.0,
+      "sent_at": "2026-11-15T15:02:59.587150+00:00"
+    },
+    {
+      "arxiv_id": "2611.16726",
+      "title": "From Data to Wisdom: Rethinking AI Through an Epistemic Lens",
+      "score": 6.0,
+      "sent_at": "2026-11-15T15:02:59.587153+00:00"
+    },
+    {
+      "arxiv_id": "2611.16082",
+      "title": "Gradient-Aware AI Agents for Autonomous Turbulence Model Discovery via Differentiable CFD",
+      "score": 6.0,
+      "sent_at": "2026-11-15T15:02:59.587157+00:00"
     }
   ],
   "posts": []
