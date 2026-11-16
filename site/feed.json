@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-16T15:26:37.567572+00:00",
+  "updated": "2026-11-16T17:35:05.534904+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.08449",
-      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-      "score": 9.0,
-      "sent_at": "2026-11-06T15:26:50.520516+00:00"
-    },
-    {
-      "arxiv_id": "2611.04277",
-      "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
-      "score": 9.0,
-      "sent_at": "2026-11-06T15:26:50.520534+00:00"
-    },
-    {
-      "arxiv_id": "2611.00883",
-      "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
-      "score": 9.0,
-      "sent_at": "2026-11-06T15:26:50.520537+00:00"
-    },
-    {
-      "arxiv_id": "2611.07392",
-      "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-11-06T15:26:50.520540+00:00"
-    },
-    {
-      "arxiv_id": "2611.06741",
-      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
-      "score": 9.0,
-      "sent_at": "2026-11-06T15:26:50.520544+00:00"
-    },
     {
       "arxiv_id": "2611.08373",
       "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
@@ -300,6 +270,36 @@
       "title": "Gradient-Aware AI Agents for Autonomous Turbulence Model Discovery via Differentiable CFD",
       "score": 6.0,
       "sent_at": "2026-11-15T15:02:59.587157+00:00"
+    },
+    {
+      "arxiv_id": "2611.17820",
+      "title": "Aligning AI Teams",
+      "score": 10.0,
+      "sent_at": "2026-11-16T17:35:05.305715+00:00"
+    },
+    {
+      "arxiv_id": "2611.17955",
+      "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+      "score": 10.0,
+      "sent_at": "2026-11-16T17:35:05.305732+00:00"
+    },
+    {
+      "arxiv_id": "2611.17440",
+      "title": "Interpreting Coding Agents Through Their Behavioral Trajectories",
+      "score": 10.0,
+      "sent_at": "2026-11-16T17:35:05.305735+00:00"
+    },
+    {
+      "arxiv_id": "2611.18359",
+      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+      "score": 9.0,
+      "sent_at": "2026-11-16T17:35:05.305738+00:00"
+    },
+    {
+      "arxiv_id": "2611.18397",
+      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "score": 9.0,
+      "sent_at": "2026-11-16T17:35:05.305741+00:00"
     }
   ],
   "posts": []

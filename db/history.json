@@ -869,6 +869,36 @@
       "title": "Gradient-Aware AI Agents for Autonomous Turbulence Model Discovery via Differentiable CFD",
       "score": 6.0,
       "sent_at": "2026-11-15T15:02:59.587157+00:00"
+    },
+    {
+      "arxiv_id": "2611.17820",
+      "title": "Aligning AI Teams",
+      "score": 10.0,
+      "sent_at": "2026-11-16T17:35:05.305715+00:00"
+    },
+    {
+      "arxiv_id": "2611.17955",
+      "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+      "score": 10.0,
+      "sent_at": "2026-11-16T17:35:05.305732+00:00"
+    },
+    {
+      "arxiv_id": "2611.17440",
+      "title": "Interpreting Coding Agents Through Their Behavioral Trajectories",
+      "score": 10.0,
+      "sent_at": "2026-11-16T17:35:05.305735+00:00"
+    },
+    {
+      "arxiv_id": "2611.18359",
+      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+      "score": 9.0,
+      "sent_at": "2026-11-16T17:35:05.305738+00:00"
+    },
+    {
+      "arxiv_id": "2611.18397",
+      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "score": 9.0,
+      "sent_at": "2026-11-16T17:35:05.305741+00:00"
     }
   ],
   "posts": []
