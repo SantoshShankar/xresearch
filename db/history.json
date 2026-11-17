@@ -869,6 +869,36 @@
       "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
       "score": 9.0,
       "sent_at": "2026-11-16T17:35:05.305741+00:00"
+    },
+    {
+      "arxiv_id": "2611.21607",
+      "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+      "score": 10.0,
+      "sent_at": "2026-11-17T17:08:53.171482+00:00"
+    },
+    {
+      "arxiv_id": "2611.21072",
+      "title": "Sage S2.1 Flash Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-11-17T17:08:53.171502+00:00"
+    },
+    {
+      "arxiv_id": "2611.19937",
+      "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+      "score": 9.0,
+      "sent_at": "2026-11-17T17:08:53.171507+00:00"
+    },
+    {
+      "arxiv_id": "2611.21218",
+      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+      "score": 9.0,
+      "sent_at": "2026-11-17T17:08:53.171511+00:00"
+    },
+    {
+      "arxiv_id": "2611.21003",
+      "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+      "score": 9.0,
+      "sent_at": "2026-11-17T17:08:53.171519+00:00"
     }
   ],
   "posts": []
