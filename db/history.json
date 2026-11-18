@@ -869,6 +869,36 @@
       "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
       "score": 9.0,
       "sent_at": "2026-11-17T17:08:53.171519+00:00"
+    },
+    {
+      "arxiv_id": "2611.21791",
+      "title": "Regularized Score Centering",
+      "score": 10.0,
+      "sent_at": "2026-11-18T16:46:37.189988+00:00"
+    },
+    {
+      "arxiv_id": "2611.21605",
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "score": 10.0,
+      "sent_at": "2026-11-18T16:46:37.190002+00:00"
+    },
+    {
+      "arxiv_id": "2611.22115",
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "score": 9.0,
+      "sent_at": "2026-11-18T16:46:37.190007+00:00"
+    },
+    {
+      "arxiv_id": "2611.17621",
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "score": 9.0,
+      "sent_at": "2026-11-18T16:46:37.190011+00:00"
+    },
+    {
+      "arxiv_id": "2611.22055",
+      "title": "Weight-Space Programming Doesn't Need Transformers",
+      "score": 9.0,
+      "sent_at": "2026-11-18T16:46:37.190016+00:00"
     }
   ],
   "posts": []
