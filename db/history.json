@@ -869,6 +869,36 @@
       "title": "Weight-Space Programming Doesn't Need Transformers",
       "score": 9.0,
       "sent_at": "2026-11-18T16:46:37.190016+00:00"
+    },
+    {
+      "arxiv_id": "2611.24362",
+      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+      "score": 10.0,
+      "sent_at": "2026-11-19T16:53:04.286955+00:00"
+    },
+    {
+      "arxiv_id": "2611.24738",
+      "title": "Jeveration: System One Models Now Generate",
+      "score": 9.0,
+      "sent_at": "2026-11-19T16:53:04.286970+00:00"
+    },
+    {
+      "arxiv_id": "2611.23068",
+      "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+      "score": 9.0,
+      "sent_at": "2026-11-19T16:53:04.286975+00:00"
+    },
+    {
+      "arxiv_id": "2611.21366",
+      "title": "ALIVE: Making Streaming Video Models Interactive",
+      "score": 9.0,
+      "sent_at": "2026-11-19T16:53:04.286979+00:00"
+    },
+    {
+      "arxiv_id": "2611.11318",
+      "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
+      "score": 9.0,
+      "sent_at": "2026-11-19T16:53:04.286985+00:00"
     }
   ],
   "posts": []
