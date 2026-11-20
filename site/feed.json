@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-20T15:12:19.664715+00:00",
+  "updated": "2026-11-20T16:28:06.047921+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.12806",
-      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "score": 9.0,
-      "sent_at": "2026-11-10T15:52:53.275965+00:00"
-    },
-    {
-      "arxiv_id": "2611.10771",
-      "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-11-10T15:52:53.275983+00:00"
-    },
-    {
-      "arxiv_id": "2611.12762",
-      "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-      "score": 9.0,
-      "sent_at": "2026-11-10T15:52:53.275986+00:00"
-    },
-    {
-      "arxiv_id": "2611.12886",
-      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
-      "score": 9.0,
-      "sent_at": "2026-11-10T15:52:53.275988+00:00"
-    },
-    {
-      "arxiv_id": "2610.42148",
-      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-      "score": 9.0,
-      "sent_at": "2026-11-10T15:52:53.275991+00:00"
-    },
     {
       "arxiv_id": "2611.14320",
       "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
@@ -300,6 +270,36 @@
       "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
       "score": 9.0,
       "sent_at": "2026-11-19T16:53:04.286985+00:00"
+    },
+    {
+      "arxiv_id": "2611.26444",
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "score": 9.0,
+      "sent_at": "2026-11-20T16:28:05.733213+00:00"
+    },
+    {
+      "arxiv_id": "2611.21373",
+      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "score": 9.0,
+      "sent_at": "2026-11-20T16:28:05.733229+00:00"
+    },
+    {
+      "arxiv_id": "2611.26409",
+      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "score": 9.0,
+      "sent_at": "2026-11-20T16:28:05.733233+00:00"
+    },
+    {
+      "arxiv_id": "2611.26590",
+      "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+      "score": 9.0,
+      "sent_at": "2026-11-20T16:28:05.733237+00:00"
+    },
+    {
+      "arxiv_id": "2611.21383",
+      "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+      "score": 9.0,
+      "sent_at": "2026-11-20T16:28:05.733243+00:00"
     }
   ],
   "posts": []
