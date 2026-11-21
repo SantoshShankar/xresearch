@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.28402",
-      "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579877+00:00"
-    },
-    {
-      "arxiv_id": "2610.26659",
-      "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579894+00:00"
-    },
-    {
-      "arxiv_id": "2610.29997",
-      "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579898+00:00"
-    },
-    {
-      "arxiv_id": "2610.29989",
-      "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579901+00:00"
-    },
-    {
-      "arxiv_id": "2610.28577",
-      "title": "Cache Engineering for Agents",
-      "score": 9.0,
-      "sent_at": "2026-10-22T13:15:35.579904+00:00"
-    },
-    {
       "arxiv_id": "2610.30340",
       "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles",
       "score": 11.0,
@@ -899,6 +869,36 @@
       "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
       "score": 9.0,
       "sent_at": "2026-11-20T16:28:05.733243+00:00"
+    },
+    {
+      "arxiv_id": "2611.26629",
+      "title": "Posterior Matching Distillation",
+      "score": 9.0,
+      "sent_at": "2026-11-21T15:42:24.231205+00:00"
+    },
+    {
+      "arxiv_id": "2611.26595",
+      "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+      "score": 9.0,
+      "sent_at": "2026-11-21T15:42:24.231220+00:00"
+    },
+    {
+      "arxiv_id": "2611.26603",
+      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "score": 9.0,
+      "sent_at": "2026-11-21T15:42:24.231224+00:00"
+    },
+    {
+      "arxiv_id": "2611.26380",
+      "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
+      "score": 9.0,
+      "sent_at": "2026-11-21T15:42:24.231226+00:00"
+    },
+    {
+      "arxiv_id": "2611.26073",
+      "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+      "score": 9.0,
+      "sent_at": "2026-11-21T15:42:24.231229+00:00"
     }
   ],
   "posts": []
