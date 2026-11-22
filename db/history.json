@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.30340",
-      "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles",
-      "score": 11.0,
-      "sent_at": "2026-10-23T12:54:48.289454+00:00"
-    },
-    {
-      "arxiv_id": "2610.31329",
-      "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
-      "score": 9.0,
-      "sent_at": "2026-10-23T12:54:48.289471+00:00"
-    },
-    {
-      "arxiv_id": "2610.30926",
-      "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-23T12:54:48.289473+00:00"
-    },
-    {
-      "arxiv_id": "2610.30181",
-      "title": "Deep Search in Real-World Web Environments",
-      "score": 9.0,
-      "sent_at": "2026-10-23T12:54:48.289476+00:00"
-    },
-    {
-      "arxiv_id": "2610.24738",
-      "title": "Editing Images into Reusable Layers via Compositional Edit-Prior Distillation",
-      "score": 9.0,
-      "sent_at": "2026-10-23T12:54:48.289477+00:00"
-    },
-    {
       "arxiv_id": "2610.30949",
       "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
       "score": 9.0,
       "sent_at": "2026-11-21T15:42:24.231229+00:00"
+    },
+    {
+      "arxiv_id": "2611.26517",
+      "title": "From Seed to BLOOM: Autonomously Growing a Better Out-of-Order Core",
+      "score": 6.0,
+      "sent_at": "2026-11-22T15:44:39.475161+00:00"
+    },
+    {
+      "arxiv_id": "2611.26398",
+      "title": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+      "score": 6.0,
+      "sent_at": "2026-11-22T15:44:39.475177+00:00"
+    },
+    {
+      "arxiv_id": "2611.26341",
+      "title": "Reasoning on Call: Efficient Agentic Robot Control for Long-Horizon Robot Manipulation",
+      "score": 6.0,
+      "sent_at": "2026-11-22T15:44:39.475178+00:00"
+    },
+    {
+      "arxiv_id": "2611.26157",
+      "title": "NariQ: Sub-3-Bit Quantization for Long-Horizon Agentic Tasks",
+      "score": 6.0,
+      "sent_at": "2026-11-22T15:44:39.475180+00:00"
+    },
+    {
+      "arxiv_id": "2611.26007",
+      "title": "System-One RSI: Building Muscle Memory for Interactive Agents through Guided Practice",
+      "score": 6.0,
+      "sent_at": "2026-11-22T15:44:39.475182+00:00"
     }
   ],
   "posts": []
