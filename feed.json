@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-23T07:02:55.347502+00:00",
+  "updated": "2026-11-23T19:34:16.063665+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.16409",
-      "title": "Experience-Handoff Reinforcement Learning for Recursive Self-Improvement",
-      "score": 10.0,
-      "sent_at": "2026-11-13T15:45:33.587243+00:00"
-    },
-    {
-      "arxiv_id": "2611.15777",
-      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
-      "score": 9.0,
-      "sent_at": "2026-11-13T15:45:33.587262+00:00"
-    },
-    {
-      "arxiv_id": "2611.14815",
-      "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
-      "score": 9.0,
-      "sent_at": "2026-11-13T15:45:33.587265+00:00"
-    },
-    {
-      "arxiv_id": "2611.13004",
-      "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
-      "score": 9.0,
-      "sent_at": "2026-11-13T15:45:33.587267+00:00"
-    },
-    {
-      "arxiv_id": "2611.15131",
-      "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
-      "score": 9.0,
-      "sent_at": "2026-11-13T15:45:33.587269+00:00"
-    },
     {
       "arxiv_id": "2611.16748",
       "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
@@ -300,6 +270,36 @@
       "title": "System-One RSI: Building Muscle Memory for Interactive Agents through Guided Practice",
       "score": 6.0,
       "sent_at": "2026-11-22T15:44:39.475182+00:00"
+    },
+    {
+      "arxiv_id": "2611.27193",
+      "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836007+00:00"
+    },
+    {
+      "arxiv_id": "2611.27963",
+      "title": "Non-penetrating World Models",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836025+00:00"
+    },
+    {
+      "arxiv_id": "2611.24636",
+      "title": "Clover-35B-A3B-Preview Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836027+00:00"
+    },
+    {
+      "arxiv_id": "2611.15449",
+      "title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836029+00:00"
+    },
+    {
+      "arxiv_id": "2611.27973",
+      "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836031+00:00"
     }
   ],
   "posts": []
