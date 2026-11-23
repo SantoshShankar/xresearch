@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.30949",
-      "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
-      "score": 9.0,
-      "sent_at": "2026-10-24T12:17:52.166337+00:00"
-    },
-    {
-      "arxiv_id": "2610.29677",
-      "title": "Toward Recursive Self-Improvement in Physical AI",
-      "score": 9.0,
-      "sent_at": "2026-10-24T12:17:52.166360+00:00"
-    },
-    {
-      "arxiv_id": "2610.25100",
-      "title": "Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models",
-      "score": 9.0,
-      "sent_at": "2026-10-24T12:17:52.166366+00:00"
-    },
-    {
-      "arxiv_id": "2610.23987",
-      "title": "What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models",
-      "score": 9.0,
-      "sent_at": "2026-10-24T12:17:52.166370+00:00"
-    },
-    {
-      "arxiv_id": "2610.27851",
-      "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
-      "score": 9.0,
-      "sent_at": "2026-10-24T12:17:52.166374+00:00"
-    },
-    {
       "arxiv_id": "2610.31355",
       "title": "Muffin - A Shared Memory Buffer for Asynchronous AI Agents",
       "score": 6.0,
@@ -899,6 +869,36 @@
       "title": "System-One RSI: Building Muscle Memory for Interactive Agents through Guided Practice",
       "score": 6.0,
       "sent_at": "2026-11-22T15:44:39.475182+00:00"
+    },
+    {
+      "arxiv_id": "2611.27193",
+      "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836007+00:00"
+    },
+    {
+      "arxiv_id": "2611.27963",
+      "title": "Non-penetrating World Models",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836025+00:00"
+    },
+    {
+      "arxiv_id": "2611.24636",
+      "title": "Clover-35B-A3B-Preview Technical Report",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836027+00:00"
+    },
+    {
+      "arxiv_id": "2611.15449",
+      "title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836029+00:00"
+    },
+    {
+      "arxiv_id": "2611.27973",
+      "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "score": 9.0,
+      "sent_at": "2026-11-23T19:34:15.836031+00:00"
     }
   ],
   "posts": []
