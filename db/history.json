@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.31355",
-      "title": "Muffin - A Shared Memory Buffer for Asynchronous AI Agents",
-      "score": 6.0,
-      "sent_at": "2026-10-25T12:48:59.802847+00:00"
-    },
-    {
-      "arxiv_id": "2610.31280",
-      "title": "Beyond Accuracy: Disentangling Decomposition from Typed-State Quality Assurance in Multi-Agent LLM Pipelines",
-      "score": 6.0,
-      "sent_at": "2026-10-25T12:48:59.802867+00:00"
-    },
-    {
-      "arxiv_id": "2610.31165",
-      "title": "Network topology shapes consensus and vulnerability in LLM populations",
-      "score": 6.0,
-      "sent_at": "2026-10-25T12:48:59.802870+00:00"
-    },
-    {
-      "arxiv_id": "2610.31105",
-      "title": "Who Is the Influencer? Consensus Dynamics in Multi-Agent Systems",
-      "score": 6.0,
-      "sent_at": "2026-10-25T12:48:59.802873+00:00"
-    },
-    {
-      "arxiv_id": "2610.30945",
-      "title": "Metacognitive Scaffolds Create Productive Friction for AI-Assisted Knowledge Work",
-      "score": 6.0,
-      "sent_at": "2026-10-25T12:48:59.802875+00:00"
-    },
-    {
       "arxiv_id": "2610.31668",
       "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
       "score": 9.0,
       "sent_at": "2026-11-23T19:34:15.836031+00:00"
+    },
+    {
+      "arxiv_id": "2611.30989",
+      "title": "WorldLeague: Benchmarking Physical Agency",
+      "score": 10.0,
+      "sent_at": "2026-11-24T19:14:24.839916+00:00"
+    },
+    {
+      "arxiv_id": "2611.29897",
+      "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839930+00:00"
+    },
+    {
+      "arxiv_id": "2611.31201",
+      "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839932+00:00"
+    },
+    {
+      "arxiv_id": "2611.30013",
+      "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839934+00:00"
+    },
+    {
+      "arxiv_id": "2611.30662",
+      "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839936+00:00"
     }
   ],
   "posts": []

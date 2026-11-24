@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-24T09:26:27.660495+00:00",
+  "updated": "2026-11-24T19:14:25.030002+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.16748",
-      "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
-      "score": 9.0,
-      "sent_at": "2026-11-14T14:35:11.897132+00:00"
-    },
-    {
-      "arxiv_id": "2611.15844",
-      "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
-      "score": 9.0,
-      "sent_at": "2026-11-14T14:35:11.897149+00:00"
-    },
-    {
-      "arxiv_id": "2611.17167",
-      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
-      "score": 9.0,
-      "sent_at": "2026-11-14T14:35:11.897151+00:00"
-    },
-    {
-      "arxiv_id": "2611.05984",
-      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
-      "score": 9.0,
-      "sent_at": "2026-11-14T14:35:11.897153+00:00"
-    },
-    {
-      "arxiv_id": "2611.17060",
-      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
-      "score": 9.0,
-      "sent_at": "2026-11-14T14:35:11.897156+00:00"
-    },
     {
       "arxiv_id": "2611.17114",
       "title": "Designing Institutions for Autonomous AI",
@@ -300,6 +270,36 @@
       "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
       "score": 9.0,
       "sent_at": "2026-11-23T19:34:15.836031+00:00"
+    },
+    {
+      "arxiv_id": "2611.30989",
+      "title": "WorldLeague: Benchmarking Physical Agency",
+      "score": 10.0,
+      "sent_at": "2026-11-24T19:14:24.839916+00:00"
+    },
+    {
+      "arxiv_id": "2611.29897",
+      "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839930+00:00"
+    },
+    {
+      "arxiv_id": "2611.31201",
+      "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839932+00:00"
+    },
+    {
+      "arxiv_id": "2611.30013",
+      "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839934+00:00"
+    },
+    {
+      "arxiv_id": "2611.30662",
+      "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
+      "score": 9.0,
+      "sent_at": "2026-11-24T19:14:24.839936+00:00"
     }
   ],
   "posts": []
