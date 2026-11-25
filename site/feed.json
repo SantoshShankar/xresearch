@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-25T07:59:44.889803+00:00",
+  "updated": "2026-11-25T18:14:34.167018+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.17114",
-      "title": "Designing Institutions for Autonomous AI",
-      "score": 6.0,
-      "sent_at": "2026-11-15T15:02:59.587132+00:00"
-    },
-    {
-      "arxiv_id": "2611.16991",
-      "title": "AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design",
-      "score": 6.0,
-      "sent_at": "2026-11-15T15:02:59.587147+00:00"
-    },
-    {
-      "arxiv_id": "2611.16861",
-      "title": "Visual Cipher Bench: Benchmarking LLM Agents on Long-Horizon Visual Reasoning",
-      "score": 6.0,
-      "sent_at": "2026-11-15T15:02:59.587150+00:00"
-    },
-    {
-      "arxiv_id": "2611.16726",
-      "title": "From Data to Wisdom: Rethinking AI Through an Epistemic Lens",
-      "score": 6.0,
-      "sent_at": "2026-11-15T15:02:59.587153+00:00"
-    },
-    {
-      "arxiv_id": "2611.16082",
-      "title": "Gradient-Aware AI Agents for Autonomous Turbulence Model Discovery via Differentiable CFD",
-      "score": 6.0,
-      "sent_at": "2026-11-15T15:02:59.587157+00:00"
-    },
     {
       "arxiv_id": "2611.17820",
       "title": "Aligning AI Teams",
@@ -300,6 +270,36 @@
       "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
       "score": 9.0,
       "sent_at": "2026-11-24T19:14:24.839936+00:00"
+    },
+    {
+      "arxiv_id": "2611.25403",
+      "title": "Antom 3-in-1 Transformer: A Payment Foundation Model",
+      "score": 9.0,
+      "sent_at": "2026-11-25T18:14:33.668046+00:00"
+    },
+    {
+      "arxiv_id": "2611.32884",
+      "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+      "score": 9.0,
+      "sent_at": "2026-11-25T18:14:33.668064+00:00"
+    },
+    {
+      "arxiv_id": "2611.28947",
+      "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+      "score": 9.0,
+      "sent_at": "2026-11-25T18:14:33.668069+00:00"
+    },
+    {
+      "arxiv_id": "2611.30634",
+      "title": "Rewirable Circuits in Transformers with Loom Attention",
+      "score": 9.0,
+      "sent_at": "2026-11-25T18:14:33.668074+00:00"
+    },
+    {
+      "arxiv_id": "2611.31205",
+      "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+      "score": 9.0,
+      "sent_at": "2026-11-25T18:14:33.668078+00:00"
     }
   ],
   "posts": []
