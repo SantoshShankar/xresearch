@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-26T07:50:05.870804+00:00",
+  "updated": "2026-11-26T17:56:25.185294+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.17820",
-      "title": "Aligning AI Teams",
-      "score": 10.0,
-      "sent_at": "2026-11-16T17:35:05.305715+00:00"
-    },
-    {
-      "arxiv_id": "2611.17955",
-      "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
-      "score": 10.0,
-      "sent_at": "2026-11-16T17:35:05.305732+00:00"
-    },
-    {
-      "arxiv_id": "2611.17440",
-      "title": "Interpreting Coding Agents Through Their Behavioral Trajectories",
-      "score": 10.0,
-      "sent_at": "2026-11-16T17:35:05.305735+00:00"
-    },
-    {
-      "arxiv_id": "2611.18359",
-      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
-      "score": 9.0,
-      "sent_at": "2026-11-16T17:35:05.305738+00:00"
-    },
-    {
-      "arxiv_id": "2611.18397",
-      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
-      "score": 9.0,
-      "sent_at": "2026-11-16T17:35:05.305741+00:00"
-    },
     {
       "arxiv_id": "2611.21607",
       "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
@@ -300,6 +270,36 @@
       "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
       "score": 9.0,
       "sent_at": "2026-11-25T18:14:33.668078+00:00"
+    },
+    {
+      "arxiv_id": "2611.34675",
+      "title": "RoboEvo^2: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
+      "score": 10.0,
+      "sent_at": "2026-11-26T17:56:24.985367+00:00"
+    },
+    {
+      "arxiv_id": "2611.34849",
+      "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985395+00:00"
+    },
+    {
+      "arxiv_id": "2611.34575",
+      "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985397+00:00"
+    },
+    {
+      "arxiv_id": "2611.34923",
+      "title": "Mixture-of-Loops Transformer",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985399+00:00"
+    },
+    {
+      "arxiv_id": "2611.34237",
+      "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985401+00:00"
     }
   ],
   "posts": []
