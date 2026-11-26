@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.34238",
-      "title": "Δτ-Bench: Pushing Agents Toward a Moving Capability",
-      "score": 10.0,
-      "sent_at": "2026-10-27T13:41:35.798869+00:00"
-    },
-    {
-      "arxiv_id": "2610.33568",
-      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798885+00:00"
-    },
-    {
-      "arxiv_id": "2610.34662",
-      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798889+00:00"
-    },
-    {
-      "arxiv_id": "2610.34467",
-      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798893+00:00"
-    },
-    {
-      "arxiv_id": "2610.32285",
-      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
-      "score": 9.0,
-      "sent_at": "2026-10-27T13:41:35.798896+00:00"
-    },
-    {
       "arxiv_id": "2610.36077",
       "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
       "score": 9.0,
       "sent_at": "2026-11-25T18:14:33.668078+00:00"
+    },
+    {
+      "arxiv_id": "2611.34675",
+      "title": "RoboEvo^2: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
+      "score": 10.0,
+      "sent_at": "2026-11-26T17:56:24.985367+00:00"
+    },
+    {
+      "arxiv_id": "2611.34849",
+      "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985395+00:00"
+    },
+    {
+      "arxiv_id": "2611.34575",
+      "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985397+00:00"
+    },
+    {
+      "arxiv_id": "2611.34923",
+      "title": "Mixture-of-Loops Transformer",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985399+00:00"
+    },
+    {
+      "arxiv_id": "2611.34237",
+      "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-26T17:56:24.985401+00:00"
     }
   ],
   "posts": []
