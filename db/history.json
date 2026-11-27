@@ -1,36 +1,6 @@
 {
   "papers": [
     {
-      "arxiv_id": "2610.36077",
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "score": 9.0,
-      "sent_at": "2026-10-28T14:36:30.454608+00:00"
-    },
-    {
-      "arxiv_id": "2610.34283",
-      "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
-      "score": 9.0,
-      "sent_at": "2026-10-28T14:36:30.454625+00:00"
-    },
-    {
-      "arxiv_id": "2610.37381",
-      "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
-      "score": 9.0,
-      "sent_at": "2026-10-28T14:36:30.454629+00:00"
-    },
-    {
-      "arxiv_id": "2610.36729",
-      "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
-      "score": 9.0,
-      "sent_at": "2026-10-28T14:36:30.454632+00:00"
-    },
-    {
-      "arxiv_id": "2610.24520",
-      "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory",
-      "score": 9.0,
-      "sent_at": "2026-10-28T14:36:30.454635+00:00"
-    },
-    {
       "arxiv_id": "2610.35201",
       "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
       "score": 9.0,
@@ -899,6 +869,36 @@
       "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
       "score": 9.0,
       "sent_at": "2026-11-26T17:56:24.985401+00:00"
+    },
+    {
+      "arxiv_id": "2611.34051",
+      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808339+00:00"
+    },
+    {
+      "arxiv_id": "2611.34232",
+      "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808356+00:00"
+    },
+    {
+      "arxiv_id": "2611.31619",
+      "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808362+00:00"
+    },
+    {
+      "arxiv_id": "2611.34813",
+      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808366+00:00"
+    },
+    {
+      "arxiv_id": "2611.34457",
+      "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808369+00:00"
     }
   ],
   "posts": []
