@@ -1,36 +1,6 @@
 {
-  "updated": "2026-11-27T07:50:10.469263+00:00",
+  "updated": "2026-11-27T17:41:42.051055+00:00",
   "papers": [
-    {
-      "arxiv_id": "2611.21607",
-      "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
-      "score": 10.0,
-      "sent_at": "2026-11-17T17:08:53.171482+00:00"
-    },
-    {
-      "arxiv_id": "2611.21072",
-      "title": "Sage S2.1 Flash Technical Report",
-      "score": 9.0,
-      "sent_at": "2026-11-17T17:08:53.171502+00:00"
-    },
-    {
-      "arxiv_id": "2611.19937",
-      "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
-      "score": 9.0,
-      "sent_at": "2026-11-17T17:08:53.171507+00:00"
-    },
-    {
-      "arxiv_id": "2611.21218",
-      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-      "score": 9.0,
-      "sent_at": "2026-11-17T17:08:53.171511+00:00"
-    },
-    {
-      "arxiv_id": "2611.21003",
-      "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-      "score": 9.0,
-      "sent_at": "2026-11-17T17:08:53.171519+00:00"
-    },
     {
       "arxiv_id": "2611.21791",
       "title": "Regularized Score Centering",
@@ -300,6 +270,36 @@
       "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
       "score": 9.0,
       "sent_at": "2026-11-26T17:56:24.985401+00:00"
+    },
+    {
+      "arxiv_id": "2611.34051",
+      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808339+00:00"
+    },
+    {
+      "arxiv_id": "2611.34232",
+      "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808356+00:00"
+    },
+    {
+      "arxiv_id": "2611.31619",
+      "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808362+00:00"
+    },
+    {
+      "arxiv_id": "2611.34813",
+      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808366+00:00"
+    },
+    {
+      "arxiv_id": "2611.34457",
+      "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+      "score": 9.0,
+      "sent_at": "2026-11-27T17:41:41.808369+00:00"
     }
   ],
   "posts": []
